@@ -1,0 +1,102 @@
+{
+  "seuil_alerte": 7.0,
+  "jours_max": 30,
+  "sources": [
+    {
+      "nom": "ArchDaily",
+      "type": "rss",
+      "url": "https://www.archdaily.com/feed",
+      "craap": {
+        "actualite": 5,
+        "pertinence": 4,
+        "autorite": 4,
+        "fiabilite": 4,
+        "objectif": 3
+      }
+    },
+    {
+      "nom": "Common Edge",
+      "type": "rss",
+      "url": "https://commonedge.org/feed/",
+      "craap": {
+        "actualite": 3,
+        "pertinence": 3,
+        "autorite": 3,
+        "fiabilite": 4,
+        "objectif": 2
+      }
+    },
+    {
+      "nom": "Canadian Architect",
+      "type": "rss",
+      "url": "https://www.canadianarchitect.com/feed/",
+      "craap": {
+        "actualite": 4,
+        "pertinence": 3,
+        "autorite": 3,
+        "fiabilite": 4,
+        "objectif": 3
+      }
+    },
+    {
+      "nom": "Graphisoft",
+      "type": "rss",
+      "url": "https://graphisoft.com/feed",
+      "craap": {
+        "actualite": 4,
+        "pertinence": 4,
+        "autorite": 4,
+        "fiabilite": 4,
+        "objectif": 1
+      }
+    },
+    {
+      "nom": "arXiv (IA x construction)",
+      "type": "arxiv",
+      "url": "https://export.arxiv.org/api/query?search_query=(all:%22building+information+modeling%22+OR+all:%22construction+site%22+OR+all:%22generative+design%22+OR+all:%22digital+twin%22+AND+all:building)+AND+(cat:cs.AI+OR+cat:cs.CV+OR+cat:cs.RO+OR+cat:cs.LG)&sortBy=submittedDate&sortOrder=descending&max_results=30",
+      "craap": {
+        "actualite": 5,
+        "pertinence": 4,
+        "autorite": 3,
+        "fiabilite": 2,
+        "objectif": 4
+      }
+    },
+    {
+      "nom": "Google Actualités (EN)",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=artificial+intelligence+construction&hl=en-US&gl=US&ceid=US:en",
+      "craap": {
+        "actualite": 5,
+        "pertinence": 4,
+        "autorite": 3,
+        "fiabilite": 3,
+        "objectif": 3
+      }
+    },
+    {
+      "nom": "Google Actualités (FR)",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=intelligence+artificielle+construction&hl=fr&gl=FR&ceid=FR:fr",
+      "craap": {
+        "actualite": 5,
+        "pertinence": 4,
+        "autorite": 3,
+        "fiabilite": 3,
+        "objectif": 3
+      }
+    },
+    {
+      "nom": "Construction Dive",
+      "type": "rss",
+      "url": "https://www.constructiondive.com/feeds/news/",
+      "craap": {
+        "actualite": 5,
+        "pertinence": 4,
+        "autorite": 4,
+        "fiabilite": 4,
+        "objectif": 3
+      }
+    }
+  ]
+}

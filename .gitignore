@@ -1,0 +1,85 @@
+# Environment variables / Secrets (VERY IMPORTANT)
+
+.env
+
+.env.*
+
+!.env.example
+
+
+
+# Python cache and compiled files
+
+__pycache__/
+
+*.py[cod]
+
+*$py.class
+
+*.so
+
+
+
+# Virtual Environments
+
+.venv/
+
+venv/
+
+ENV/
+
+env/
+
+env.bak/
+
+venv.bak/
+
+
+
+# IDE & Code Editors
+
+.vscode/
+
+.idea/
+
+*.swp
+
+*.swo
+
+
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# Logs and databases
+
+*.log
+
+*.sqlite
+
+*.sqlite3
+
+
+
+# Distribution / Packaging
+
+build/
+
+devel/
+
+dist/
+
+downloads/
+
+eggs/
+
+.eggs/
+
+*.egg-info/
+
+*.egg
