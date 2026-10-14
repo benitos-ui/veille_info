@@ -3,7 +3,7 @@ Usage : python main.py          (vraie collecte)
         python main.py --demo   (faux articles, sans internet)"""
 import json, sys, time
 from datetime import datetime, timezone, timedelta
-import collecte, filtre, doublons, llm, scoring, sortie, dashboard, alertes, rapport_pdf
+import collecte, filtre, doublons, llm, scoring, sortie, dashboard, alertes, rapport_web
 from base_vectorielle import Base
 
 DEMO = "--demo" in sys.argv
@@ -91,12 +91,16 @@ def main():
     sortie.ecrire_rapport(RAPPORT, lignes, ecartes, erreurs, config["seuil_alerte"], {"lus": len(articles), "pertinents": len(pertinents)})
     base.sauver()
     sortie.sauver_liens(LIENS, liens)
-    dashboard.ecrire(PAGE, sortie.lire_csv(CSV)[-200:], config["seuil_alerte"])
     sortie.ecrire_journal(JOURNAL, f"{maintenant:%Y-%m-%d}", {"lus": len(articles), "retenus": len(lignes)}, config["seuil_alerte"], journal)
-    try:                                                  # le PDF est un bonus : son échec ne bloque pas la veille
-        print("PDF :", rapport_pdf.generer(JOURNAL, f"{P}rapport"))
+    html_page = csv_page = None
+    try:                                                  # rapport du jour : page web + CSV (le programme ne s'arrête pas si ça échoue)
+        rapport_web.ecrire_html(JOURNAL, f"docs/{P}rapport.html")
+        html_page = f"{P}rapport.html"
+        rapport_web.ecrire_csv(JOURNAL, f"docs/{P}rapport.csv")
+        csv_page = f"{P}rapport.csv"
     except Exception as e:
-        print("  ✗ rapport PDF non généré :", e)
+        print("  ✗ rapport non généré :", e)
+    dashboard.ecrire(PAGE, sortie.lire_csv(CSV)[-200:], config["seuil_alerte"], html_page, csv_page)
     alertes.discord([l for l in lignes if l["score"] >= config["seuil_alerte"]])
 
     print(f"Lus {len(articles)} | pertinents {len(pertinents)} | écartés {len(ecartes)} | nouvelles fiches {len(lignes)}")

@@ -24,7 +24,7 @@ a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(-
 @media(max-width:520px){li{grid-template-columns:2.6rem 1fr;gap:0 10px}}
 </style></head><body><main>
 <h1>Veille IA × Architecture &amp; BTP</h1>
-<p class="sous" id="sous"></p>
+<p class="sous" id="sous"></p>__PDF__
 <div class="filtres">
  <input type="search" id="q" placeholder="Rechercher" aria-label="Rechercher">
  <select id="phase" aria-label="Phase"></select>
@@ -72,8 +72,9 @@ function afficher() {
 }
 
 function ligne(d) {
-  const meta = [d.phase, d.editeur || d.source, d.date_pub, "TRL " + d.trl + "/9", "pertinence " + fmt(d.pertinence), "impact " + fmt(d.impact), "fiabilité " + fmt(d.fiabilite),
-                d.methode == "LLM" ? "" : "analyse par mots-clés", d.score >= SEUIL ? "alerte" : ""].filter(Boolean).join(" · ");
+  const llm = d.methode == "LLM";      // sans LLM, TRL / pertinence / impact sont des valeurs par défaut : on ne les montre pas
+  const meta = [d.phase, d.editeur || d.source, d.date_pub, llm ? "TRL " + d.trl + "/9" : "", llm ? "pertinence " + fmt(d.pertinence) : "", llm ? "impact " + fmt(d.impact) : "",
+                "fiabilité de la source " + fmt(d.fiabilite), llm ? "" : "score estimé (analyse par mots-clés)", d.score >= SEUIL ? "alerte" : ""].filter(Boolean).join(" · ");
   return `<li class="${d.score >= SEUIL ? "chaud" : ""}"><div class="note" title="Score /10">${fmt(d.score)}</div><div>
     <h2><a href="${h(sûr(d.lien))}" target="_blank" rel="noopener noreferrer">${h(d.titre)}</a></h2>
     <p class="meta">${h(meta)}</p>${d.resume ? `<p class="resume">${h(d.resume)}</p>` : ""}
@@ -89,7 +90,19 @@ controles(); afficher();
 </script></body></html>"""
 
 
-def ecrire(chemin, lignes, seuil):
+def liens_rapport(html, csv):
+    """Ligne de liens vers le rapport du jour : page web, version téléchargeable, tableur."""
+    if not html:
+        return ""
+    jour = f"{datetime.now():%Y-%m-%d}"
+    liens = [f'<a class="orig" href="{html}">Lire le rapport du jour</a>',
+             f'<a class="orig" href="{html}" download="rapport-veille-{jour}.html">Télécharger (HTML) ↓</a>']
+    if csv:
+        liens.append(f'<a class="orig" href="{csv}" download="rapport-veille-{jour}.csv">Télécharger (Excel/CSV) ↓</a>')
+    return '<p class="sous">' + " · ".join(liens) + ' <span style="color:var(--doux)">articles retenus et rejetés, avec les raisons</span></p>'
+
+
+def ecrire(chemin, lignes, seuil, html=None, csv=None):
     donnees = json.dumps(lignes, ensure_ascii=False).replace("</", "<\\/")
-    page = PAGE.replace("__DATA__", donnees).replace("__SEUIL__", str(seuil)).replace("__DATE__", f"{datetime.now():%d/%m/%Y}")
+    page = PAGE.replace("__DATA__", donnees).replace("__SEUIL__", str(seuil)).replace("__PDF__", liens_rapport(html, csv)).replace("__DATE__", f"{datetime.now():%d/%m/%Y}")
     open(chemin, "w", encoding="utf-8").write(page)
