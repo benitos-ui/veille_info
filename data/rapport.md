@@ -1,88 +1,32 @@
-# Veille IA × Architecture & BTP — 2026-10-15
+# Veille IA × Architecture & BTP — 2026-10-16
 
-- Articles lus : 298 · pertinents : 18 · écartés : 2 · nouvelles fiches : 16
+- Articles lus : 298 · pertinents : 18 · écartés : 16 · nouvelles fiches : 2
 
-## [From Hollywood farm to AI startup: Wicklow engineer aims to transform construction industry - Irish Independent](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPekN1dV8zVXByOUxQTk1hQU1CQTQ0RWIwRUVIQTNPektyeVI3Tm9NZHczOFJ3ZmhiZ1pRd3hKSkd1OEMyb2pBRW9kVjViTUpOcE9MeTM1WTQ2ZlBrT1ZpTmJCNnRjVXZPMlZIV1p4eHQ2OWJsbEZSSFlrUS0yZENqT0dRak9NRWw3SHlSYVlNaU1WN0ZJMzVycXZtRUo0WXQwZUNBZGU1WHdSWURSQmszRl9DM1ozMHBPOWcyWVBmTjNvbDB0Yi1XczdMRlBQb3dhR05zazJlTUpWZUZaQ3NyYmdVZw?oc=5)
-*Conception · Google Actualités (EN) · score **6.1/10** · TRL 6/9 · analysé par : mots-clés*
+## [Construction d'infrastructures réseau pour l'ère de l'IA au Vietnam. - Vietnam.vn](https://news.google.com/rss/articles/CBMigwFBVV95cUxPVl9ubGlNMWZZbWdDWDJTTVVmOGhIOUp2ME84OFNNREowVDRvSlVtS3N4dHlNSXlFckl0Ukp4YWx5QXBBcjNEYVZFMzlaZjlTWWVYOUs3OG4wcV9jOEwxRWlqSDhGN1BrNVItX1VteTdyRGRqN2lBdHZuRHRUeWpLRzNrcw?oc=5)
+*Conception · Google Actualités (FR) · score **5.8/10** · TRL 6/9 · analysé par : mots-clés*
 
-From Hollywood farm to AI startup: Wicklow engineer aims to transform construction industry Irish Independent
+Construction d'infrastructures réseau pour l'ère de l'IA au Vietnam. Vietnam.vn
 
-## [IA dans le BTP : Pourquoi le secteur tarde à l'adopter ? - Presse Agence](https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTZuMlVzc3Q4OXpBRHRFM3ZmSG5RSkZOcG14dTVsWjI5d1BtdUs3dXp5RlMwLUhFYzdva2pUSjNqTEVMUHczNEYyYzR1V0FkREtBRElZanBJNFprdG16cXg3bk5Vem5iWGFmMUNPWnlZQlFSTy1WYXpYalVOOW1Za0dVZk1HZWZRTVhxVzJObVZFS2Z3SExNLVhXWDR0ZEtzMVRMWg?oc=5)
-*Conception · Google Actualités (FR) · score **6.1/10** · TRL 6/9 · analysé par : mots-clés*
+## 🔔 [Origin Raises $20M to Scale Autonomous Construction Robots - AI Insider](https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0VuMDNpX0xEaVBIRTNOeUMyaFJNUlRtNkh6dk9MR2hIdUxQX0ZTNnVESEpwMExfcG1uT2s5SFdWLVJ5UXhoMGh5Y083MGUyb2x5OEh3OWNKZlVQdHhlaXkyRWk3SDlTLXZPOVRyQzZxUy10dDQ2TVI2akJsS3dzcVZfbnJMeW9tWlhraUFOaDZiUjVjblBDQ3JBRQ?oc=5)
+*Chantier · Google Actualités (EN) · score **7.7/10** · TRL 7/9 · analysé par : LLM*
 
-IA dans le BTP : Pourquoi le secteur tarde à l'adopter ? Presse Agence
-
-## [Localized Generative Design of Ship Hulls with Diffusion Models and High-Fidelity Assessment](https://arxiv.org/abs/2610.12870v1)
-*Conception · arXiv (IA x construction) · score **5.9/10** · TRL 4/9 · analysé par : mots-clés*
-
-Practical ship design requires localized refinement and performance evaluation. This paper presents a reward-directed diffusion framework for localized hull optimization. Parametric masking during dataset generation restricts geometric changes to selected variables, including the
-
-## [TRACE: Learning to Self-Calibrate Wireless Digital Twins from ISAC Measurements](https://arxiv.org/abs/2609.32923v2)
-*Conception · arXiv (IA x construction) · score **5.9/10** · TRL 4/9 · analysé par : mots-clés*
-
-Wireless digital twins (DTs) rely on 3D environment models to predict radio propagation and support wireless-network decisions, yet these models are often initialized from imperfect 3D maps. Errors in building position, height, footprint, and orientation can therefore cause a hig
-
-## [Face à la baisse des appels d’offres, les acteurs du BTP des Hauts-de-France adoptent l’intelligence artificielle pour gagner en efficience et en compétitivité - Le Moniteur](https://news.google.com/rss/articles/CBMixwJBVV95cUxNMDJyQUtJZ253T1RwaU9HR3c3TkZtUWJvM3kwaVM5YzdfcVJLY0hUTVY3YUduR3V5LTJkOFNHQWxGLVZEemkzSi1iX2xYSlh3Q0phVHAwNGNRQzNvakwtejd0d1N0ZVowakM2STh2eXNmd3hhczhjeHUyRUJURTF4NFRiWlRWeHk0SHBiQ09seGs1VGRuZE5oenNPcERXUkkxNFZ2QjRTVXp2VzRwXzBMTkJjZHYwNTY0VVV1cmJVX2xEYWwtMTE0azU2OElRYThOZHpob3hkT3E5VWN6Wlg4dE80OGdfRlpid3dpbUh4Zm9sMHlic2NLd3hzSXlEa3NzUHBiSkNBeW1qWXNjMEtFY1FPSFhJT0lBWTU5VF9LRkhuN2FFODVOeXZSak9ReUFHVXcwWWpoUmdWQ2Q4QXZRRS1scjVFUWc?oc=5)
-*Conception · Google Actualités (FR) · score **5.6/10** · TRL 6/9 · analysé par : mots-clés*
-
-Face à la baisse des appels d’offres, les acteurs du BTP des Hauts-de-France adoptent l’intelligence artificielle pour gagner en efficience et en compétitivité Le Moniteur
-
-## [MIT, Suffolk Release Joint Study on How Artificial Intelligence is Transforming the Construction Industry - Business Wire](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3V0YklsX0x4M0htcDk0bjFaNTdHa2pkY1RfdW0xZXowQVBVVlFYX2hOYi1TZWZMLXFtNG54NmFZZ21Pc2VPTnAwY3hGVnZkZFhhSHN6U0hfbFhKeU95cDVUbFdka0RhYjBzTkxYVlBWdk5QdHpEV1VvN3prWUtaX3FHTTJPZFdaYXctQkpDTjAySGVlUkc2UlVuZnBseTBuelVKOTRpa0F6ME5xbzA2Z2U3R2ROdXA3cFJfSFh2aG50bm1ndGZYVS00b3c0d3dvQVVtUWNzSE81ZktuS3RqUkhHRjl3MW54TmhEMXNiWnBKeW8?oc=5)
-*Conception · Google Actualités (EN) · score **5.5/10** · TRL 8/9 · analysé par : mots-clés*
-
-MIT, Suffolk Release Joint Study on How Artificial Intelligence is Transforming the Construction Industry Business Wire
-
-## [Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction](https://arxiv.org/abs/2609.25578v1)
-*Conception · arXiv (IA x construction) · score **5.3/10** · TRL 4/9 · analysé par : mots-clés*
-
-Urban-scale 3D reconstruction from satellite imagery supports disaster response, city monitoring, and geospatial digital twins, yet neural rendering methods typically optimize average visual fidelity rather than the structures that analysts inspect first: buildings. We present an
-
-## [Modeling and Generative-AI-Based Design of Load-Adaptive Gravity Balancing Mechanisms](https://arxiv.org/abs/2609.31386v1)
-*Conception · arXiv (IA x construction) · score **5.2/10** · TRL 4/9 · analysé par : mots-clés*
-
-Load-adaptive gravity balancing mechanisms (LA-GBMs) can accommodate various loading conditions by passively changing their characteristics in response to payload variations. However, their design is difficult because both the desired mechanism motion and static equilibrium under
-
-## [Chaîne d’approvisionnement BTP : quel rôle pour l’IA ? - Batiweb](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEJpODh2ZVhMVUdfZjVsSjRfbFY4OEVaeC1zZ1JsMW0yY29ZZ1E0X3pkYkxwVE03S2VvMnowQ0dYWmExQjNMcW84RzkxeDJYaDh3ZGdMNWpYWGJLcTNZNkVETi1udFhxVVFNU1N3cUQ3M21wVXQ2YzlJUTVTdVpQRk1HRTlXRVk?oc=5)
-*Conception · Google Actualités (FR) · score **5.2/10** · TRL 6/9 · analysé par : mots-clés*
-
-Chaîne d’approvisionnement BTP : quel rôle pour l’IA ? Batiweb
-
-## [Growth-Inspired Graph Generation and Inverse Design of Mechanical Lattices via Dot Matrices Database Augmentation and GCNN](https://arxiv.org/abs/2609.29024v1)
-*Conception · arXiv (IA x construction) · score **5.1/10** · TRL 4/9 · analysé par : mots-clés*
-
-Natural load-bearing and transport networks are not assembled in a single step; they emerge through a temporally ordered process of growth, branching, reinforcement, and loop formation. Inspired by this developmental logic, this work introduces a morphogenetic graph-generation fr
-
-## [CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites](https://arxiv.org/abs/2610.03622v1)
-*Chantier · arXiv (IA x construction) · score **6.9/10** · TRL 5/9 · analysé par : LLM*
-
-CORNAV est un système de navigation pour robots autonomes qui exploite des plans CAD 2D et des plannings de travaux pour s'adapter aux contraintes spécifiques des chantiers. Grâce à un module de sécurité piloté par un LLM et des graphes 3D, il a fait passer le taux de réussite des tâches de navigation de 13,0 % à 72,2 % sur un chantier réel.
-
-## [Vision-enabled detection of safety helmet compliance in construction zones](https://arxiv.org/abs/2610.05756v1)
-*Chantier · arXiv (IA x construction) · score **6.7/10** · TRL 4/9 · analysé par : mots-clés*
-
-In the rapidly evolving field of construction management, worker safety remains a top priority. This paper introduces an innovative vision-based system for real-time detection of helmet compliance, specifically designed for construction sites, utilizing advanced computer vision t
-
-## [BS Hanyang Rolls Out AI Assistant for Construction Sites - Seoul Economic Daily](https://news.google.com/rss/articles/CBMinwFBVV95cUxObVg2X2V6R0swcW5zY3R0TXprSXNrbnE4QjJ0aGtLMGNVbkVMb0FBWGNPNGY3elhZQVRQN0hMN1lYQWhwYkpHYk45N3BLRjZ6M2cxSnNjTVA2X0VJam45TWpIZ05lc1RrMXNweHVWUmJqVTFIblZGVWpQc1RaNzNjRF84cEYtd3hWdTZfVnVLdHlCekgzRnVhcEZZU21IT0E?oc=5)
-*Chantier · Google Actualités (EN) · score **6.1/10** · TRL 6/9 · analysé par : mots-clés*
-
-BS Hanyang Rolls Out AI Assistant for Construction Sites Seoul Economic Daily
-
-## [Skill Sequence Planning for Collaborative Multi-Robot Construction](https://arxiv.org/abs/2609.25649v1)
-*Chantier · arXiv (IA x construction) · score **6.0/10** · TRL 4/9 · analysé par : LLM*
-
-Cet article présente une méthode de planification de séquences permettant à des équipes de robots collaboratifs et hétérogènes d'exécuter des tâches d'assemblage en construction. Le système s'appuie sur une représentation numérique du bâtiment pour générer des plans de mouvement sans collision, contrôlés et validés par des opérateurs humains via un jumeau numérique.
-
-## [Le prochain avantage concurrentiel de la construction : les chantiers intelligents - Unite.AI](https://news.google.com/rss/articles/CBMibkFVX3lxTE0yRFBRbHliYUl0WVVrc090ZUs4LWZrX3F4X2xJaWRqU2t4Zld2TkxDeXNQWk9qUzRjRGcwQk9RV1VBaDlpVHZVT1dPRHVWTEY0d1p2VFFQclpYOVBRSlZuM0JrTHRzNmpreFE4YU1R?oc=5)
-*Chantier · Google Actualités (FR) · score **5.9/10** · TRL 6/9 · analysé par : mots-clés*
-
-Le prochain avantage concurrentiel de la construction : les chantiers intelligents Unite.AI
-
-## [DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models](https://arxiv.org/abs/2610.18635v1)
-*Exploitation · arXiv (IA x construction) · score **6.2/10** · TRL 4/9 · analysé par : LLM*
-
-Cet article explore l'automatisation de la création de modèles et de rapports pour les jumeaux numériques à l'aide de grands modèles de langage (LLM) locaux. La méthode s'appuie sur l'extraction d'informations clés et des boucles de raffinement ontologique pour produire des représentations de haute qualité.
+La société Origin a réussi une levée de fonds de 20 millions de dollars. Ce financement permettra d'augmenter l'échelle de déploiement de ses robots de construction autonomes.
 
 ## Articles écartés (doublons ou hors sujet)
 
-- Now That Information Is Free, What’s a College Campus For? — même sens (1.00)
-- Generative AI arrives at architecture’s stoop — même sens (1.00)
+- Now That Information Is Free, What’s a College Campus For? — lien déjà connu
+- DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models — lien déjà connu
+- Localized Generative Design of Ship Hulls with Diffusion Models and High-Fidelity Assessment — lien déjà connu
+- Vision-enabled detection of safety helmet compliance in construction zones — lien déjà connu
+- CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites — lien déjà connu
+- TRACE: Learning to Self-Calibrate Wireless Digital Twins from ISAC Measurements — lien déjà connu
+- Modeling and Generative-AI-Based Design of Load-Adaptive Gravity Balancing Mechanisms — lien déjà connu
+- Growth-Inspired Graph Generation and Inverse Design of Mechanical Lattices via Dot Matrices Database Augmentation and GCNN — lien déjà connu
+- Skill Sequence Planning for Collaborative Multi-Robot Construction — lien déjà connu
+- Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction — lien déjà connu
+- MIT, Suffolk Release Joint Study on How Artificial Intelligence is Transforming the Construction Industry - Business Wire — lien déjà connu
+- From Hollywood farm to AI startup: Wicklow engineer aims to transform construction industry - Irish Independent — lien déjà connu
+- IA dans le BTP : Pourquoi le secteur tarde à l'adopter ? - Presse Agence — lien déjà connu
+- Le prochain avantage concurrentiel de la construction : les chantiers intelligents - Unite.AI — lien déjà connu
+- Face à la baisse des appels d’offres, les acteurs du BTP des Hauts-de-France adoptent l’intelligence artificielle pour gagner en efficience et en compétitivité - Le Moniteur — lien déjà connu
+- Chaîne d’approvisionnement BTP : quel rôle pour l’IA ? - Batiweb — lien déjà connu
