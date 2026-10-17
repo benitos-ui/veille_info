@@ -1,16 +1,11 @@
-# Veille IA × Architecture & BTP — 2026-10-16
+# Veille IA × Architecture & BTP — 2026-10-17
 
-- Articles lus : 298 · pertinents : 18 · écartés : 16 · nouvelles fiches : 2
+- Articles lus : 298 · pertinents : 15 · écartés : 14 · nouvelles fiches : 1
 
-## [Construction d'infrastructures réseau pour l'ère de l'IA au Vietnam. - Vietnam.vn](https://news.google.com/rss/articles/CBMigwFBVV95cUxPVl9ubGlNMWZZbWdDWDJTTVVmOGhIOUp2ME84OFNNREowVDRvSlVtS3N4dHlNSXlFckl0Ukp4YWx5QXBBcjNEYVZFMzlaZjlTWWVYOUs3OG4wcV9jOEwxRWlqSDhGN1BrNVItX1VteTdyRGRqN2lBdHZuRHRUeWpLRzNrcw?oc=5)
-*Conception · Google Actualités (FR) · score **5.8/10** · TRL 6/9 · analysé par : mots-clés*
+## 🔔 [À Hanoï, il est obligatoire de surveiller les niveaux de poussière sur 100 % des grands chantiers de construction à l'aide de capteurs, de caméras et d'intelligence artificielle. - Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbklDWThMTEV4a29IcUpidmhqZDJjeER1RmxSbE9ZbkNzX0RtaGU1LUxTTGxjWHJXeF9NWU9jTDc4MFktZUxnSkFvLXlmWmw5RGFoT240MXMxOE5icGppa2psMWFpVEZuYXBGSkdHZlFOQjRRN0prZXlDNWpwVTl3R1VUME1HZkVqZXRBQ2lhVnBnQmw0UEpxWWRJYXc?oc=5)
+*Chantier · Google Actualités (FR) · score **7.4/10** · TRL 8/9 · analysé par : LLM*
 
-Construction d'infrastructures réseau pour l'ère de l'IA au Vietnam. Vietnam.vn
-
-## 🔔 [Origin Raises $20M to Scale Autonomous Construction Robots - AI Insider](https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0VuMDNpX0xEaVBIRTNOeUMyaFJNUlRtNkh6dk9MR2hIdUxQX0ZTNnVESEpwMExfcG1uT2s5SFdWLVJ5UXhoMGh5Y083MGUyb2x5OEh3OWNKZlVQdHhlaXkyRWk3SDlTLXZPOVRyQzZxUy10dDQ2TVI2akJsS3dzcVZfbnJMeW9tWlhraUFOaDZiUjVjblBDQ3JBRQ?oc=5)
-*Chantier · Google Actualités (EN) · score **7.7/10** · TRL 7/9 · analysé par : LLM*
-
-La société Origin a réussi une levée de fonds de 20 millions de dollars. Ce financement permettra d'augmenter l'échelle de déploiement de ses robots de construction autonomes.
+À Hanoï, la surveillance des niveaux de poussière est devenue obligatoire sur l'ensemble des grands chantiers de construction. Ce contrôle s'effectue grâce à l'utilisation combinée de capteurs, de caméras et d'intelligence artificielle.
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -24,9 +19,7 @@ La société Origin a réussi une levée de fonds de 20 millions de dollars. Ce 
 - Growth-Inspired Graph Generation and Inverse Design of Mechanical Lattices via Dot Matrices Database Augmentation and GCNN — lien déjà connu
 - Skill Sequence Planning for Collaborative Multi-Robot Construction — lien déjà connu
 - Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction — lien déjà connu
-- MIT, Suffolk Release Joint Study on How Artificial Intelligence is Transforming the Construction Industry - Business Wire — lien déjà connu
-- From Hollywood farm to AI startup: Wicklow engineer aims to transform construction industry - Irish Independent — lien déjà connu
 - IA dans le BTP : Pourquoi le secteur tarde à l'adopter ? - Presse Agence — lien déjà connu
 - Le prochain avantage concurrentiel de la construction : les chantiers intelligents - Unite.AI — lien déjà connu
 - Face à la baisse des appels d’offres, les acteurs du BTP des Hauts-de-France adoptent l’intelligence artificielle pour gagner en efficience et en compétitivité - Le Moniteur — lien déjà connu
-- Chaîne d’approvisionnement BTP : quel rôle pour l’IA ? - Batiweb — lien déjà connu
+- Construction d'infrastructures réseau pour l'ère de l'IA au Vietnam. - Vietnam.vn — lien déjà connu
