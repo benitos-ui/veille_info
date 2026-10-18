@@ -1,11 +1,92 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "stats": {
   "lus": 298,
-  "retenus": 1
+  "retenus": 0
  },
  "seuil": 7.0,
  "articles": [
+  {
+   "titre": "Harfa Rooftop Extension / matěj šebek architekti",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1185696/harfa-rooftop-extension-matej-sebek-architekti",
+   "date_pub": "2026-10-18",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "Beijing 1733 ByteDance Commercial Project / XU Studio",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio",
+   "date_pub": "2026-10-18",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'architecture/BTP (architectural) mais aucun terme IA"
+  },
+  {
+   "titre": "Sangwich Club / east bureau",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1186199/sangwich-club-east-bureau",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "Dumas Sea Face Masterplan / INI Design Studio",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "AA Apartments / Crearctive",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1186945/aa-apartments-crearctive",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "MAGMA House / SUITE",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1187028/magma-house-suite",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "Colares Sintra House / Sabrab",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "Shanghai Grand Opera House / Snøhetta",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1186819/shanghai-grand-opera-house-snohetta",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'architecture/BTP (architecture) mais aucun terme IA"
+  },
+  {
+   "titre": "Bunkers and Arks: Escaping the Future We Built Ourselves",
+   "source": "ArchDaily",
+   "lien": "https://www.archdaily.com/1186212/bunkers-and-arks-escaping-the-future-we-built-ourselves",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
   {
    "titre": "Prague Fire Rescue Service / Architektura",
    "source": "ArchDaily",
@@ -142,87 +223,6 @@
    "raison": "parle d'architecture/BTP (architect, architects, architecture) mais aucun terme IA"
   },
   {
-   "titre": "SIMOSE Museum & Auberge / Shigeru Ban Architects",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186422/simose-museum-and-auberge-shigeru-ban-architects",
-   "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'architecture/BTP (architects) mais aucun terme IA"
-  },
-  {
-   "titre": "Holland Grove / Blair Smith Architecture",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186205/holland-grove-blair-smith-architecture",
-   "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'architecture/BTP (architecture) mais aucun terme IA"
-  },
-  {
-   "titre": "In Conversation with Liu Jiakun, Dong Gong, and Luo Yujie: Small-Scale Timber Buildings—Why Build Them and How?",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186963/in-conversation-with-liu-jiakun-dong-gong-and-luo-yujie-small-scale-timber-buildings-why-build-them-and-how",
-   "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'architecture/BTP (architecture, buildings) mais aucun terme IA"
-  },
-  {
-   "titre": "Renovation of the Core Area of TAFA Art Block / Mix Architecture",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186609/renovation-of-the-core-area-of-tafa-art-block-mix-architecture",
-   "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'architecture/BTP (architecture) mais aucun terme IA"
-  },
-  {
-   "titre": "Son Ferriol Health Centre / LaBoqueria",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186927/son-ferriol-health-centre-laboqueria",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'architecture/BTP (building design) mais aucun terme IA"
-  },
-  {
-   "titre": "Ibitipoca House / Gávea Arquitetos",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186971/ibitipoca-house-gavea-arquitetos",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "aucun terme IA ni architecture/BTP"
-  },
-  {
-   "titre": "Casa de Tierra / Walter Fernando Castañeda Luquerna",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186928/casa-de-tierra-walter-fernando-castaneda-luquerna",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "aucun terme IA ni architecture/BTP"
-  },
-  {
-   "titre": "Loungueira House / Pontoatelier",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186863/loungueira-house-pontoatelier",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "aucun terme IA ni architecture/BTP"
-  },
-  {
-   "titre": "Burden Museum & Gardens Welcome Center / Eskew Dumez Ripple",
-   "source": "ArchDaily",
-   "lien": "https://www.archdaily.com/1186837/burden-museum-and-gardens-welcome-center-eskew-dumez-ripple",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'architecture/BTP (architecture) mais aucun terme IA"
-  },
-  {
    "titre": "The Educational Value of Drawing Sets",
    "source": "Common Edge",
    "lien": "https://commonedge.org/the-educational-value-of-drawing-sets/",
@@ -273,8 +273,8 @@
    "lien": "https://commonedge.org/chandigarh-at-73-how-a-city-outgrew-its-utopia/",
    "date_pub": "2026-09-16",
    "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "aucun terme IA ni architecture/BTP"
+   "etape": "ancien",
+   "raison": "publié il y a 31 jours (limite : 30)"
   },
   {
    "titre": "Form Follows Feeling: My Catholic Aesthetic",
@@ -283,7 +283,7 @@
    "date_pub": "2026-09-15",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 32 jours (limite : 30)"
+   "raison": "publié il y a 33 jours (limite : 30)"
   },
   {
    "titre": "School’s in Session: What’s on Students’ Minds?",
@@ -292,7 +292,7 @@
    "date_pub": "2026-09-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 32 jours (limite : 30)"
+   "raison": "publié il y a 33 jours (limite : 30)"
   },
   {
    "titre": "Undoing the Devastation of “Urban Renewal” in New Haven",
@@ -301,7 +301,7 @@
    "date_pub": "2026-09-09",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 37 jours (limite : 30)"
+   "raison": "publié il y a 38 jours (limite : 30)"
   },
   {
    "titre": "Toronto cyclists ask Canada’s top court to weigh in on Ford’s bike lane removal plan",
@@ -454,7 +454,7 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 121 jours (limite : 30)"
+   "raison": "publié il y a 122 jours (limite : 30)"
   },
   {
    "titre": "Sustainable Design and Construction",
@@ -463,7 +463,7 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 121 jours (limite : 30)"
+   "raison": "publié il y a 122 jours (limite : 30)"
   },
   {
    "titre": "Sustainable Buildings and Healthy Materials",
@@ -472,7 +472,7 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 121 jours (limite : 30)"
+   "raison": "publié il y a 123 jours (limite : 30)"
   },
   {
    "titre": "Bridging the 2D and 3D Gap: Improving Communication in BIM-Driven AEC Projects – whitepaper",
@@ -481,7 +481,7 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
+   "raison": "publié il y a 123 jours (limite : 30)"
   },
   {
    "titre": "How a Management Platform Bridges Building Information Modeling (BIM) and Project Management for Architectural Success",
@@ -490,7 +490,7 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
+   "raison": "publié il y a 123 jours (limite : 30)"
   },
   {
    "titre": "Did you know you can publish your BIMx model directly to a website?",
@@ -499,7 +499,7 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
+   "raison": "publié il y a 123 jours (limite : 30)"
   },
   {
    "titre": "Archicad authentication with Graphisoft ID",
@@ -508,7 +508,7 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
+   "raison": "publié il y a 123 jours (limite : 30)"
   },
   {
    "titre": "Stevens Lawson Architects leveraged a major software transition",
@@ -517,7 +517,7 @@
    "date_pub": "2026-06-16",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 123 jours (limite : 30)"
+   "raison": "publié il y a 124 jours (limite : 30)"
   },
   {
    "titre": "Agentic Robot Creation through Generation, Verification, and Revision",
@@ -709,55 +709,19 @@
    "raison": "parle d'architecture/BTP (btp, construction site) mais aucun terme IA"
   },
   {
-   "titre": "USF Unveils New AI and Cybersecurity College Building - TBBW",
+   "titre": "Clayco Founder Bob Clark Rejects AI Bubble Fears - STL.News",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTkRzQmRxakMybmdMVXZrYW1WSTNPcjBncjBYUWlNalBHSnhKbFgzdG0yNFhObVBiOWR1aDVhaUV3VjNqd3o0NXRyY2JCeEdfNDl2UndYNzhHM0VBMmZvS0xWNV9TNWdwWG9XQ0FR?oc=5",
+   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KVjBxemY1Q3NqaEh1THNTMWZUTjg4MjNnZVVVenlwamE2MmtQOW8wa0w0QjlFeERrdFp4UDhPWlNkUzhweXVITFRwN01ocGFfbEF1SHRCVkZWRWdsRUE5UURxTnVHV3M1UUlNaW9sUjQ1dXdWSzB3SEt3?oc=5",
+   "date_pub": "2026-10-18",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
+  },
+  {
+   "titre": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlRvMDFmOXZBTEFiY2lrbFNVWnUzSnZwc2FrTF9hVExFLXc1R2lNVHdXUmpjbGRsQldybDdoT3poS3BmRWlUcVc0T1YybmthLU9pQ3NYSk5WdVM3S0pGRV90Um1ERzlJcmtVaDRNMlRQaGI2em05aUdLVFl1ZHUtM2szNlNYdHpWNHA0X3hvSDBWTTFmVENPLUVzQUNiUS1RelZNYjZOQWd5MklLTVNQdzlpWEZ1WDktcENwZzZMYlRZSWxUNnViZE0zcEdLM0JLNzRWMWQ2b010eUFO?oc=5",
    "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "AI in Construction: Boost Capacity, Keep Your Workforce - For Construction Pros",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOXNOdTEzSTJvR254ZWhKeHJxN2hPY01TbG1kSzdwYmRJM3o2eXdkTEQ0TkYzV3hjYmQ3MnU5T01McXBpQWxJb2JMR0I2cTRkUWc4SkJJZ1M1MThxTEI5eDhKU3I4bHo1dHJDV2I5cENvb2M2RUxubVJCYm85NWRuX3k0UzBJV2Z0bTJ2X1ZYOWdiSkRmTHN2SGNMd0Zwb0htR0laZUtxUWkyRmNDWENtX2tVUW84M2ZSUFR3bjkwNXd1M1JpUmtyR2Z5R0ZORXFRMFFHMmEtR3Z4alBQc3k1OXNPT19mWC01T09jT2pPU3hURS1jeXZfWQ?oc=5",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "AI changing the construction game in Southwest Florida - WINK News",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTNqbXZNYVh0cXFkdXJiRkJWREo0NFp6bE52VTh5MS1WMzUwQ1pKZDNYR3hWVHl4Q2lZS2RqMmNBOFUtRUlhR3Jva1RrN2VNbWlmUWFnUVh2dGxPalFDQXlQYUhCRGs5eE5sTnc4Y3NDTjVMWmJabHhXLUdFRVRlSDZ6MFJkRjBsX1VtNzZnQ0pEZGpxTHE0amNGdDcwQjVWdmc4ZGlfRkxocV8xZ29HMXdZRHN2blJ2MV91c3hiRWlVcTBvZDQxTA?oc=5",
-   "date_pub": "2026-10-13",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "AI Could Cut Irish Construction Costs by 20% [2026] - tech-insider.org",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DaGhXRXNfNjEtYUc5UFM5cDBJQlVoLWlDQjA0WEJJVGszclRVNWp2WnBmU1pHZm1fMlpISnJaTkVqczBlY1ZUZTRmVkh5MzI1NTlCblFfbHlIYlB0c3hVNXcyMWhSRkNQbWJvbEQ0SjQ?oc=5",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "Supermicro bets on open hardware to speed AI data center construction - Fierce Network",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0gxN3o1anA5b2l4MDNLRXhyQTE3Um0xZFFfYW5EOHRmaUN0UE5zTlNFX2pnSWl1NUlNNVRYVUtHNmRJQlBYUlZ5aFUwTko2OEpKS1NTLTBXRllRcUhyT2toS2VVOEpWdjRPRUlZQldncHBxS0VBaDQ3SVdVQm1KYU45aHFFSGlwbnBZTjRYUG9ISUVfWUZiMUF2eGcwRWV2cUE?oc=5",
-   "date_pub": "2026-10-14",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "Committee advising on city government complex discusses role of AI in planning process - Verite News New Orleans",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE50ck9xMEJaeGtOOTdxTWQ2aUZ4X2FCR1gyU0l4LTdSWnFXZzlLZlFEWlR1Q2dpR2tlTTBhaDRoMTFMSkE2Y19Ed2RyV1VtRW1iUHJHQ0FWYUpPRVllOENWeWE4d3l5N0t0QkUzeEc4ckRhZw?oc=5",
-   "date_pub": "2026-10-15",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
@@ -767,6 +731,15 @@
    "source": "Google Actualités (EN)",
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDB4MFBPMVZQYXhCSEQtbjZTbnJyc05rN2VDeXJpUEpJLXVMV0tacjBEZHRaODhUNTZRVzZwdHdVbVBHbHpkSU13VWJKS0V0alpfR3o3a3ZrdWhsWWxobGtWUFJVaE51dEdxdkZtVWwtZXl5XzF6QUVzRWRILW5IRDNIcThvbUJOZTc1Vjl4dmlIdw?oc=5",
    "date_pub": "2026-10-08",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
+  },
+  {
+   "titre": "AI Could Cut Irish Construction Costs by 20% [2026] - tech-insider.org",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DaGhXRXNfNjEtYUc5UFM5cDBJQlVoLWlDQjA0WEJJVGszclRVNWp2WnBmU1pHZm1fMlpISnJaTkVqczBlY1ZUZTRmVkh5MzI1NTlCblFfbHlIYlB0c3hVNXcyMWhSRkNQbWJvbEQ0SjQ?oc=5",
+   "date_pub": "2026-10-15",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
@@ -790,9 +763,9 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Jerry Horani to Lead IT, Data Analytics and AI at Lexicon - Arkansas Money & Politics",
+   "titre": "Access Construction Adds Agentic AI Across Estimating, Project Management, and ERP - Unite.AI",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FeDJOV0tOUnJnTlc5d3JObWlpX1FMVFFVaVp4em1MMkFMT2c0YTIyRjlBZ2JWOWd3UjV3Mm9QaDlSdXF0VmZUeEV5WFFEcnBQc2s0M2ZtRzRuSVhJV2ZPVm1VUlJJRWFHM1RvUUNtTWlkYlhjQTZBXw?oc=5",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQW1VYWMzVUlTeFJwZUVUSEZNc1NsbWZRdWhiRTI1T3Rtb3F1bTBrbzN2NHdJVFFQLWZfQ2RPNFg1QUg3Y0p2UFhJQ0tXNHVIVExwTjJ2YVlJS2o0T3gzV3ZOQ2FvY1ZzWjRUb2V2ZzlmbHc?oc=5",
    "date_pub": "2026-10-15",
    "decision": "rejeté",
    "etape": "hors_sujet",
@@ -808,28 +781,10 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Samsung's second Taylor chip plant will begin construction next month amid AI chip demand - Yahoo Finance",
+   "titre": "AI Exposure Remains Relatively Low Across Most Construction Occupations - Eye On Housing",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDFMVlBHWDJXWnlSTjgwYlN1Y3JfR2F2NEFOZDNoVWk2NS1lVjNKOEo0V0EyY3NVTmNqYW85Y24tNWJuVkJGOWc4aVFwU2hSTUY0UEZVXzZhTW5RQllSZ01VanJLWTdWVkRzNV9kUjF1Yzh5REJoR2JXTC1SblM3RWl4OEEzR19ZVUdkWXRES0JLMFNPa2txNEdpMk1UZw?oc=5",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "Nova Scotia to host massive data centre to power artificial intelligence - CBC",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWdtZlJFVHlZNDdkbDV5NWs1QVlvbVBxaUJHQlUxN1AyU183R1p1WkswM0ZJdnE5VlVIaWFaUUJhM3UyTWVWQldURXc1Q015WFBuM2JvNFpaVkpaVTBXRG9Pa195bWo2Z3dQU3pVd2EyU1JIQld0R1dwQWNDNWo1VWFqMU1SRVhmTnQ5Zm9DeURJdGZqQm1aUXdIckRlWGxYNExtVmxhZ2ppX3NMQllhMHlSVTIxMHBsb1FzZnZJRlhiUGs?oc=5",
-   "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (artificial intelligence) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "AI won't sink A&E firms. Poor governance will - Insurance Business",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMDByMzhseGR1UDNia3Jfb3BKZ3F4LVBGV2hzTGE5Q0dDd3g3Y1lyVXFnRFBVbkduVUQ1MjhFQXFSX1B3amZ2STRzQzhVTkRQOWRuMDNLeTNwUWg3VUhEZGxMRk1ETGZQWjlIQThHcDIwOGZpTWpGVlhTZXg4TERiUHBHWGFIZG83b3M1cVRTYm5sOFlTY3U5cG5SNXpGYTc0eTJXSTRlTzZ3WTRuQ2dFbk83TEE0cWc?oc=5",
-   "date_pub": "2026-10-16",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkt2VVRqQTlVWVRjdWl0MlJFS0duTHVPNFppUG5hWV9GVmx5RUFZdUpiNkpKb1dza0M1SG11RWxhUTlqNGJxSzNCWFZyQjFNN25wb1ZJa0NsTnNIakZlUmF0cUFXVzE3ZU1Ha0FoMG5MNEI5V2hDQWVrSjVRbmRxTlo4V3U1SDA1bkJUYzRhM0s5dm5lNkhkZnVuWjJWU3l3MllQTWNLX3Y?oc=5",
+   "date_pub": "2026-10-01",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
@@ -844,13 +799,22 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "AI Exposure Remains Relatively Low Across Most Construction Occupations - Eye On Housing",
+   "titre": "Japan’s Shimizu Invests in Noble Machines to Develop Humanoid Robots for Construction - AI Insider",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkt2VVRqQTlVWVRjdWl0MlJFS0duTHVPNFppUG5hWV9GVmx5RUFZdUpiNkpKb1dza0M1SG11RWxhUTlqNGJxSzNCWFZyQjFNN25wb1ZJa0NsTnNIakZlUmF0cUFXVzE3ZU1Ha0FoMG5MNEI5V2hDQWVrSjVRbmRxTlo4V3U1SDA1bkJUYzRhM0s5dm5lNkhkZnVuWjJWU3l3MllQTWNLX3Y?oc=5",
-   "date_pub": "2026-10-01",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGJQRndPM1hxdldPaTQwT3owVGhxUzRaRlUyVHBsdXV5b1V5QUdzTEhPNzJYeUhaeHVuMzM2ZWVRMXBGNHBiYnZraE01eXNSR2hrVkxzTUI1Y21TdC1EWThUTW44b2hoLUZic25lNVRLTFJWaFdtdUhxWGlIZUMzN2F2QjdBTnpDOUYxUGNpaUo0X2xubVdyd1h5bEVTTEpmWWkyNW9OckRqaUNRQ1Q1RWFnRWhSNXk3OWVYNnphMA?oc=5",
+   "date_pub": "2026-10-16",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
+  },
+  {
+   "titre": "Applications of machine learning and artificial intelligence in construction project cost prediction: a scientometric analysis and qualitative review - Frontiers",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWVnNEpYdXlDcTJraXdUSldzYTVTNlpuMjgtdlNhdlhMRUNOZXRCMTBlVWMzeXBVYWtoS2NDR0ZNNWJzQXEzbmhPMDh5eUowZjNBSlh4Nl9DNWlyMHdPZTd6eFFZUnZSNmQ3dllrdFJNeUNvZDUxR2RaZURJemhwdlp3cnY4b2pZRTM2d1lueWc2amxfTTB1Rnpyaw?oc=5",
+   "date_pub": "2026-05-22",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 148 jours (limite : 30)"
   },
   {
    "titre": "UT Austin is building more than a hospital. Here’s where AI comes in. - Austin American-Statesman",
@@ -871,46 +835,10 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "AI didn’t fix our construction data problem. It exposed it. - Construction Dive",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGVtcTZUQmJ3YzlvTEhINFMtTHdMQldqVHZ1MXNXcWczd2hDQXVfaUVNb0VGR0syX1AyblhuY0NwNUVITTRBMXJHN2dpenQ1S2tLZnl3TGFld0dwNUdnc0pfOVJwdHpoUURzWnZwSFRxSzQ2dnpOSUxuUFhXMWdyYjljcm9nVXllV2piRXBBcDJSYUo3dTJjMVE2b0IxVTRjU09YRmpnTkhQTXM?oc=5",
-   "date_pub": "2026-09-30",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "Japan’s Shimizu Invests in Noble Machines to Develop Humanoid Robots for Construction - AI Insider",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGJQRndPM1hxdldPaTQwT3owVGhxUzRaRlUyVHBsdXV5b1V5QUdzTEhPNzJYeUhaeHVuMzM2ZWVRMXBGNHBiYnZraE01eXNSR2hrVkxzTUI1Y21TdC1EWThUTW44b2hoLUZic25lNVRLTFJWaFdtdUhxWGlIZUMzN2F2QjdBTnpDOUYxUGNpaUo0X2xubVdyd1h5bEVTTEpmWWkyNW9OckRqaUNRQ1Q1RWFnRWhSNXk3OWVYNnphMA?oc=5",
-   "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
    "titre": "Congress Questions Meta's $6.6B in Research Tax Credits Amid AI Buildout - Engineering News-Record",
    "source": "Google Actualités (EN)",
    "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3FOcm1mbk5IS3AyNkNaNXI4SGQ2ZHZHQkQwY3JVUjJvOVlva1VteU1vZVprSFpveWFXaE5mU2FveHdSbWhocmlnNWdDdmxuZDdJQnZFaXZYdGR6a1lLQXAtS1hXWHlEN29XS3BEUEVXdHlaVFBjQU5abnc1WnZxdFRMdXFUeUdpVlhmS0JDUV9UMW1xYWRkb3ZCX0RKM0JuYXNXZnZtQQ?oc=5",
    "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "Applications of machine learning and artificial intelligence in construction project cost prediction: a scientometric analysis and qualitative review - Frontiers",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWVnNEpYdXlDcTJraXdUSldzYTVTNlpuMjgtdlNhdlhMRUNOZXRCMTBlVWMzeXBVYWtoS2NDR0ZNNWJzQXEzbmhPMDh5eUowZjNBSlh4Nl9DNWlyMHdPZTd6eFFZUnZSNmQ3dllrdFJNeUNvZDUxR2RaZURJemhwdlp3cnY4b2pZRTM2d1lueWc2amxfTTB1Rnpyaw?oc=5",
-   "date_pub": "2026-05-22",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 147 jours (limite : 30)"
-  },
-  {
-   "titre": "Dotted Line: How construction is dealing with cybersecurity in the age of AI - Construction Dive",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRE8tTmlTWUpqYVRaYWV5V0NLbXJIc0JqNGtnODRhZ3ZUUzlmVVhuOUhhbFV0bFJJbkFMOE9TMmdTSkt4NzFpandTZWlLd1U0aG8xU1lxQW9ETFp3T0d5NEVVMHdFZGVRbENnU0hWVWQtbkhzaWxaNXV3TkZZMmo4cWZvTjJPaFB2ajFaT2djTHFra0t2S0VKQ0k2ZXIwQzVpVmNPTnlHUHF5Ukt2NlI1ZmppV3pFWUZSWkE?oc=5",
-   "date_pub": "2026-09-29",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
@@ -925,31 +853,40 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "EverWind building $10-billion Cape Breton data centre and wind farm for Anthropic's AI assistant Claude - PNI Atlantic News",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOE5Mb3FZZ0E1WXQwNW9SbzZjX0o1aFBLZlRaZ1BNZ0lTREc2bmxPMVdva3ZDSGRWZDdrVmVjUXdydGF4T0JLbHBuczN4MzFzeFh4ZjQ5aXYtMXJIMUtCSzhzWU9aTGczMWxxejhDLTR5OGZGdzRQaWtHcUFkNDR6YUxnNUpHVnhZWE1JU0lIUVBobUpiU2dLUGJldVg3SU5nZWZqNXo4MVJsaktCZnRhV1ZYNTZubnl3LVp0OU5ibm50VHhaVkFqa0pRZ0VuYThUbzZlcVMzOFdpUnlSb1dB?oc=5",
-   "date_pub": "2026-10-16",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
    "titre": "MIT, Suffolk Release Joint Study on How Artificial Intelligence is Transforming the Construction Industry - Business Wire",
    "source": "Google Actualités (EN)",
    "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3V0YklsX0x4M0htcDk0bjFaNTdHa2pkY1RfdW0xZXowQVBVVlFYX2hOYi1TZWZMLXFtNG54NmFZZ21Pc2VPTnAwY3hGVnZkZFhhSHN6U0hfbFhKeU95cDVUbFdka0RhYjBzTkxYVlBWdk5QdHpEV1VvN3prWUtaX3FHTTJPZFdaYXctQkpDTjAySGVlUkc2UlVuZnBseTBuelVKOTRpa0F6ME5xbzA2Z2U3R2ROdXA3cFJfSFh2aG50bm1ndGZYVS00b3c0d3dvQVVtUWNzSE81ZktuS3RqUkhHRjl3MW54TmhEMXNiWnBKeW8?oc=5",
    "date_pub": "2026-09-16",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 31 jours (limite : 30)"
+   "raison": "publié il y a 32 jours (limite : 30)"
   },
   {
-   "titre": "DATA CENTRES: Alberta May See ‘Gigawatt-Scale’ AI Data Centres Under Construction This Year - EnergyNow",
+   "titre": "AI didn’t fix our construction data problem. It exposed it. - Construction Dive",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHVkaGNLYmRZZ2NqUm1DakVZNjltZDVsaGJjNGtzai1jaWVxY2lYMjlpRndMNWItdHdPeEJyelFSMU1KTlJ1OTVWUE1TYW00N0NpNXZTZlNyZVZBTkpBa0F6T0JWS2JnRWJmVnJxNG4wV3dhNVcxZjBvaU0tbEpCTk5YY3huQklCN09DdzdwWnBsd0RfcUtjMDBLeU5HcHNQX1ZqZEdWeDE?oc=5",
-   "date_pub": "2026-10-16",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGVtcTZUQmJ3YzlvTEhINFMtTHdMQldqVHZ1MXNXcWczd2hDQXVfaUVNb0VGR0syX1AyblhuY0NwNUVITTRBMXJHN2dpenQ1S2tLZnl3TGFld0dwNUdnc0pfOVJwdHpoUURzWnZwSFRxSzQ2dnpOSUxuUFhXMWdyYjljcm9nVXllV2piRXBBcDJSYUo3dTJjMVE2b0IxVTRjU09YRmpnTkhQTXM?oc=5",
+   "date_pub": "2026-09-30",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
+  },
+  {
+   "titre": "Dotted Line: How construction is dealing with cybersecurity in the age of AI - Construction Dive",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRE8tTmlTWUpqYVRaYWV5V0NLbXJIc0JqNGtnODRhZ3ZUUzlmVVhuOUhhbFV0bFJJbkFMOE9TMmdTSkt4NzFpandTZWlLd1U0aG8xU1lxQW9ETFp3T0d5NEVVMHdFZGVRbENnU0hWVWQtbkhzaWxaNXV3TkZZMmo4cWZvTjJPaFB2ajFaT2djTHFra0t2S0VKQ0k2ZXIwQzVpVmNPTnlHUHF5Ukt2NlI1ZmppV3pFWUZSWkE?oc=5",
+   "date_pub": "2026-09-29",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
+  },
+  {
+   "titre": "Nova Scotia to host massive data centre to power artificial intelligence - CBC",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWdtZlJFVHlZNDdkbDV5NWs1QVlvbVBxaUJHQlUxN1AyU183R1p1WkswM0ZJdnE5VlVIaWFaUUJhM3UyTWVWQldURXc1Q015WFBuM2JvNFpaVkpaVTBXRG9Pa195bWo2Z3dQU3pVd2EyU1JIQld0R1dwQWNDNWo1VWFqMU1SRVhmTnQ5Zm9DeURJdGZqQm1aUXdIckRlWGxYNExtVmxhZ2ppX3NMQllhMHlSVTIxMHBsb1FzZnZJRlhiUGs?oc=5",
+   "date_pub": "2026-10-16",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (artificial intelligence) mais aucun terme architecture/BTP"
   },
   {
    "titre": "Rep. Sewell Cosponsors Legislation to Pause AI Data Center Construction Until Federal Guardrails are Established - Congresswoman Terri Sewell (.gov)",
@@ -958,7 +895,7 @@
    "date_pub": "2026-07-21",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 88 jours (limite : 30)"
+   "raison": "publié il y a 89 jours (limite : 30)"
   },
   {
    "titre": "Building a context-aware AI assistant on AgentCore and OpenClaw | Amazon Web Services - Amazon Web Services (AWS)",
@@ -968,6 +905,15 @@
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
+  },
+  {
+   "titre": "This Graph of Data Center Spending Compared to All Other Construction Will Give You Chills - Futurism",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlM2LW9IQTdURFB4LThSMlpVWHpkMzVraE1yb3VNRDBuTkhCUWtIQmk2bk5RTTFZWjhYaGxGSnV6djZEZnRBY2xIT1F1WFdlY3JKa2pNZzVtR0xkdDZ0VldxUi04LWROamtLYWxVTzdlSVZLUjJmZ3ZOVjJzMWVMSWt1Qi14QQ?oc=5",
+   "date_pub": "2026-10-11",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
   },
   {
    "titre": "Togal.AI is building. Lightning Capital is backing it. Both are betting on Miami. - Refresh Miami",
@@ -985,7 +931,7 @@
    "date_pub": "2026-07-04",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 105 jours (limite : 30)"
+   "raison": "publié il y a 106 jours (limite : 30)"
   },
   {
    "titre": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools - Crunchbase News",
@@ -994,7 +940,7 @@
    "date_pub": "2026-08-13",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 65 jours (limite : 30)"
+   "raison": "publié il y a 66 jours (limite : 30)"
   },
   {
    "titre": "Buildots raises $130 million to expand AI-powered construction platform - SiliconANGLE",
@@ -1003,7 +949,34 @@
    "date_pub": "2026-09-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 33 jours (limite : 30)"
+   "raison": "publié il y a 34 jours (limite : 30)"
+  },
+  {
+   "titre": "BlackRock Signs Deal With Labor Unions for AI Construction Jobs - Bloomberg.com",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnpNdm54cWprVFFScHZfNllEZ2VoME00RUk3TjZRZ1BpY0M2TEsyOUM1X1JNU19IbU1pV1lvUGlsWjJtYXZJYWNSNDBIbXlYT1RONkRUYURYdmJWYjk3YXlkTGdEUFdVdm96aUlJeGpOOGFacjhIcG56aDY4S2hFVkVSbVZrREtna0NHT1VoaWgyVVhOTFBEcElhY3lFRTFSeEhha05tZG01eHFna2FlVDNuVlU?oc=5",
+   "date_pub": "2026-08-10",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 69 jours (limite : 30)"
+  },
+  {
+   "titre": "Artificial Intelligence and data centers reshape career landscape, workforce demands - ABC11 News",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHFDT0Mwc3dOU0QwRjdoS0lsOGFBa1NjZDh2VXgzd0NSczlWUU1tLWt3eHl0elpzU0doXzE1Z2VWZjFCaFZXbGdfQS0xalIyNXZ1dVNBXzR2VzRzdlhMWExENXBORGZyS3FvcEduQjRXRXk4eHVCZkdtOEdHWjNLcU01YUJEUmJrdGNxcE15S3hlTjF2cDE3N1J5VnpSTmotQW5NSnpmeUExcG1ZODRHeW1R0gG3AUFVX3lxTFBrc0xNUmNiYzRCbHVnNlpxajZoOGVWczRWSnlLcG9HZ3ZwcU9zeEo4UTV2TVpXYjhsRkN1VHQ1NFp4UDE2M0MtZ1V1eVlVd3h5LU40X1RIeDFucnU1RUtKdWF1WE1Ta01ibm9QWUQ1YV83YkJfek4xMzhvQ0MxcUJtTlgtdUlsSnp6UVRkamVtSE9nYWFaYVdta29EamdkaUswQ2t3ZHpCLVpzRVNhdGhXSW9ZWFNJSQ?oc=5",
+   "date_pub": "2026-07-31",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 79 jours (limite : 30)"
+  },
+  {
+   "titre": "AI in Construction Market Surges to USD 53.32 Billion by 2035, at 26.38% CAGR – Report by SNS Insider - Yahoo Finance",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0hVZ0VfelBqQl85ckxJbXRmcWVVamhwa2hLZDJiSldYZGJNa1d4WFoxUWNaakhLbVhHNV9XMlBobzVNQU0weHpCZkRpZEtMRmhJZFhsMV8tWnplN1pBbnNMSk1lbXg2REptUVJlUzRUTHpjRTAwQUpmNEw0RGxrNkVvT0IyTGkxUlBlUzJ5dzdiU2RsQzJIWnN5a3VOZw?oc=5",
+   "date_pub": "2026-09-07",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 41 jours (limite : 30)"
   },
   {
    "titre": "Everyone can find a reason to dislike data center construction - TechCrunch",
@@ -1015,40 +988,13 @@
    "raison": "aucun terme IA ni architecture/BTP"
   },
   {
-   "titre": "BlackRock Signs Deal With Labor Unions for AI Construction Jobs - Bloomberg.com",
+   "titre": "AI Construction Tech Firm Buildots Raises Another $130M - The Real Deal",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnpNdm54cWprVFFScHZfNllEZ2VoME00RUk3TjZRZ1BpY0M2TEsyOUM1X1JNU19IbU1pV1lvUGlsWjJtYXZJYWNSNDBIbXlYT1RONkRUYURYdmJWYjk3YXlkTGdEUFdVdm96aUlJeGpOOGFacjhIcG56aDY4S2hFVkVSbVZrREtna0NHT1VoaWgyVVhOTFBEcElhY3lFRTFSeEhha05tZG01eHFna2FlVDNuVlU?oc=5",
-   "date_pub": "2026-08-10",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzZVT3dsNVJpNGZUS1F1dk1Rejl4UWl4VGVyT0QwSGtNQU1pYTZ5SDZJLWdHd2NPSEJaV3RqWTRuVzNSUVdCb0ZJMVR6SVItbXNoY2NCR3dCblQwend6Q0gwSlNpNnE0Y05XckFKSDNtZnREVkkzRjZWeEU3UnQ0akVaVGNqdjFzcmN6TVdINDY4LUFCZnhxT3V6UDdYb0Va?oc=5",
+   "date_pub": "2026-09-15",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 68 jours (limite : 30)"
-  },
-  {
-   "titre": "AI fears, hopes, and high construction costs - The Irish Times",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZTlfV0RXSlFZMnRxSWpRUFZNQkRfRlpldHFMNm96Z1JNTXY3RlRBdURxWEdZLUxPd3g4RDFaRWllTGtqNElVV3E4QUV1dU5PdlV4UnVOVU53V2s0TFdNY1VKSDBWM3ZLRmtIazNVVlUzMTRQeXZ0QTMwLWtWT0JCLXg4VUxoMzloQXZKbXRqOW9qVVp5?oc=5",
-   "date_pub": "2026-10-15",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "Artificial Intelligence and data centers reshape career landscape, workforce demands - ABC11 News",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHFDT0Mwc3dOU0QwRjdoS0lsOGFBa1NjZDh2VXgzd0NSczlWUU1tLWt3eHl0elpzU0doXzE1Z2VWZjFCaFZXbGdfQS0xalIyNXZ1dVNBXzR2VzRzdlhMWExENXBORGZyS3FvcEduQjRXRXk4eHVCZkdtOEdHWjNLcU01YUJEUmJrdGNxcE15S3hlTjF2cDE3N1J5VnpSTmotQW5NSnpmeUExcG1ZODRHeW1R0gG3AUFVX3lxTFBrc0xNUmNiYzRCbHVnNlpxajZoOGVWczRWSnlLcG9HZ3ZwcU9zeEo4UTV2TVpXYjhsRkN1VHQ1NFp4UDE2M0MtZ1V1eVlVd3h5LU40X1RIeDFucnU1RUtKdWF1WE1Ta01ibm9QWUQ1YV83YkJfek4xMzhvQ0MxcUJtTlgtdUlsSnp6UVRkamVtSE9nYWFaYVdta29EamdkaUswQ2t3ZHpCLVpzRVNhdGhXSW9ZWFNJSQ?oc=5",
-   "date_pub": "2026-07-31",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 78 jours (limite : 30)"
-  },
-  {
-   "titre": "Jobsite AI integration will aid AI construction - Construction Dive",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTdfWXhnZzZBNmxTNFpLbzlQQ0FjNXdkWWFvaGVnbGdsX2MwWFZ5WVZycy1lOWJVVTkwVXdEd2pFQ1Nld2Q3YnRfTEpsT2ktT00tM1lGaTg5ZWFMU0F3STktbmhiT21mR010aDRPR3BHOWhYazE2RmdJby0xak51VlhfUmJhc3ktRTBTUDBkblQ0cTViYWJtZWQ5MHdBbGc?oc=5",
-   "date_pub": "2026-06-02",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 137 jours (limite : 30)"
+   "raison": "publié il y a 33 jours (limite : 30)"
   },
   {
    "titre": "Voters concerned about AI advancement, data center construction, polls show - TheCatholicSpirit.com",
@@ -1060,31 +1006,13 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Top 10: AI Tools in Construction - Construction Digital",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vZzdubTE3MEx0VTlYeXJ6d29oTThleWdGREVCTWZQVlVwM3llS2tLTFhoQ1huX2lGUlpzUlA4b3ZITUpkSmNUTnUtN19KUjF1REI4aUkxbkNVaEtKTkc3Q3J6YnBWZlNrWDhWb0FJZkUyT3I5?oc=5",
-   "date_pub": "2026-06-17",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
-  },
-  {
-   "titre": "AI Construction Tech Firm Buildots Raises Another $130M - The Real Deal",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzZVT3dsNVJpNGZUS1F1dk1Rejl4UWl4VGVyT0QwSGtNQU1pYTZ5SDZJLWdHd2NPSEJaV3RqWTRuVzNSUVdCb0ZJMVR6SVItbXNoY2NCR3dCblQwend6Q0gwSlNpNnE0Y05XckFKSDNtZnREVkkzRjZWeEU3UnQ0akVaVGNqdjFzcmN6TVdINDY4LUFCZnhxT3V6UDdYb0Va?oc=5",
-   "date_pub": "2026-09-15",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 32 jours (limite : 30)"
-  },
-  {
    "titre": "Buildots raises $130M to bring AI to the $16T construction industry - and power the global data center buildout - PR Newswire",
    "source": "Google Actualités (EN)",
    "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaFR1dUpJWU1kT1FyeWFJVTh3R1dMVDkwblc5WGVvS3k4UXJpalVTc3BSTFhUamVlaURubDMtZ3RuNGxxRHBkcnVlWWNYc0R3UlZnck1udV83VHRKOUFMSXZwcDhVUHF6Zkw0OEo1bklFaU9EYU5Gb1ZUNlc0eVdpNzEtVkszVmZIS2ZjVzA2WGN1NjlSem5KX3VNY1hJLS13YUlSVkpsYWNLY18xWHVyX0l5c3F5YWhjMWZFQWJmaDNGeDB1aHJtMTBYeTA3eV8tYkJGclhudHFYS2FLa1NkYVpTWUtfTXdxQ2NRdzRyMFZJa0FVZHFj?oc=5",
    "date_pub": "2026-09-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 33 jours (limite : 30)"
+   "raison": "publié il y a 34 jours (limite : 30)"
   },
   {
    "titre": "How AI is reshaping the future of the AEC industry - McKinsey & Company",
@@ -1093,7 +1021,7 @@
    "date_pub": "2026-07-15",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 94 jours (limite : 30)"
+   "raison": "publié il y a 95 jours (limite : 30)"
   },
   {
    "titre": "How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC - Amazon Web Services (AWS)",
@@ -1102,7 +1030,7 @@
    "date_pub": "2026-08-11",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 67 jours (limite : 30)"
+   "raison": "publié il y a 68 jours (limite : 30)"
   },
   {
    "titre": "AI experts say Healey’s order restricting data center construction in Mass. ‘makes sense’ - WGBH",
@@ -1111,7 +1039,7 @@
    "date_pub": "2026-09-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 33 jours (limite : 30)"
+   "raison": "publié il y a 34 jours (limite : 30)"
   },
   {
    "titre": "Construction Platforms Are Already Fighting Over Data to Train AI Agents - Engineering News-Record",
@@ -1120,7 +1048,7 @@
    "date_pub": "2026-06-12",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 127 jours (limite : 30)"
+   "raison": "publié il y a 128 jours (limite : 30)"
   },
   {
    "titre": "Construction has reached an inflection point. AI will define what comes next. - The Business Journals",
@@ -1129,7 +1057,7 @@
    "date_pub": "2026-07-01",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 108 jours (limite : 30)"
+   "raison": "publié il y a 109 jours (limite : 30)"
   },
   {
    "titre": "News | AI forecast to cut construction costs up to 20% - CoStar",
@@ -1138,16 +1066,7 @@
    "date_pub": "2026-09-16",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 31 jours (limite : 30)"
-  },
-  {
-   "titre": "Gilbane pushes hard on combined delivery, AI: CEO - Construction Dive",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcTFTczFJT1hLQUh4TDJtZ2Fzd0xCRk8yZzBHRnRLQnBZeENON0gxa0lhenREMHBtOUFDTmdzZWdDTDN6bzlBTFB2a19YYUNQV1hJeXA2M3hiRHlPQlJ1eFFGZUJHSFVzQVdPamRBSjUtRUw3c2J3Y1o1b2xUNWwxQjRaUVJuVnMyR3VJUDlRV0lPRmlhdVJoaXVSV2d6Zw?oc=5",
-   "date_pub": "2026-06-26",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 113 jours (limite : 30)"
+   "raison": "publié il y a 32 jours (limite : 30)"
   },
   {
    "titre": "New Title from NAHB’s BuilderBooks Offers Advice on Using AI in Residential Construction - National Association of Home Builders | NAHB",
@@ -1156,7 +1075,43 @@
    "date_pub": "2026-03-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 214 jours (limite : 30)"
+   "raison": "publié il y a 215 jours (limite : 30)"
+  },
+  {
+   "titre": "Suffolk, MIT detail where AI can shave costs and schedules in construction - Yahoo Finance",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTEFyd0xWVEl3a2RXTGVuaHJyVVY4eHlqWTgxcm9SM0xlbWQyZ2tReWhpUXhrMEVvSkJJMW0zdWxLM3VUV3BQdk83RUNuQUdkb1RCaTBVOFRxUFN3WU5mcjRKd1RGRnowLXN6Qkhmdjl5aVR5b1FNS1U0cUg4dVB2RzRpSmJqZnRwV3l0UDJDbm1DaEJGcmc?oc=5",
+   "date_pub": "2026-09-16",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 32 jours (limite : 30)"
+  },
+  {
+   "titre": "In Artificial Intelligence Adoption Trust Beats Capability Every Time - Engineering News-Record",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnZNTXJRVnR0TzZ2R2ZPZmt2MUo4SWk2TERGaUVyaG9HQkY5clhuaW9nanlNN3ZoR0xnQUpGeXhzWmV5aEhNbVZwR3VKeGlZUXBPdXAtNjdNdHRLUG54RnRNYklFSVdmMTN4UTV3dkNaenJCNkVRb3BnaTRaNnhsTks0R2JLaVNJYUpRX19XSWRiM3JoeUt1T2hDc0xuX0hQTDZEUFNxMA?oc=5",
+   "date_pub": "2026-07-30",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 80 jours (limite : 30)"
+  },
+  {
+   "titre": "Suffolk to embed AI engineers within construction projects - Construction Dive",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGlJT2xCSGMzMkNjbHhKRDVVZ2JmZkVRLXUycGdYTzVfQm16TEJFN182LVdxU0R3allZTy1xY2tkRW5YUjRMT3RTUWFqeTJMRXFRT2IxdzAwdmtsVFhPal9WNk9yWjFLSVlsWl9kaDl4dHJqNEZSQW50RXdFa3o5Zk9KSjNSVFZMeUJzM3JyZGd6dw?oc=5",
+   "date_pub": "2026-06-17",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 123 jours (limite : 30)"
+  },
+  {
+   "titre": "DATA CENTRES: Alberta May See ‘Gigawatt-Scale’ AI Data Centres Under Construction This Year - EnergyNow",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHVkaGNLYmRZZ2NqUm1DakVZNjltZDVsaGJjNGtzai1jaWVxY2lYMjlpRndMNWItdHdPeEJyelFSMU1KTlJ1OTVWUE1TYW00N0NpNXZTZlNyZVZBTkpBa0F6T0JWS2JnRWJmVnJxNG4wV3dhNVcxZjBvaU0tbEpCTk5YY3huQklCN09DdzdwWnBsd0RfcUtjMDBLeU5HcHNQX1ZqZEdWeDE?oc=5",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
    "titre": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History - WSJ",
@@ -1168,31 +1123,13 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "In Artificial Intelligence Adoption Trust Beats Capability Every Time - Engineering News-Record",
+   "titre": "Autodesk celebrates the 40 Under 40 Champions of Construction for 2026 - Autodesk News",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnZNTXJRVnR0TzZ2R2ZPZmt2MUo4SWk2TERGaUVyaG9HQkY5clhuaW9nanlNN3ZoR0xnQUpGeXhzWmV5aEhNbVZwR3VKeGlZUXBPdXAtNjdNdHRLUG54RnRNYklFSVdmMTN4UTV3dkNaenJCNkVRb3BnaTRaNnhsTks0R2JLaVNJYUpRX19XSWRiM3JoeUt1T2hDc0xuX0hQTDZEUFNxMA?oc=5",
-   "date_pub": "2026-07-30",
+   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxckQ0eXZ5SmNGc3NLbXRFQnliYS14OVdvSjFiYlhWcjEwT0ZldlBoWUhjMzB1ZEFWU0JWeXFNMFlJa09YSkprc0FVS25HY2lRS19GNjNCbkJ3Q2VLVVBJS3lmSGxPTS1rSjNxaWRzZVg1Z0M5?oc=5",
+   "date_pub": "2026-07-28",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 79 jours (limite : 30)"
-  },
-  {
-   "titre": "Suffolk to embed AI engineers within construction projects - Construction Dive",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGlJT2xCSGMzMkNjbHhKRDVVZ2JmZkVRLXUycGdYTzVfQm16TEJFN182LVdxU0R3allZTy1xY2tkRW5YUjRMT3RTUWFqeTJMRXFRT2IxdzAwdmtsVFhPal9WNk9yWjFLSVlsWl9kaDl4dHJqNEZSQW50RXdFa3o5Zk9KSjNSVFZMeUJzM3JyZGd6dw?oc=5",
-   "date_pub": "2026-06-17",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
-  },
-  {
-   "titre": "New York hit pause on big data centers. Here’s what it means for construction. - Crain's New York Business",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmttQjBDTkJaajdfb0pTQ2JtQWY1TnhIR0F0ajBqWUVtbWlPRlFmMXdJZG1YSEFwdkRjNkhneXotNVJrdkw1Q2dwdTBWaWlaQk1OSEh4LXNyNG1NbkpPYVNBSjIxTUY3RkJ3QWxPXzBuMUlLMHg4SUtZY1d4My1nR0FINk9ZREhaYVQ5NmVJaWVYMFc1X2FUOWoycVlqMGJzeHBTSUhMRWVKSElkUHVFQjg4Y3ZBYmdlNTNkQnVyRTZ2eGVvVlE?oc=5",
-   "date_pub": "2026-08-10",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 68 jours (limite : 30)"
+   "raison": "publié il y a 82 jours (limite : 30)"
   },
   {
    "titre": "Applied Digital Delivers Second Building at Polaris Forge 1 - Applied Digital Corporation (APLD)",
@@ -1201,7 +1138,7 @@
    "date_pub": "2026-07-01",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 108 jours (limite : 30)"
+   "raison": "publié il y a 109 jours (limite : 30)"
   },
   {
    "titre": "How construction pros used tech to save money, vet drawings and improve site safety - Construction Dive",
@@ -1210,7 +1147,43 @@
    "date_pub": "2026-08-12",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 66 jours (limite : 30)"
+   "raison": "publié il y a 67 jours (limite : 30)"
+  },
+  {
+   "titre": "Data Centers Move Center Stage - Center for European Policy Analysis (CEPA)",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tOWt2Rlo0bjd1SjRNYVhMdld4bTFQQWxCQlg2WC1DSVBxZDI3NTdGVkd1dmlkREhIeUVGdnkwclRLNmFFS2IxQzluRDBUbUZDajM2a0ZVdFRSOE1haWZvNUxvUjdyN1E?oc=5",
+   "date_pub": "2026-08-27",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 52 jours (limite : 30)"
+  },
+  {
+   "titre": "Commissioners earmark funds for AI program responsible for ensuring new construction complies with regulations - Houston Public Media",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxObkJBWlJIbWJ0a2FoaU0xS2QtblJQMDRHcElFT0YtQnJIeWJvVWZYSU80dklMbWJtd2Qzc3h5Z1ZVUEVpLTdLamdKZmg4TnB0T09BRWZud0xCMUduajlTMHBLUE12dzR5djFnRU8yc3N0YkRWdDZ1WlVQeWNfNDNUTTJzN0RMMlJJb2VaclRFS1p5Snk4c25DeEZGNlhXOXRsNzh0M0djNzdESUlFLU95WE04N2kwUUs2WWcwdkJXQmNIZ0E4QVhoOEtUTDNramRKdXhFWXpDR0hSV2paeGE4OGxsZDIwdkl0OUFrc0h2T2VPWDlMcHhKdDBUSnFUZGVod3BlTWM4VjdFQ0phdHJkRUdiMGNibkRLckdR0gGjAkFVX3lxTFBDMm9maXJ2OGdHTXgzYjN1ZzN2ZHVoU0wyRzhsT2c1MVlod1liTTZ2eTBHbWltLWh1YVBwSEM2RUZId3gwOHNmTWxFYTdzaGg5aHdjakZTOThkY280eXU0dVhHZmxLakt0X0YybExjNTNiSkFucTlKOGkzTmtWVnJVdl9kYlFjaDNDWFUwcHQ1bVhYVEdvcUNLWktpYTAxaURoUE5OMHk2NnByVXVaeTBtVUg3NnBaUUFRU0doRFJwSl9DM28yUEg4a3FBQV9fZUkwQVdUNmlfWTVZMkFFVVFrb2YxamlsQVd4eDRtWjJOc2ttVHdjRkh1aVVfWWhaRE42WU1MUWJxMkYtTU44QVhXV2xsQXB1ZEZPTlAtN0IyRElmbw?oc=5",
+   "date_pub": "2026-08-11",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 68 jours (limite : 30)"
+  },
+  {
+   "titre": "Exclusive | Startup Targets New Frontier for AI: Construction Drawings - WSJ",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlBkWFlqd3lYc25RLVVoOFo2Tmt0Y3NyTUluSnp0UWFGR2U5aXNXdXpHLWoySHdPbVU2a05Ga0FlMm53SmY1VDBXY0YzTDd6TklUcU5Eb2NMb3RsVjVYX1RETVZoUGRpMDRpRi1hLUhoQk5hcDlkdGxVbVBTWXBxLXc2SVVhU0pJeTRTal92eDdtZi1YMndaTDNEcnRCX3FqSHZXQmVEZ2VyQQ?oc=5",
+   "date_pub": "2026-04-13",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 188 jours (limite : 30)"
+  },
+  {
+   "titre": "Americans Oppose AI Data Centers in Their Area - Gallup News",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlh0ZlJWVy1sRFlGRE5aMEVsbF9Oa045T1VUWk9NZDJLcjFwT2tfMFJxaXZkTWFBdUJtWEYtcVE1aElzQldvTkFFaTNOSTd1QWJuSGRMSVhXVGpzVmNWWEI4RENPY0xFYTBvY3REcE9oTko0X1lQNklweGRZcUZ3WQ?oc=5",
+   "date_pub": "2026-05-13",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 158 jours (limite : 30)"
   },
   {
    "titre": "OCN NI launches nine new qualifications across AI, construction, manufacturing and green skills - Belfast News Letter",
@@ -1222,58 +1195,13 @@
    "raison": "parle d'IA (ai) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Data Centers Move Center Stage - Center for European Policy Analysis (CEPA)",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tOWt2Rlo0bjd1SjRNYVhMdld4bTFQQWxCQlg2WC1DSVBxZDI3NTdGVkd1dmlkREhIeUVGdnkwclRLNmFFS2IxQzluRDBUbUZDajM2a0ZVdFRSOE1haWZvNUxvUjdyN1E?oc=5",
-   "date_pub": "2026-08-27",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 51 jours (limite : 30)"
-  },
-  {
-   "titre": "Commissioners earmark funds for AI program responsible for ensuring new construction complies with regulations - Houston Public Media",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxObkJBWlJIbWJ0a2FoaU0xS2QtblJQMDRHcElFT0YtQnJIeWJvVWZYSU80dklMbWJtd2Qzc3h5Z1ZVUEVpLTdLamdKZmg4TnB0T09BRWZud0xCMUduajlTMHBLUE12dzR5djFnRU8yc3N0YkRWdDZ1WlVQeWNfNDNUTTJzN0RMMlJJb2VaclRFS1p5Snk4c25DeEZGNlhXOXRsNzh0M0djNzdESUlFLU95WE04N2kwUUs2WWcwdkJXQmNIZ0E4QVhoOEtUTDNramRKdXhFWXpDR0hSV2paeGE4OGxsZDIwdkl0OUFrc0h2T2VPWDlMcHhKdDBUSnFUZGVod3BlTWM4VjdFQ0phdHJkRUdiMGNibkRLckdR0gGjAkFVX3lxTFBDMm9maXJ2OGdHTXgzYjN1ZzN2ZHVoU0wyRzhsT2c1MVlod1liTTZ2eTBHbWltLWh1YVBwSEM2RUZId3gwOHNmTWxFYTdzaGg5aHdjakZTOThkY280eXU0dVhHZmxLakt0X0YybExjNTNiSkFucTlKOGkzTmtWVnJVdl9kYlFjaDNDWFUwcHQ1bVhYVEdvcUNLWktpYTAxaURoUE5OMHk2NnByVXVaeTBtVUg3NnBaUUFRU0doRFJwSl9DM28yUEg4a3FBQV9fZUkwQVdUNmlfWTVZMkFFVVFrb2YxamlsQVd4eDRtWjJOc2ttVHdjRkh1aVVfWWhaRE42WU1MUWJxMkYtTU44QVhXV2xsQXB1ZEZPTlAtN0IyRElmbw?oc=5",
-   "date_pub": "2026-08-11",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 67 jours (limite : 30)"
-  },
-  {
-   "titre": "Buildcheck Raises $12M Series A To Equip Construction Teams With Vision-Based AI For Drawing Reviews - GlobeNewswire",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQUgyT1RlaWl4OEtxSzVlSXllUkpLUUNwd0Nkd1dwa0htQmFSNWpLWXhkMmFSM2V4WUVPcmxoeV9haFI2VmFPQ3E4Y1F6OTlRd0xRTUEyT0s1YVQ1SVlRRHB0aXpyQU1yaFIyTmQtd21qRGNxbFBHckt5Y2JfdWVvY01ESkxONkUxVV9tQy11U1FnR1VXUDdYRXBhWHY5dV9xMGFKSnN0ZXNFNWFNR2pwdUdMeWNHWVZoM0M4MGhJWFVCNUczVjNSUzNmNVhXM3VTRmFPbTJwd3pGUF82VXpIVS1tUGlYMjRxY3h3VTlGUGtRWF9LWXRxQTBvQVVxZkhM?oc=5",
-   "date_pub": "2026-09-09",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 38 jours (limite : 30)"
-  },
-  {
-   "titre": "Americans Oppose AI Data Centers in Their Area - Gallup News",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlh0ZlJWVy1sRFlGRE5aMEVsbF9Oa045T1VUWk9NZDJLcjFwT2tfMFJxaXZkTWFBdUJtWEYtcVE1aElzQldvTkFFaTNOSTd1QWJuSGRMSVhXVGpzVmNWWEI4RENPY0xFYTBvY3REcE9oTko0X1lQNklweGRZcUZ3WQ?oc=5",
-   "date_pub": "2026-05-13",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 157 jours (limite : 30)"
-  },
-  {
-   "titre": "Robots and AI are tackling some of the biggest challenges in construction - Virginia Tech News",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUJlN2lNWjFFTWpCT1oySUp5eDBzRDVZUEM2eU9sYkEzSm50MUdoSEROUXJwZGwtODZfQlY5S1g3eHlHRnV6NHFZR1VrOVIwZkF5Sjl6YUVXaXM4WnJTUGs0VVc1emN3N1dsZ0xiZXcwemdKUExBeWM4V2xERXZRVlU3V0R2MWczaWRvMUhsa0Q5SmQ5R3FyTDhfYTl4SF9xd185WUtnNA?oc=5",
-   "date_pub": "2026-03-17",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 214 jours (limite : 30)"
-  },
-  {
    "titre": "AI best fits contractors when it unifies the language within firms - Construction Dive",
    "source": "Google Actualités (EN)",
    "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjJQNF9uT2FUQjJwd0E0ZjJCdGg0MXRwbE1uOFlyRGhaaGxidFBVVkVtc3VYemYxeGU2dzZXQ2otaG1FZ1RuUjE0d3hGc1dhcUpiSmlRalVqMm5oWE9zSWh5dUlkY3ZFRGpPamtxUFIxek8xbU93ZDdLRkZVdWhjTklwYi1HRlo0TTltQ3pRc2JUVTI3OGl6V1hxVW91RG5GY0R1N0pn?oc=5",
    "date_pub": "2026-07-20",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 89 jours (limite : 30)"
+   "raison": "publié il y a 90 jours (limite : 30)"
   },
   {
    "titre": "Trunk Tools Launches Cortex AI Platform to Interpret Construction Drawings - Engineering News-Record",
@@ -1282,16 +1210,16 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
+   "raison": "publié il y a 123 jours (limite : 30)"
   },
   {
-   "titre": "‘Right thing to do.’ Manatee County puts the brakes on AI data centers - Bradenton Herald",
+   "titre": "Willie Nelson Lashes Out at AI Data Center Construction in Texas: ‘Loud, Water-Thieving, Light Polluting’ - Billboard",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04c0xudTJscWZZaFRKeTRBcElwa1FZUzBmRnlCYVpzTUtvWUw3TUNwM0lHNk1IbzBBWDRvdDlHZU1mNlhTNV9EQjV3M1hyYld3MjRHOWpxZ0NnVHRUZzNITVlwQjVGZV83NkJ3NkNmOUdBTDNmWnBZM2ZFc3nSAXxBVV95cUxOeEhGdk1iM1hVbGpTVHkzZ3k5dGRieHl0dWJiSGRCQnNHVV9KV3ZIWFl2aUNEVzYzYTlMRlZnaHdORS1Gb1gzS0tHZTA1eFgyX0oxaUhmRXVDY3RnVVUxbTdNbkpnRjNOS3RGUXBRUDhrWV9kaUU0MjR3Z0h1?oc=5",
-   "date_pub": "2026-07-31",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUV0bDVqQ29LUk1BWVF4UmFKMHN3emlfMDR4U0JYNjJFa3kyM2l2QUhKSXVSRWZrZ3VVTlZtQkJseHI2X1BSUkhxQVV2Y1R6RzdDblFwLTc1RjZZcHJrbW5YNkZSUVdXTTJsM0hNbENtV0hLRHZjcUFxQkFzRVRCaU5aakFtcjl4QnhyN0JPbnVaYzYxekoyeFdta1FKMU14TjlYaXdGRWxyM2VKWGt3?oc=5",
+   "date_pub": "2026-07-29",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 78 jours (limite : 30)"
+   "raison": "publié il y a 81 jours (limite : 30)"
   },
   {
    "titre": "Building an Internal Developer Platform with Artificial Intelligence - infoq.com",
@@ -1299,8 +1227,26 @@
    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NY01LcWZKdUVIVUgwSlppaXhXekVGaVNaWE5tS09qRW1KOEpSMzVxc2ZaT0ZIRXU4cUIxelAzVzdac0pOdzU2cnA1WE1Uc2hRbGNKT2VQLV9yY3hONlVYTXNfYktzSmdFQWs1Tmtxck90czJMa0pz?oc=5",
    "date_pub": "2026-09-17",
    "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (artificial intelligence) mais aucun terme architecture/BTP"
+   "etape": "ancien",
+   "raison": "publié il y a 31 jours (limite : 30)"
+  },
+  {
+   "titre": "Intel-Backed Construction AI Firm Buildots Raises $130 Million - Bloomberg.com",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXRBTUlkNzQ5SjBXX0xKbEhXYjFjaEI2UldrT3FSenRzdW5lVlNlRDI1RDhSU0VZZHE3bndhQ25PNTE2NGJzcGdrcTNta2NPZGw5VGIydHlOQjBBU3FDMXlzUldLcTBka0NiTVJuUHRHQ3JteWNWQUlvWHhzcFFIT09sWm45VmNFQ2I5ZVJiZWFVZU5wcjA4aFpKVjlaaU55T3RZaF9jeTdDbXkyQUZRNjVn?oc=5",
+   "date_pub": "2026-09-14",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 34 jours (limite : 30)"
+  },
+  {
+   "titre": "Japanese contractor launches trials of AI-powered robots for construction sites - Archinect",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSks2ZnNtSTBUbnc1NzZBTThoQmlpNU1mRU5XX1VULXNWY2J5eHZjS0RpczNEV1ltVkVJM3EwYkdXdjhGc014VG1kVFROSzFRUXhpRzlQaUdjbmxSOVF5MnQ4eDF0cTdSOG9SWWY3aENIY0JlRFlZNTBZR24wZHR6WFlWNU9saHB1cUpaR0J3aXVwY2ZQNGtJdEpLa3haamZualVaTEczaVJHbEJKVjB2VUtuY0phOEQyMVhSS1g3OTlndw?oc=5",
+   "date_pub": "2026-08-05",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 74 jours (limite : 30)"
   },
   {
    "titre": "Policymakers Consider Temporary Pause on AI Data Center Construction: What Stakeholders Need to Know - Troutman Pepper Locke",
@@ -1309,43 +1255,7 @@
    "date_pub": "2026-05-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 156 jours (limite : 30)"
-  },
-  {
-   "titre": "Contractors sound off on using AI to buy construction equipment - Equipment World",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenVSUWc1T3dXS2RycVlaVzRDNTlnR1RfUlBoRDhsMFB1X0JTTy1PblNKWVNZSmFGM2l0bUJxNlB6dmdfWTBFREx0dFJjdzlXSF9NNFVvamdUZV8tOFJaSWwydWVra1ZSRGtIUUlDekdHZkJaLVNualBBcTdQNnFHZE4wOFNBbU4xNGp0UHotcnVWeEVyRzJ6RHZ0aGgwSkVtQVpEeGFFVkpxMXhBdGxKRUc1bE9aUGtxRFcxS1hOanBNQQ?oc=5",
-   "date_pub": "2026-09-04",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 43 jours (limite : 30)"
-  },
-  {
-   "titre": "How local contractors and construction companies are leaning into AI | Expert opinion - Inquirer.com",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHhlTW1Ta2pQRC05YzNZems1bFhZWVc5SkdBbnZGb0hGNFItVlBHdHFUS1I2TnhRT2pyaVhzVkNnUDZzNGZOUUE0b3pSRXowakVJZV95YmRKWkFHTkF1c0tpMnJxRGtjblMwV1k3c1J3SE53U0Zyd090RW1rTnh1NXhhVzFadWNzRFJIZ1F4NVI0OEx3QnpKd1VMcjA3RkhBRUhvNGJPbm9Bc0lqRWdKZHlYN0hNczA4M3RVSXR6cVNoRkkw?oc=5",
-   "date_pub": "2026-08-11",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 67 jours (limite : 30)"
-  },
-  {
-   "titre": "Buildots Raises $130 Million as AI Targets Costly Construction Delays - citybiz",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEVyTjBLejBwMGFXTjh4d0FQbXlNLUhHZUV4bnBZekJWbHlReVdIWHVmQ2xhVVUtOERIQnMzRlBvcmNieXN5cnU1Z3BLY1A2Nmc3OERZbXUwTm5xQXhQLVU0VEs2MnFoY2Z4Nk92LVktMElFQ1lKaFBDUFJNUFJTeTg0YS02TlI5c1p3MHZNdENJdmFmUFd3bXpqV0FtbWw5ZG1oa0RKSFpKaUk?oc=5",
-   "date_pub": "2026-09-14",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 33 jours (limite : 30)"
-  },
-  {
-   "titre": "Building agentic workflows with SageMaker AI and Bedrock AgentCore | Artificial Intelligence - Amazon Web Services (AWS)",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclNtaTBseU1RNVdMN0ZfYTlCLXpFUmt3aEppRnNMTUhPS1BGeVR4cDRxYkR2dnY2WHpMZ2NQSk5YTGo5SE42UlFtY0h1OGZ1UFJMSkwxODI0ejRTVm1VN1l2dWdrS2MybFRBUnZVejVMZW1DNHd1b0RGQ0ZXWl9BMmRTSjFpZXpTVktsVEU2WEMwWk4tbjlRS3BPS0Z0WVhHeEhBU0pjdHVKSm1ldkRteThKUQ?oc=5",
-   "date_pub": "2026-08-14",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 64 jours (limite : 30)"
+   "raison": "publié il y a 157 jours (limite : 30)"
   },
   {
    "titre": "Construction data woes hold back robot use - Construction Dive",
@@ -1354,16 +1264,52 @@
    "date_pub": "2026-03-30",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 201 jours (limite : 30)"
+   "raison": "publié il y a 202 jours (limite : 30)"
   },
   {
-   "titre": "AI Data Center Boom Strains Global Construction Capacity - Data Center Knowledge",
+   "titre": "‘Right thing to do.’ Manatee County puts the brakes on AI data centers - Bradenton Herald",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1FmN0gtYTJjcmZ4bkc1ekZGZGZxNXFldDVWdjVJYkRmMTRZN2FqcjE1RnBOMkRDZ2FCT252TTZNcHd1Q3RRQ1F2VVYtdGFmU3hiWFh6OXdzODhpSHNBNGp4QzFqdG9jYXJ6b200YUlMZTRPLVhONEcxRHhrQnh0ejYzSVMxR0o2UUdZYnN5VjNGcDNKN0t6eHoyLWtjSmFHTGdSVklGRGJ1YlJ3WkxQbVdmeGljdVV0?oc=5",
-   "date_pub": "2026-07-22",
+   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04c0xudTJscWZZaFRKeTRBcElwa1FZUzBmRnlCYVpzTUtvWUw3TUNwM0lHNk1IbzBBWDRvdDlHZU1mNlhTNV9EQjV3M1hyYld3MjRHOWpxZ0NnVHRUZzNITVlwQjVGZV83NkJ3NkNmOUdBTDNmWnBZM2ZFc3k?oc=5",
+   "date_pub": "2026-07-31",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 87 jours (limite : 30)"
+   "raison": "publié il y a 79 jours (limite : 30)"
+  },
+  {
+   "titre": "Buildots Raises $130 Million as AI Targets Costly Construction Delays - citybiz",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEVyTjBLejBwMGFXTjh4d0FQbXlNLUhHZUV4bnBZekJWbHlReVdIWHVmQ2xhVVUtOERIQnMzRlBvcmNieXN5cnU1Z3BLY1A2Nmc3OERZbXUwTm5xQXhQLVU0VEs2MnFoY2Z4Nk92LVktMElFQ1lKaFBDUFJNUFJTeTg0YS02TlI5c1p3MHZNdENJdmFmUFd3bXpqV0FtbWw5ZG1oa0RKSFpKaUk?oc=5",
+   "date_pub": "2026-09-14",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 34 jours (limite : 30)"
+  },
+  {
+   "titre": "Building agentic workflows with SageMaker AI and Bedrock AgentCore | Artificial Intelligence - Amazon Web Services (AWS)",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclNtaTBseU1RNVdMN0ZfYTlCLXpFUmt3aEppRnNMTUhPS1BGeVR4cDRxYkR2dnY2WHpMZ2NQSk5YTGo5SE42UlFtY0h1OGZ1UFJMSkwxODI0ejRTVm1VN1l2dWdrS2MybFRBUnZVejVMZW1DNHd1b0RGQ0ZXWl9BMmRTSjFpZXpTVktsVEU2WEMwWk4tbjlRS3BPS0Z0WVhHeEhBU0pjdHVKSm1ldkRteThKUQ?oc=5",
+   "date_pub": "2026-08-14",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 65 jours (limite : 30)"
+  },
+  {
+   "titre": "Farm raising beef for tables around the world faces threat from data center construction - The Korea Times",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSkUtbk5YU1NMNk03QUN0a29WbEhwYXJodi1RSm00VklMa1hhc0JUcWlOeXA2Wl9mbXA3RXh2ZXYzZXYtcnZtMnRKZDRPM1JURkF6TWt6T09jdEhuMFJBWEF1bVdOVmxheGlZYVBxR1lOeDVPdG1XWUdId2RORkVFb0oybm9URm55ZHI2ckxlSFJEMFZPaGc4MlpFaWdVbjBidG1SWU9OOUtqanZ4VWVtNGpYaGxSOXJ1MnhncFBnQ29iaG03OGlHLVpQNk9pVGphR1lv0gHYAUFVX3lxTE10el9jZ3pHS1k3MGRWUDVzOHkxbzhTVWJPX1J1bXNSZ2t6OGZkcl83RDJFeFBHMDRZeGlNWWtxQ29HZE40OFFrVkVIbllVVjBFY1NJeTgta2Q4NER4SURPdEZRYVhMckNpTlhNWHIzSGhhaTNCSElCb0h6UThGNzlPeV9LQlFfbXZ3SXZHQ3FfOXRwdnp4OTA4NTh5TGpucDhXMDNqTWo4V1FxWTRzSXh4ZTVZY3FXamc2VHM2TnNJel9FWlJUbDZteFcxUFExakMzQnZnUUFINQ?oc=5",
+   "date_pub": "2026-10-15",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "How local contractors and construction companies are leaning into AI | Expert opinion - Inquirer.com",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHhlTW1Ta2pQRC05YzNZems1bFhZWVc5SkdBbnZGb0hGNFItVlBHdHFUS1I2TnhRT2pyaVhzVkNnUDZzNGZOUUE0b3pSRXowakVJZV95YmRKWkFHTkF1c0tpMnJxRGtjblMwV1k3c1J3SE53U0Zyd090RW1rTnh1NXhhVzFadWNzRFJIZ1F4NVI0OEx3QnpKd1VMcjA3RkhBRUhvNGJPbm9Bc0lqRWdKZHlYN0hNczA4M3RVSXR6cVNoRkkw?oc=5",
+   "date_pub": "2026-08-11",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 68 jours (limite : 30)"
   },
   {
    "titre": "3 Top-Ranked AI Construction Stocks With Double-Digit Near-Term Upside - Yahoo Finance",
@@ -1372,7 +1318,7 @@
    "date_pub": "2026-05-25",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 145 jours (limite : 30)"
+   "raison": "publié il y a 146 jours (limite : 30)"
   },
   {
    "titre": "New Orleans Port, Railroad Use AI for Construction Deliveries - GovTech",
@@ -1381,25 +1327,16 @@
    "date_pub": "2026-06-11",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 128 jours (limite : 30)"
+   "raison": "publié il y a 129 jours (limite : 30)"
   },
   {
-   "titre": "Take the Leap: Practical Tips to Unlock AI Enhancements - CBIZ",
+   "titre": "Buildcheck Raises $12M Series A To Equip Construction Teams With Vision-Based AI For Drawing Reviews - GlobeNewswire",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFc3dHBnMW5wVUZCT2ZQRzNHYmJxb2FDTUdtM1ZReGZNb1hCOHVreUV2UUxzbUtIU1pyYVhYOFItWGUtbE8zQ1NEdTJIZU5jaFUyR2JsOE9VRHNLYXJZZXpHWnZmS3NvZWZXMFk3RkJ6Mm1sQzlqYkFCal9RS3M0cjlGUWpzMUdMLWRGME5pampzdUxYRlZF?oc=5",
-   "date_pub": "2026-06-26",
+   "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQUgyT1RlaWl4OEtxSzVlSXllUkpLUUNwd0Nkd1dwa0htQmFSNWpLWXhkMmFSM2V4WUVPcmxoeV9haFI2VmFPQ3E4Y1F6OTlRd0xRTUEyT0s1YVQ1SVlRRHB0aXpyQU1yaFIyTmQtd21qRGNxbFBHckt5Y2JfdWVvY01ESkxONkUxVV9tQy11U1FnR1VXUDdYRXBhWHY5dV9xMGFKSnN0ZXNFNWFNR2pwdUdMeWNHWVZoM0M4MGhJWFVCNUczVjNSUzNmNVhXM3VTRmFPbTJwd3pGUF82VXpIVS1tUGlYMjRxY3h3VTlGUGtRWF9LWXRxQTBvQVVxZkhM?oc=5",
+   "date_pub": "2026-09-09",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 113 jours (limite : 30)"
-  },
-  {
-   "titre": "6 contech startups net $234M in recent funding - Construction Dive",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1N0dUZid0VVcDB0YlRMcE04VlQ1QkNCT3RTdlhRRFdWal96OWNHeldGMWlQRDgzV0cyZjhNTVNjblRtbXhocjB2UkhHUk03bXZqd1hKdG1UOFo3c0lBNW5MV3pLZzQ3ckozZDJRMFp0SXJDbjBxcWl2WHpkTU9QZ0ZSQW8ydUNYaVNZR0VEWTd5UlR1WklZ?oc=5",
-   "date_pub": "2026-08-05",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 73 jours (limite : 30)"
+   "raison": "publié il y a 39 jours (limite : 30)"
   },
   {
    "titre": "Independence neighbors sue to stop construction of $150 billion AI data center - Kansas City Star",
@@ -1408,7 +1345,7 @@
    "date_pub": "2026-08-15",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 63 jours (limite : 30)"
+   "raison": "publié il y a 64 jours (limite : 30)"
   },
   {
    "titre": "Israeli AI construction startup Buildots raises $130 million to fuel global expansion - Ynetnews",
@@ -1417,7 +1354,16 @@
    "date_pub": "2026-09-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 33 jours (limite : 30)"
+   "raison": "publié il y a 34 jours (limite : 30)"
+  },
+  {
+   "titre": "6 contech startups net $234M in recent funding - Construction Dive",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1N0dUZid0VVcDB0YlRMcE04VlQ1QkNCT3RTdlhRRFdWal96OWNHeldGMWlQRDgzV0cyZjhNTVNjblRtbXhocjB2UkhHUk03bXZqd1hKdG1UOFo3c0lBNW5MV3pLZzQ3ckozZDJRMFp0SXJDbjBxcWl2WHpkTU9QZ0ZSQW8ydUNYaVNZR0VEWTd5UlR1WklZ?oc=5",
+   "date_pub": "2026-08-05",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 74 jours (limite : 30)"
   },
   {
    "titre": "Oracle Transforms Construction Safety Management with AI - Oracle",
@@ -1426,7 +1372,7 @@
    "date_pub": "2026-03-05",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 226 jours (limite : 30)"
+   "raison": "publié il y a 227 jours (limite : 30)"
   },
   {
    "titre": "AI Data-Center Construction Is Booming—but Not Much Else Is - WSJ",
@@ -1435,7 +1381,7 @@
    "date_pub": "2026-07-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 95 jours (limite : 30)"
+   "raison": "publié il y a 96 jours (limite : 30)"
   },
   {
    "titre": "Artificial intelligence assisted structural realignment of high-rise buildings through lifting, grouting and reinforcement - Nature",
@@ -1444,25 +1390,16 @@
    "date_pub": "2026-04-21",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 179 jours (limite : 30)"
+   "raison": "publié il y a 180 jours (limite : 30)"
   },
   {
-   "titre": "Nvidia's CEO says ‘a lot’ of six-figure jobs in plumbing and construction are about to be unlocked - Fortune",
+   "titre": "New AI tool now required for some building permit applications on Oahu - Hawaii News Now",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORmlJNE1EbVdBWXVlTEIzQzZ0YU9BVXppY0R2bTVaQWxZaGtjTEtQc0dldmpJVTlFVjhYbTFXc0laamlab25UOTBQZUVxUmlMNnphRXNwR2RtdFJyV0dwSVlfM0tJYW45c0ZkY2JTZmRfUHNvNUdNcUVoQUJxa0tLeE9kVUNLNGpESGRKZkpCaFZQcklPOU90Ml9heEpKcnJzcHJnRnFUMU9ManlqU2doTkc5VFVjU193ZFJMT2VWaktCb3g4b3UwNXBwT3d0SFpjOWV2SmloaFZtMkVVZ040d1k2djFSZjlpSlJyc3FSbVdCWG5XYXNhaEFJQlA?oc=5",
-   "date_pub": "2026-08-01",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb29reV94UEtILUhLS2MtM01HT25xRGdBckE0SzRaVjN1UTIzZUh2ekNHSjJ5Y1N1ZmZVbXRyUGhiZ1loYjM4RHRuTWNDcmgyVGdiWk1tWm1PNkdnRFBhM2ZrYUdQRkc4S2VjTWtKR0ZBSk1paGEtYy1abzd0N1Y3OVJYNUIyOHd3dVVJWW96VXlDZHo4Ym9MYktNclRuNnFuNHFMTGNoVDTSAbwBQVVfeXFMTWJ2N0lVcWtjX2lXaDFBRFQ3dUl1U213VldMbUdCaWZxVTZnQkJ3TDliUDlKZElqdGJLU0Z4dGliSzF4ZzcxeEtJRUpXT0F1YzQ0U2Q4cjVGLUhBQ1BnWWpLTUZsTWpfRjZfWS0yY2xQdVZqRW9BcU1EcEQta2VXNmFwVVlzWTg0YlJmNlVjY0lIblIyMHVMRElIdmxfR01iVkhRMDdKU294cGZBRnZoWUVpOG5KaUFvMFJUckk?oc=5",
+   "date_pub": "2026-09-01",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 77 jours (limite : 30)"
-  },
-  {
-   "titre": "OFA Group Launches PlanAId, Bringing AI-Assisted Building Code Intelligence Earlier Into the Design Process - Yahoo Finance",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzBEZlhlQ1p2dl9GdHJJaDNCeEdIY2VPT1FhX3g5azd4Y3IzNVhRWjJsa3FSRXNnbWxNRVRpZnpfekxfREdfU05wTk9MXzFMNTdHQWRlOFBUMVlENV9QVW9weWZaYWY2YWczTFJIVUkyZFNSeU1Yak1qNlJuOENZX1FBM2lpZTg1NEhYWXpwYUJ3RHBDVjZGc3h3Wk8tTXh2?oc=5",
-   "date_pub": "2026-09-08",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 39 jours (limite : 30)"
+   "raison": "publié il y a 47 jours (limite : 30)"
   },
   {
    "titre": "The national security implications of building frontier AI data centers overseas - Brookings",
@@ -1471,16 +1408,34 @@
    "date_pub": "2026-08-03",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 75 jours (limite : 30)"
+   "raison": "publié il y a 76 jours (limite : 30)"
   },
   {
-   "titre": "Data Centre boom raises costs across Construction markets - Oxford Economics",
+   "titre": "Nvidia's CEO says ‘a lot’ of six-figure jobs in plumbing and construction are about to be unlocked - Fortune",
    "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uSEdLeWZNMEwxc1FDWjllcTVkcHhUVW1oMXpwdU1IbVA3Ny1mdlhXbFo1X3FPSmpsY0dUcEYxM1ptNUE0azItMXYzLVBSR2xSRFhfc3g2SVItZWx2T0RzR2U1U25uU1diM3h2RVBlMUtNSHZ1Vmc?oc=5",
-   "date_pub": "2026-06-24",
+   "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORmlJNE1EbVdBWXVlTEIzQzZ0YU9BVXppY0R2bTVaQWxZaGtjTEtQc0dldmpJVTlFVjhYbTFXc0laamlab25UOTBQZUVxUmlMNnphRXNwR2RtdFJyV0dwSVlfM0tJYW45c0ZkY2JTZmRfUHNvNUdNcUVoQUJxa0tLeE9kVUNLNGpESGRKZkpCaFZQcklPOU90Ml9heEpKcnJzcHJnRnFUMU9ManlqU2doTkc5VFVjU193ZFJMT2VWaktCb3g4b3UwNXBwT3d0SFpjOWV2SmloaFZtMkVVZ040d1k2djFSZjlpSlJyc3FSbVdCWG5XYXNhaEFJQlA?oc=5",
+   "date_pub": "2026-08-01",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 115 jours (limite : 30)"
+   "raison": "publié il y a 78 jours (limite : 30)"
+  },
+  {
+   "titre": "OFA Group Launches PlanAId, Bringing AI-Assisted Building Code Intelligence Earlier Into the Design Process - Yahoo Finance",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzBEZlhlQ1p2dl9GdHJJaDNCeEdIY2VPT1FhX3g5azd4Y3IzNVhRWjJsa3FSRXNnbWxNRVRpZnpfekxfREdfU05wTk9MXzFMNTdHQWRlOFBUMVlENV9QVW9weWZaYWY2YWczTFJIVUkyZFNSeU1Yak1qNlJuOENZX1FBM2lpZTg1NEhYWXpwYUJ3RHBDVjZGc3h3Wk8tTXh2?oc=5",
+   "date_pub": "2026-09-08",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 40 jours (limite : 30)"
+  },
+  {
+   "titre": "Kentucky lawmakers hear school construction funding requests, AI classroom updates at education committee - WKYT",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQkZqMTRqUXNWcTRtLTVXMVI0V1FNMG9SMWdqa1RMVVI0VVlGSWN5Vk5pYXVDbmk5ejVHMy1TNTFWYVdUd2Jpbm9KQnVZcW8xMGpLVU5hMWlvVERJTDN1UXBUWkZEMWttc3Q4QlE1OXFMREVFTzhYYUVVRVh1TkY0N3FqU21YTXhCX3VKbVQwSTM1UmcxVlR4NzhRcXV1WlY5Wkd6ZVlzSm5BUHlqMHl4RWwwN1hGVUEyQTlnRm9tTXZYZFE0Sjl5Wl9yMUx6TFHSAeMBQVVfeXFMT3hDckZzdjVqeU90bGNFQ2VxQXFuOE1IRUZwQzQ2bUhwbWViSmRSR3JZaFRzVFkySkhaanZ4YUpGWFpyWGJ6c0JhY3BEbmZNb1FYdURQc01TSENQcERoRG1iRTVtVzJWeVlOaHdvd2syd09JSUFITVFoRVlQTDBWelFqbVRkNkt1dnVTR3NSVGRKbTFpd296TWVtU01MTlV3dElINFB4SnVzcDFwbi12ZDlGV0JfS1NJdGF3X1FVaUttWWFBUy1tYU04OG53TGl0S2JtWGVYRGtYcUpLQlJRUlRNT1k?oc=5",
+   "date_pub": "2026-09-01",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 47 jours (limite : 30)"
   },
   {
    "titre": "Data Centers Are Spreading. So Are Moratoriums. - Governing",
@@ -1489,7 +1444,7 @@
    "date_pub": "2026-08-20",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 58 jours (limite : 30)"
+   "raison": "publié il y a 59 jours (limite : 30)"
   },
   {
    "titre": "AI Needs More Than GPUs. These 3 Stocks Are Building Everything Around Them - 24/7 Wall St.",
@@ -1498,7 +1453,7 @@
    "date_pub": "2026-08-10",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 68 jours (limite : 30)"
+   "raison": "publié il y a 69 jours (limite : 30)"
   },
   {
    "titre": "Building trade assistant: How Jefferies optimized front office trading operations with AI - Amazon Web Services (AWS)",
@@ -1507,16 +1462,7 @@
    "date_pub": "2026-07-23",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 86 jours (limite : 30)"
-  },
-  {
-   "titre": "Savannah River Site AI data center moves closer to construction - The Augusta Chronicle",
-   "source": "Google Actualités (EN)",
-   "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVmMtVEZtVGVuWld5ZWprdVhNRTRkUzN0R01JcGEtbUppNmVjcy0wbkFvNzF0R01CSHU3cy1DcjViUExhMFdEVXBiczdRbXZpd2FuUVpQZWtod3RHMVRtSjZETXJJQWFIMWxJMWVMX2hkZjdyR0hYeDU5b3RPQ2RqWDl2RE8tNWY5TE1WQTR0a293YThnbXdkdk1hQjV0cE5ZMTY4SW9tLWgyRVhtVzNvM1A2ajBRX0lKN3dxUlNWaXFFbFY4eU85ajBjUFVwenNMZlNrdThfREstNUxOTm9WaDd1QXJxbW8wWTlBXzF1cnJXYTFDeERXSkpxNzFLanZoSVE?oc=5",
-   "date_pub": "2026-07-27",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 82 jours (limite : 30)"
+   "raison": "publié il y a 87 jours (limite : 30)"
   },
   {
    "titre": "McCarthy and Palantir Announce Strategic Partnership to Bring AI to the Construction Field and Beyond - Palantir",
@@ -1525,7 +1471,25 @@
    "date_pub": "2026-06-04",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 135 jours (limite : 30)"
+   "raison": "publié il y a 136 jours (limite : 30)"
+  },
+  {
+   "titre": "Savannah River Site AI data center moves closer to construction - The Augusta Chronicle",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVmMtVEZtVGVuWld5ZWprdVhNRTRkUzN0R01JcGEtbUppNmVjcy0wbkFvNzF0R01CSHU3cy1DcjViUExhMFdEVXBiczdRbXZpd2FuUVpQZWtod3RHMVRtSjZETXJJQWFIMWxJMWVMX2hkZjdyR0hYeDU5b3RPQ2RqWDl2RE8tNWY5TE1WQTR0a293YThnbXdkdk1hQjV0cE5ZMTY4SW9tLWgyRVhtVzNvM1A2ajBRX0lKN3dxUlNWaXFFbFY4eU85ajBjUFVwenNMZlNrdThfREstNUxOTm9WaDd1QXJxbW8wWTlBXzF1cnJXYTFDeERXSkpxNzFLanZoSVE?oc=5",
+   "date_pub": "2026-07-27",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 83 jours (limite : 30)"
+  },
+  {
+   "titre": "Octave and MAIRE collaborate on the application of AI across engineering and construction workflows - Yahoo Finance",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM25JaFYzX3ktYldPWm9DSlo2YmxuM2FPWDB1QW1yWmNfckhYVzhFVzBsQWhoT09EdkJ2bkMtdENxZjlZcTRMSXB6RVRZTXlzblpKcFZOb2NMMnlxSWt6dEFURWpWZHNtTkNyQnBPMS1Kb1lib2RGNmJaUTlJdng0dWZ0MG9GeXg1N0hUX2FkZXF1c08xMU9GT1g3Q3VEbXMwcE95TWtB?oc=5",
+   "date_pub": "2026-08-31",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 48 jours (limite : 30)"
   },
   {
    "titre": "A labor shortage is choking off AI data center construction - NBC News",
@@ -1534,7 +1498,7 @@
    "date_pub": "2026-08-06",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 72 jours (limite : 30)"
+   "raison": "publié il y a 73 jours (limite : 30)"
   },
   {
    "titre": "AI Makes Building Easy. Choosing What to Build Is Harder. - Harvard Business Review",
@@ -1543,7 +1507,7 @@
    "date_pub": "2026-08-12",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 66 jours (limite : 30)"
+   "raison": "publié il y a 67 jours (limite : 30)"
   },
   {
    "titre": "‘Historic’ labor market shrinkage highlights need for AI: Brusuelas - CFO Dive",
@@ -1552,7 +1516,7 @@
    "date_pub": "2026-08-10",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 68 jours (limite : 30)"
+   "raison": "publié il y a 69 jours (limite : 30)"
   },
   {
    "titre": "New Book, Building Smarter with AI, Positions Artificial Intelligence as a Strategic Imperative for Construction Leaders - GroundBreak Carolinas",
@@ -1561,7 +1525,7 @@
    "date_pub": "2026-02-21",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 238 jours (limite : 30)"
+   "raison": "publié il y a 239 jours (limite : 30)"
   },
   {
    "titre": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands - The New York Times",
@@ -1570,7 +1534,7 @@
    "date_pub": "2026-07-29",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 80 jours (limite : 30)"
+   "raison": "publié il y a 81 jours (limite : 30)"
   },
   {
    "titre": "Weld County officials have told an AI company to stop construction on a new data center. Three times. - Colorado Public Radio",
@@ -1579,7 +1543,7 @@
    "date_pub": "2026-08-07",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 71 jours (limite : 30)"
+   "raison": "publié il y a 72 jours (limite : 30)"
   },
   {
    "titre": "The AI Era in Construction: Why You Need a Long-Term BIM Partner, Not Just a Modeling Vendor - Vocal",
@@ -1588,7 +1552,7 @@
    "date_pub": "2026-03-05",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 226 jours (limite : 30)"
+   "raison": "publié il y a 227 jours (limite : 30)"
   },
   {
    "titre": "How Israel’s Construction Intelligence Is Transforming Global Infrastructure - The Times of Israel",
@@ -1597,7 +1561,16 @@
    "date_pub": "2026-06-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 122 jours (limite : 30)"
+   "raison": "publié il y a 123 jours (limite : 30)"
+  },
+  {
+   "titre": "Artificial Intelligence and Infrastructure: From Automation to Intelligent Infrastructure - Egis",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEt6d0RockgwOWNmVnd5OUNRQ0xYVnd6bmEzc2MtQVQ0LXQtZXgzZUhDU21MLXphcjAydF9CdEVHTG8tanZ4RS1sdFN1SEFpcm13ZlNPXzlaWEl0ZWdJQ21VZi16ajJidktGR0JhZ1p2Q0lqS3hjdmV1Uk9BTVUwbVcwMUVqRHBYNFdqTTVWblZHdzNiQmZnZXdwUDlZdmxPblJIQkdDb19TcWNYVUFiQkpqME4tRkJ0aE9QYm1RM0JCNFV6RTFB?oc=5",
+   "date_pub": "2026-07-16",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 94 jours (limite : 30)"
   },
   {
    "titre": "Suffolk CEO John Fish on AI and the Jobsite of the Future - Engineering News-Record",
@@ -1606,13 +1579,31 @@
    "date_pub": "2026-07-23",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 86 jours (limite : 30)"
+   "raison": "publié il y a 87 jours (limite : 30)"
+  },
+  {
+   "titre": "How AI could help Atlanta build faster as the metro area grows - CBS News",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlk2a25obDdERjFyd2ZCbGVGakZxWHMxS0xmZkktTFRyZDhONzk2RkNGQkNpbTJGaVFYRUh3U1V5ajFWdU9LSmVBRmVBa3hldE1TQXVWNHVsN1lKcWwzTUwwMmFPbVRlTnE3aENmVURfR0FGbWRIbGVfUWQzdDZzRlVLXzNjYlBZM3FyUmVDSDBRak9EbzgtNmxNTWxUdk5udXc?oc=5",
+   "date_pub": "2026-05-21",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 150 jours (limite : 30)"
+  },
+  {
+   "titre": "Managing data centre energy and water use in the AI era - World Economic Forum",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORG94bjY2NFQwVkNibzY4OUMtc1AyT1I0b3BPWTVtSHJOT3VYZDRMVm9PR3JaUUdyUy1ZLVRZUkNVNkItMnhkb2o1ckRPRVBMTzRfbVcxNHk1S09BWllTZU5tWE1waFkxVWVzcU12MEN6Y1JiODdPQk8xdVBqa3hHRG9mY2pnd2h2Q2FpUGFrVXNqT0p2bE9zNQ?oc=5",
+   "date_pub": "2026-06-17",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 123 jours (limite : 30)"
   },
   {
    "titre": "Des emplois pas des IA (un supercalculateur à CONDAT) - GreenVoice",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGdkdHhuanFPRjBZa3V0ZzVJOUtFeVZqdnktQTdLelQySWphdFg4UmhiX056RnM3bFZJTVdFcHRrQkNGcnNnZHMzSUJlaW44aWZnVmd3RGF3ZWRTNlByV3lrNGtBY0YzdFF2RXdRMzUtMnh3cC16RHlyWk02eExIblNLc25uN2lhY3B5Y3dvbjJodw?oc=5",
-   "date_pub": "2026-10-17",
+   "date_pub": "2026-10-18",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
@@ -1654,13 +1645,13 @@
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Hanoï exige que 100 % des grands projets de construction soient soumis à un contrôle des niveaux de poussière à l'aide de caméras et d'intelligence artificielle. - Vietnam.vn",
+   "titre": "\"La construction a commencé\" : l'étonnant projet d'entrepreneurs de la tech qui veulent construire leur propre cité... en Uruguay - franceinfo",
    "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2NuY1dONEJITXcwZVhMMDBOUTJSakdCTlFQMm5oN19xZmZsY0dBWklBMHBvRzNJbU45OGdpRHJLQS05MmNYMGU3dWk5aHRBUUZ6YW9BTkw1UHByNjlEYmRURldCeGVIaGVZSmFGby0tTmRBRzRwbGpBQjc5UjB4cmIxTHl4bFFyNTVybExsdUo?oc=5",
-   "date_pub": "2026-10-17",
+   "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUThlYk0yRjllQWNmeTJLLUIxWUx3OXR2MG5lZlhrOVllNDJUX1VvRFc2OUtHOUVJcHEzdnhReDB4Ynp2c2ZsNE8yeVZHY3llazRGbzVoc2dFcl9aOVhWSnhMcURQTEZQOHBmcXdhRWdKNFFMTmxkbGRjeGpsblVsU3lyZUtBWEpUN28wRDlQX1paQWM5dTFkOW9QT056dGhDRGxnb29WWGEyTTUxekVSU1lJNVlJbWNTeHc1TVhISnF2UmNSaUlRRVVWV1JubXZLT2JCcGFpd0pYX0ROMUtyZ2lnVzRDOTNSQnEydmlHdDd4cndYbUl1X19xbE1GaWVrdUF5bk1DOEVfcEVqU2NTUlp6ZVB5M1NDN2hSMmswdVliUQ?oc=5",
+   "date_pub": "2026-09-27",
    "decision": "rejeté",
    "etape": "hors_sujet",
-   "raison": "parle d'IA (intelligence artificielle) mais aucun terme architecture/BTP"
+   "raison": "aucun terme IA ni architecture/BTP"
   },
   {
    "titre": "VivoPower lance la construction d’un centre de données IA de 40 MW en Norvège - Investing.com France",
@@ -1670,15 +1661,6 @@
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "\"La construction a commencé\" : l'étonnant projet d'entrepreneurs de la tech qui veulent construire leur propre cité... en Uruguay - franceinfo",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUThlYk0yRjllQWNmeTJLLUIxWUx3OXR2MG5lZlhrOVllNDJUX1VvRFc2OUtHOUVJcHEzdnhReDB4Ynp2c2ZsNE8yeVZHY3llazRGbzVoc2dFcl9aOVhWSnhMcURQTEZQOHBmcXdhRWdKNFFMTmxkbGRjeGpsblVsU3lyZUtBWEpUN28wRDlQX1paQWM5dTFkOW9QT056dGhDRGxnb29WWGEyTTUxekVSU1lJNVlJbWNTeHc1TVhISnF2UmNSaUlRRVVWV1JubXZLT2JCcGFpd0pYX0ROMUtyZ2lnVzRDOTNSQnEydmlHdDd4cndYbUl1X19xbE1GaWVrdUF5bk1DOEVfcEVqU2NTUlp6ZVB5M1NDN2hSMmswdVliUQ?oc=5",
-   "date_pub": "2026-09-27",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "aucun terme IA ni architecture/BTP"
   },
   {
    "titre": "Ce que la construction d’un second cerveau dopé à l’IA m’a appris sur le premier - Orange.com",
@@ -1693,10 +1675,19 @@
    "titre": "Transformation numérique : de la construction des bases aux résultats concrets - Thông tấn xã Việt Nam",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYllaMlNka2FOUExKLVVvRk0yVWxCVUQwWURTdHVGeF9oU2s2VldCa0FEUEp2R2lhd0pSSW5WcFBqSDJiYWpHMHp2ZU8ya2pUOFdOM0JrNUxaSUJDTVNzYnVVX1k3dnpmRnpUbE5tQ3JaNkNqOU5FOVEyZXVlTmJPd0x6Z0YxTF9hS1VCNlFJaHpJTmJzOV80czkyYWhLSUdEVXlKa3BxZ01rX0dhZEk0d1ZSZ2tYcXdnWTcyaGphdXZGZ1g2X0U1Yw?oc=5",
-   "date_pub": "2026-10-04",
+   "date_pub": "2026-10-05",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "aucun terme IA ni architecture/BTP"
+  },
+  {
+   "titre": "Vers la construction de gouvernements et de villes intelligentes pilotés par l'IA. - Vietnam.vn",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXBfWDVWQ0kwZjVwMUgyV0FwaDJ3OFJKX3dNb3lzWi13UjllX29tOXpqdGFZSnItTEFXNHhvTmdpSFE5d1R2VG4xdWJORU9HcW44QWo4Yl9FTDgzcF8zbWotWjdjUHdINE0tRmxYa2thd3RVWkN3TWY2TE0zOGJfQ2JrcjA0TEE?oc=5",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
   },
   {
    "titre": "Bloomberg Intelligence rapporte que le coût de construction de centres de données IA pourrait atteindre 30,7 milliards de dollars pour une capacité de 1 GW - KuCoin",
@@ -1714,7 +1705,7 @@
    "date_pub": "2026-08-03",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 75 jours (limite : 30)"
+   "raison": "publié il y a 76 jours (limite : 30)"
   },
   {
    "titre": "Les dépenses en IA stimulent une grande part de la croissance économique des États-Unis. - Quartz en Français",
@@ -1744,6 +1735,15 @@
    "raison": "parle d'IA (ai, ia) mais aucun terme architecture/BTP"
   },
   {
+   "titre": "Hanoï exige que 100 % des grands projets de construction soient soumis à un contrôle des niveaux de poussière à l'aide de caméras et d'intelligence artificielle. - Vietnam.vn",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2NuY1dONEJITXcwZVhMMDBOUTJSakdCTlFQMm5oN19xZmZsY0dBWklBMHBvRzNJbU45OGdpRHJLQS05MmNYMGU3dWk5aHRBUUZ6YW9BTkw1UHByNjlEYmRURldCeGVIaGVZSmFGby0tTmRBRzRwbGpBQjc5UjB4cmIxTHl4bFFyNTVybExsdUo?oc=5",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (intelligence artificielle) mais aucun terme architecture/BTP"
+  },
+  {
    "titre": "Des élus de Regina débattront des répercussions du centre de données d’IA - Radio-Canada",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkVfZWpQbl9QcU9JN3kyUHpGUTlKTWFyRGJMczI5anNyM1hYczd5M3dDeXByQ2JmYnRkd1lBV2JNVkVSNzZSSDNiMV8xQ1Axb3FuR3FtdldMVF9hRkczVlNmX3FRV21ySUQtSVpONm9yNnY0X0FpMmJyNUd2QXNQSFVpZ0xWdlZrdEJqdEstb1dpc1VqeVE?oc=5",
@@ -1762,13 +1762,13 @@
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Miter lève $40M en série B pour remplacer le « Frankenstack » de la construction par un système d’exploitation IA‑natif - Unite.AI",
+   "titre": "« C'est un game changer » : l'intelligence artificielle gagne du terrain dans la construction - Les Echos",
    "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWdBcS1HN2xWNFRvdDZKUlhHWGdYczc5ZGc4X2VfTTJPSENSX2h3RTZ2dHQzLW5QX3lSOElvRVlreFo2OTdrN1VEa3V2NzBON1NEcXFCU1RFSENORjEzVUM1N3h0WXlhZ2NWWk9MZmdseWhWMmR2UF9fR0FRSXJGZ1RaZi1jTkxoc3AzalpyT0R1aGlYUThuZTUtM0J5TVFTXzlzNklWV19YQlhUWldwbEpSb3hFamxuVnlDenJFTUQ?oc=5",
-   "date_pub": "2026-09-30",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdkZpbFlmOUw4TXR0NjRsdExOSzdudUh0MG1sYnNvaUhCRzJfLUxfZ09JOG9Yd21MTkhrdUIwUFVMbERqUzV1eGUxUEFUTTQ0TzlUcUFyYU1EbWlJNFZDM1o2ZVdhMXVCNTM1cEtIMlItZHQxTkRXUHhiYlFITy0yaWJ1V3NkRkFaUWcxeFBnUjdYd1o0QUFNUFBwZ2VTVFdnX3lKdm1LZU52ZDlTYU5OQlM0c3E2STR4OEtmWS1wX1BVMXBBUWRpXzR0eG4tY090dUhXNEhaNTlQcmRkY2hLcWdOR2N5QQ?oc=5",
+   "date_pub": "2026-06-16",
    "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ai, ia) mais aucun terme architecture/BTP"
+   "etape": "ancien",
+   "raison": "publié il y a 124 jours (limite : 30)"
   },
   {
    "titre": "Vessel AI vise à sécuriser 200 000 GPU d’ici 2030… et dévoile sa feuille de route pour la construction de 8 centres de données dédiés à l’IA. - 벤처스퀘어",
@@ -1780,24 +1780,6 @@
    "raison": "parle d'IA (ai, ia) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "« Former les architectes à se poser les questions de base sur l’IA », c’est l’objectif de formation de la Scop Les 2 Rives - Le Moniteur",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaERNWXlEakVYd1FaOXlldF9Qb1loRHh1cmFZSUtDeU5DSkZKOWVnOFVyVUt4a3JReHpDX3NKZFJJQ2dkbTR4TW9zMmVtdjd3MFB1dzduNlFlMlVkSGFLOGpyM1ZOSUVXb2pmOGswenVyLXMzZU9aYkxKT09EVmpqQ0tQeGExamgtLWE0MVp3cXBocUMyU0RrZ29ZUjZRdmh4dy1YMGlUOVNCTWxvSmhpZ2JhaXZ5UTU0VGdOTnpuZ2pqN3B5T1RTMEU5REpiVHlXc29GVm1XdUE5eGVmWHUwSllHWktFVWE1VGx1c0Y0WjkteHotLUxpV2c3WU4xOEt1dkFfTkh6WkxyTUxoN1N1bjdJY0c?oc=5",
-   "date_pub": "2026-09-24",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "« C'est un game changer » : l'intelligence artificielle gagne du terrain dans la construction - Les Echos",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdkZpbFlmOUw4TXR0NjRsdExOSzdudUh0MG1sYnNvaUhCRzJfLUxfZ09JOG9Yd21MTkhrdUIwUFVMbERqUzV1eGUxUEFUTTQ0TzlUcUFyYU1EbWlJNFZDM1o2ZVdhMXVCNTM1cEtIMlItZHQxTkRXUHhiYlFITy0yaWJ1V3NkRkFaUWcxeFBnUjdYd1o0QUFNUFBwZ2VTVFdnX3lKdm1LZU52ZDlTYU5OQlM0c3E2STR4OEtmWS1wX1BVMXBBUWRpXzR0eG4tY090dUhXNEhaNTlQcmRkY2hLcWdOR2N5QQ?oc=5",
-   "date_pub": "2026-06-16",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 123 jours (limite : 30)"
-  },
-  {
    "titre": "Que contiennent exactement les centres de données ou « data centers » et pourquoi soulèvent-ils tant de débats ? - Sud Ouest",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVkJwSWI0VGpkOUpTdkZlNEdxX3dnVHpWQ3dDZkdWQ3Z0dUZNYWxWdy1OM1A0NThma2c1MGt1VDBuMWJfS2VWVXIwZG9GMlFPUDd1U0lLaUtPZ1FuRldzUkpqNjMxYkp0UVp4VVBWR3VVSGhLOXF6aVk3NW1ZMGdmd3c0SVFja0dNY3RQelhFZWlQelBVQzB5cHNCYmhJanlKTTBmRTRKV09PMkptcnZOcmVSZ2lJMkQ1bWdhSUVtS0Q2bjVscEQ5Z0VhVjl4N19WR2VaYUlnaG1zOFB3bXRhZnlDQ0xBa1ZhN0Z3SlVlVlR5U2FWdHhpcV9tVTRwTHVTeWY1Wg?oc=5",
@@ -1807,31 +1789,22 @@
    "raison": "aucun terme IA ni architecture/BTP"
   },
   {
+   "titre": "\"Cela peut monter jusqu'à 300.000 dollars\": les salaires fous des électriciens américains qui construisent les data centers de l'IA et gagnent autant que des banquiers de Wall Street - BFM",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOY3RCRm51YkpNOXVfeDR3di1qM2JocDA5SFIyOWE5bTQ5RUpMRVlMclRjQXFDRGpNenF4ZW81dUNURjRndm4xTWlLb0trekN6TndBMHphNVR1NHpaekcxVHBEeFdoTnZOOE03dExfREozQVczcVZqeENhcnFLbUJOem5uSXY3N0hZX1FUSjluTC1icm5vYlpCQzRCMklwSzNaRU9RUmdqNjRzV2Q3amJVTlBXUlJhNDQ5OXpWdDQ5aWtIa25oS2QzbVZodGlZZUV2YVNTeE5CeHBqampjdWtFcHpxTjI5NFh1WDJyQlVHVEF0RERaRGNWeU90c1ZHdmd1WFBvMEpDTFMzWFk4MjRoZ3A5RWo3NjRmdGVxbFR1S2lkNWhmRDlHMUZ4NXpPWlJJM0F6ZXJkRExKS3VUdEFfaEhBR2NoWDY1QVlfZW5waTRJbnZWUElsRlBsX3MtNzd0?oc=5",
+   "date_pub": "2026-10-11",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
+  },
+  {
    "titre": "Comment l'intelligence artificielle va générer des mutations dans le bâtiment - mesinfos",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDduSVZFdi1sa2hIMzI2UFVhZHhsUmN1S3gzM1JBVVBmU1lHUUZIRkRYZWdNbHQzaU9YcnNNUmRHMEVncWpCMHdTbFhUMVY5ZmtGRlc4bnNxZjFJb3BmSEt3UDgzM21tck1adEdsV2hLTFRMckZkOGQtRUVVOHNTeVJoSU9WbkdGeWtDc0tZaE1VVmQ4UFU4TG1zajlXelIza3J0cUZrdXAzVWU5MVlSRGVhTk5lbjBmRzZ3cDFTQWZoVGc?oc=5",
    "date_pub": "2026-06-23",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 116 jours (limite : 30)"
-  },
-  {
-   "titre": "Viettel Construction : La transformation numérique crée les bases d'une croissance durable. - Vietnam.vn",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzhHbEMwUE9BU0t2YXg1LXlIZFo4NUY5QnU0aUduVmZZSW5Tek5SNHc2NjRod3VleVNMNGV6cUoxblVJbXRya0U1Y2RLMWt6akp5REhObU9adWJDUmhNODFJdDlBai1YRm1TZG9DR2N6aTFqTEh3T2JRWmpDSENpNHdadTZnbkxtb09SMW51VDRKZVY2SVJSc3dEMmQyYU0?oc=5",
-   "date_pub": "2026-10-10",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "aucun terme IA ni architecture/BTP"
-  },
-  {
-   "titre": "Quand l’exécution d’un permis de construire un centre de données dédié à l’intelligence artificielle est suspendue pour absence d’étude d’impact - Le Moniteur",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMTNvalJMd3d5NlhfTko2MjR4ZVFuWGxVQm9RMUV0NWRNRE1BVWlyRFFDODBScHRzYWhmUmZibVVkeFB5OW1GeDBpaWcyaDR0RU8zbUxVTm9ETU85WkduV0d4S3gxeWRHSWFuX3ZzM0JfS2JobTN3UnFsblVRQU1iY1VXX2x1VXByRnMwOWVxSUJTMGhrdXlnM2lrdktrQy1Ta25HLThIVnZNUWRCNmZRVnUyRGQybHAxWGZjaXVkNWk1RzRrZDV1TG1mY3lnUFl0MEs4Ym1lNDdNSl8ySXRpMXI2ZGhkZXFlRFI5ZVZGN0dlYUUzVGtvVklNTmJhN0JEaHJCWWJ0SjI0cl83MGNsbFgzOFZBLTZhbmZ3TFFNNHRIem9ZdzlQTFU2N2xhU0hnaGcybXpTSHdVSnN5cHFkTzFBdDRCYUl6YV9UeGVybl9lZTg?oc=5",
-   "date_pub": "2026-09-21",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (intelligence artificielle) mais aucun terme architecture/BTP"
+   "raison": "publié il y a 117 jours (limite : 30)"
   },
   {
    "titre": "Data centers : Saint-Gobain va appuyer Microsoft dans la construction de nouveaux bâtiments tout en profitant de ses solutions d’intelligence artificielle - Le Moniteur",
@@ -1840,7 +1813,7 @@
    "date_pub": "2026-08-12",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 66 jours (limite : 30)"
+   "raison": "publié il y a 67 jours (limite : 30)"
   },
   {
    "titre": "Trump réaffirme son soutien à la construction de centres de données pour l'IA : « Si nous les arrêtons, ils iront en Chine. » - Agenzia Nova",
@@ -1852,13 +1825,13 @@
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Directeur de projet digital & IA – BU CONSTRUCTION & IMMOBILIER H/F - Emploi-Environnement",
+   "titre": "Quand l’exécution d’un permis de construire un centre de données dédié à l’intelligence artificielle est suspendue pour absence d’étude d’impact - Le Moniteur",
    "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWkzbWw0NEpaWjVWbTY2eHJSNGJQN0wwdGRKY2xBV1Nnd195eGd4OHpVcUJUUy1TMXpHR0RWa3g5Rjd4RlRFRmt0T1NsT1JYaW1DaUVvdnJNUGNHUnQ2QWc2dTRwd0xtRGRSTEJVcExMZ2pmV1paMlRmM010SU9VcG1YWU1lUnRjTWRmeC10WjFoN2ViWjZ5WDJqbXFsV1pEeXgyaTMyUS1udW1odnZ0eThkRTl3NWFnZ0Fvbl9B?oc=5",
-   "date_pub": "2026-09-18",
+   "lien": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMTNvalJMd3d5NlhfTko2MjR4ZVFuWGxVQm9RMUV0NWRNRE1BVWlyRFFDODBScHRzYWhmUmZibVVkeFB5OW1GeDBpaWcyaDR0RU8zbUxVTm9ETU85WkduV0d4S3gxeWRHSWFuX3ZzM0JfS2JobTN3UnFsblVRQU1iY1VXX2x1VXByRnMwOWVxSUJTMGhrdXlnM2lrdktrQy1Ta25HLThIVnZNUWRCNmZRVnUyRGQybHAxWGZjaXVkNWk1RzRrZDV1TG1mY3lnUFl0MEs4Ym1lNDdNSl8ySXRpMXI2ZGhkZXFlRFI5ZVZGN0dlYUUzVGtvVklNTmJhN0JEaHJCWWJ0SjI0cl83MGNsbFgzOFZBLTZhbmZ3TFFNNHRIem9ZdzlQTFU2N2xhU0hnaGcybXpTSHdVSnN5cHFkTzFBdDRCYUl6YV9UeGVybl9lZTg?oc=5",
+   "date_pub": "2026-09-21",
    "decision": "rejeté",
    "etape": "hors_sujet",
-   "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
+   "raison": "parle d'IA (intelligence artificielle) mais aucun terme architecture/BTP"
   },
   {
    "titre": "Bekir Akkaya, responsable travaux : « Grâce à l’IA, on atteint 98 % de tri des déchets sur nos chantiers » - Le Point",
@@ -1867,7 +1840,16 @@
    "date_pub": "2026-08-13",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 65 jours (limite : 30)"
+   "raison": "publié il y a 66 jours (limite : 30)"
+  },
+  {
+   "titre": "Viettel Construction : La transformation numérique crée les bases d'une croissance durable. - Vietnam.vn",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzhHbEMwUE9BU0t2YXg1LXlIZFo4NUY5QnU0aUduVmZZSW5Tek5SNHc2NjRod3VleVNMNGV6cUoxblVJbXRya0U1Y2RLMWt6akp5REhObU9adWJDUmhNODFJdDlBai1YRm1TZG9DR2N6aTFqTEh3T2JRWmpDSENpNHdadTZnbkxtb09SMW51VDRKZVY2SVJSc3dEMmQyYU0?oc=5",
+   "date_pub": "2026-10-10",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "aucun terme IA ni architecture/BTP"
   },
   {
    "titre": "Ce que l’IA apporte à la construction de maisons neuves - Habitatpresto",
@@ -1876,7 +1858,7 @@
    "date_pub": "2026-07-05",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 104 jours (limite : 30)"
+   "raison": "publié il y a 105 jours (limite : 30)"
   },
   {
    "titre": "Comment l’intelligence artificielle est en train de révolutionner le BTP ? - Le Moniteur",
@@ -1885,7 +1867,7 @@
    "date_pub": "2026-07-28",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 81 jours (limite : 30)"
+   "raison": "publié il y a 82 jours (limite : 30)"
   },
   {
    "titre": "L’intelligence artificielle révolutionne la productivité des chantiers de construction - Fredzone",
@@ -1894,13 +1876,13 @@
    "date_pub": "2026-08-11",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 67 jours (limite : 30)"
+   "raison": "publié il y a 68 jours (limite : 30)"
   },
   {
-   "titre": "Des PDG du secteur technologique prodiguent leurs conseils aux jeunes sur l'innovation et la construction de l'avenir à l'ère de l'IA. - Vietnam.vn",
+   "titre": "Directeur de projet digital & IA – BU CONSTRUCTION & IMMOBILIER H/F - Emploi-Environnement",
    "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnViN3B6TFlwS0RSLTRZU0szd0lCeWMwMXhHMkl6WmtWSmRRMzhmMXRIVmw5T1ZjMXZHTTM1OTVrQTRYYTdGbVBUMC1mRnA0SjBDeklEN201RTVGZWpaRlVENUx0S3RZTTZab1RPRVd6MjdGZ1VmTzQtQUowYzR4UU5mUThON1lJbkZjdWx4a01welZualFiNl9XWm9UdnZnaW9ubDZXR05XczdVWk1Vc1A1cw?oc=5",
-   "date_pub": "2026-10-14",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWkzbWw0NEpaWjVWbTY2eHJSNGJQN0wwdGRKY2xBV1Nnd195eGd4OHpVcUJUUy1TMXpHR0RWa3g5Rjd4RlRFRmt0T1NsT1JYaW1DaUVvdnJNUGNHUnQ2QWc2dTRwd0xtRGRSTEJVcExMZ2pmV1paMlRmM010SU9VcG1YWU1lUnRjTWRmeC10WjFoN2ViWjZ5WDJqbXFsV1pEeXgyaTMyUS1udW1odnZ0eThkRTl3NWFnZ0Fvbl9B?oc=5",
+   "date_pub": "2026-09-18",
    "decision": "rejeté",
    "etape": "hors_sujet",
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
@@ -1912,7 +1894,7 @@
    "date_pub": "2026-07-31",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 78 jours (limite : 30)"
+   "raison": "publié il y a 79 jours (limite : 30)"
   },
   {
    "titre": "Intelligence artificielle : l’Égypte prévoit avec Nvidia la construction d’un centre de données d’un milliard de dollars - Sud Ouest",
@@ -1921,16 +1903,7 @@
    "date_pub": "2026-09-09",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 38 jours (limite : 30)"
-  },
-  {
-   "titre": "L'IA devrait permettre de réduire les coûts de construction jusqu'à 20 % - Business Immo",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekRhQmZyQWg1bUNwdU9VRkFtRmRQdjAyOWtJRGFROFlpU1hEdko3bG1pTWRBLUFUQ2txRkNnazBRMXRfM19mQkxPdTlXeTdWVkFnSmE0Ukt0c0xQVmh4LWY2VlVHX1IxMHo0N3RJdWRxNmhKUHM1ZEs3NUxlbGpkOVpGYkxnRDhJN3J3bFNFSTc3VGhuRnVDdG5SUUpjOHlDOWU2MWwwT1ducVA2M0JJUENwN1h5bFhUX0REZzhVN1BxQmd5c1E?oc=5",
-   "date_pub": "2026-09-17",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
+   "raison": "publié il y a 39 jours (limite : 30)"
   },
   {
    "titre": "Intelligence artificielle: OpenAI s'offre le futur plus grand centre de données d'IA au monde - RFI",
@@ -1939,7 +1912,61 @@
    "date_pub": "2026-08-18",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 60 jours (limite : 30)"
+   "raison": "publié il y a 61 jours (limite : 30)"
+  },
+  {
+   "titre": "L'IA devrait permettre de réduire les coûts de construction jusqu'à 20 % - Business Immo",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekRhQmZyQWg1bUNwdU9VRkFtRmRQdjAyOWtJRGFROFlpU1hEdko3bG1pTWRBLUFUQ2txRkNnazBRMXRfM19mQkxPdTlXeTdWVkFnSmE0Ukt0c0xQVmh4LWY2VlVHX1IxMHo0N3RJdWRxNmhKUHM1ZEs3NUxlbGpkOVpGYkxnRDhJN3J3bFNFSTc3VGhuRnVDdG5SUUpjOHlDOWU2MWwwT1ducVA2M0JJUENwN1h5bFhUX0REZzhVN1BxQmd5c1E?oc=5",
+   "date_pub": "2026-09-17",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 31 jours (limite : 30)"
+  },
+  {
+   "titre": "Cloud et IA, un nouveau cadre européen de souveraineté en construction - DSIH",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEtIcGlrWGJpdENNbnNjSUFBM2p5REhCSmowZV9rcXdVVzlMa2lhQ0pHTGlKTjRRYV8tTGRlRVNlLXFTQktuc241VjlSV1VGMVVhcng5ZlRxTnFhLV9XUkJlYTlnZURudXFfS21JY3AwSVhjNFk4Sm9Ddm1WLVM2SC03SlQzU1ktRWEta0Q4dTlidy1Cbm5TMkY1eUNhQkN6?oc=5",
+   "date_pub": "2026-09-01",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 47 jours (limite : 30)"
+  },
+  {
+   "titre": "Du BIM à l’intelligence du risque : ENLAYE lève 4,25 millions d’euros - frenchweb.fr",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlY1NHdCRGhVWmRKUTJiYk1GbHdyUUcxcTlTNHNkUXE1VEZRbGlVNUpreW5MU251YnBYLUY0NDhrcFJZeDdpOVJBSzhaOWZ4UDhOeG1sMTJXbFFIQmNVd1V0a2xxSzlLTHJFdUdScEdFMFhmbVBfeXFiMWhaQUdvN1NTNlZBdS0teENtcnNCOEdvenNHUEhnZWtQbnM?oc=5",
+   "date_pub": "2026-06-10",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 130 jours (limite : 30)"
+  },
+  {
+   "titre": "Nvidia va co-développer des robots IA pour la construction navale au Japon - Le Figaro",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGVUalRkSUpFMEpOb0w0R2pSNGFLdTlodkVzZ0xYLXY3WkgzdlNYM3ZoQ3RTSWlXZXhhTmJWODJPcnB3TnZ0Q010ZHZpYnVWY25QZkVJQ3JCUUE1d1JsZXhuUDh4dy1fZ1BkcTVUVkZYdHR5YUFGcTN6RFRNSXlVTjhCeUFGSi1ucG9HRHpIS1d2N1FkdWNqSVQ4T0xkcFdTcEg4RkJZUE94N1NqSFdWVHZRZHpOMVBxSHQ5NTNoXy1xZmc?oc=5",
+   "date_pub": "2026-07-16",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 94 jours (limite : 30)"
+  },
+  {
+   "titre": "Un collectif dépose un recours pour empêcher la construction d'un supercalculateur dédié à l'intelligence artificielle dans la Drôme - France 3 Régions",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOODY1ejhKb3FPQllmRHpnZ1VYeFpzUkluQktPT1VtRG1FT2dCWFMxN2N1X2xPdWpyVnhxSVN1TnB1ZWoxay1JWlBzVTNHNVRrR1pKWDM3WVdsZ29WcldKRTBSWXV6aWdqRlRsWnRYUU5SM1MwWlIwd3A0MWkzQmlLZmxiaTZfTFdHU2p1b1hWMGVLWDFheVlNb2N6SVNUWXZ4YWJhRzlBSWR4aFI5d0JjVFhEUkVfblZSRVBLaV9lUHRHaWRnZ3pTT2UzLS1Oa2ZZaXRFejN1by1PaGxra0R3N0xjN2tjc195VlBoaGZrRXUxTUVpbzZyMUhEd2ljdmdvb2ppU0JybXAtSW90eFJBZEd6aTVTQVNMZko2RmhwTzItTjV3d2FyQ0lZeElwSTgzWnpuQWtvZlRLRjd0U1lzNw?oc=5",
+   "date_pub": "2026-07-03",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 107 jours (limite : 30)"
+  },
+  {
+   "titre": "Buildots, une plateforme israélienne de construction basée sur l'IA, lève 130 millions de dollars - Boursorama",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNekpCanhUNTFEZ0t5OUhRd0pMVjRWWUxrUUludDVFU0hhZHd2N2w2b1ZUaGZYb2s4QW5zLVRtM1czQTdGdjhlV3ppNG5pbWNxWGZlbEVYaWw1dmxBNlR6anJnZDRXUGJFdnBEeG9QUVR2XzlJYjllMDM0alRYV1NGQVY2RUFpX3VUQUVPTi16Mm9YWERZNzVrNkttalRxdUl1V21NWHVVRmUzUmJfTTRTN1J4Nmd2VDI3NHd3MnFPR0ZtaTNWTDBfV3dXZWNPMUN3UDE2cjA1ZktTTkNPZ192TmduRFdIUURSMzgxWnBDSkNKbkFnSE1sOWsxYlZJQWR0NVVN0gGIAkFVX3lxTE9HOXdZMHowandvLXFrZm0tdFdWOURRclRZdDQ2NGNxdmpuTVVaMk9jX3pTcTZJQUM0SVZsV3pmLW5GdUo4NDN2SXA5dzg3MmdlcjE5UXVNUjVPZExMMld5aDIxbGJaNFRvMHpLcnJWQ0JsODBWY0RocXlJYWtkZXo0em1udHM1cTljUDVKUjM0V19iTkp0MWkxMzRPSDUzY1ZhWlBpN1h6ZndzVjhLWUpZYVFnYlUxc3VEMFRlWUFka2g2TzIxWWJFWW9VUGlPdGtTbjZoRXdVdUJDN0hZRkg3OFpMZE5UR2gwXzVVdXFoWVZvRzdJaHREdXZJd0dta0dOMVBMWUFIbg?oc=5",
+   "date_pub": "2026-09-14",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 34 jours (limite : 30)"
   },
   {
    "titre": "Un data center pour l’intelligence artificielle sur la friche des Fonderies du Poitou à Ingrandes, cinquante emplois annoncés - lanouvellerepublique.fr",
@@ -1951,67 +1978,13 @@
    "raison": "parle d'IA (intelligence artificielle) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Coûts de construction | Intelligence artificielle, économies réelles ? - La Presse",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3FZYXVUb2p1TFZVVlRDemwxSW04d1V5bVlma2htcHpPeWRfb1JoV3hIdlp1UVppM0tlMTg0NERSZ3h5blp6WWxqa2RvM1FnVUxaWk9Za0VjRzE2cGJCdk9WYzdkQmRIdWtVV2dSZS02Sm1RcEFCbDFLdHY5M3VoRmxiSGUwUnJPX2pPNzJHNEEwSEhHRVJXRHppSjdMZjAxR2NZUnN5UEUySkwxZ2FxeGc3Yw?oc=5",
-   "date_pub": "2026-09-17",
-   "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (intelligence artificielle) mais aucun terme architecture/BTP"
-  },
-  {
-   "titre": "Comment Trackunit transforme les données de construction en décisions grâce à l'AI - Databricks",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2dtZTFxUmRUdDlXSTZaQXZKUzdGOF9WcW1CS09qaUhNbV9ZN2lPendyYXozbTR5aFR4MHhGMURRVmJKRGF5aTFhM3p0dGxacEx6bV80QWhEbTUtcExoaV9VMVZsMlU2X20zOExjcjg2ckJiSXVTOHREOFdIRjRmWm05ZG12eHotM25zblNn?oc=5",
-   "date_pub": "2026-08-28",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 50 jours (limite : 30)"
-  },
-  {
-   "titre": "Cloud et IA, un nouveau cadre européen de souveraineté en construction - DSIH",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEtIcGlrWGJpdENNbnNjSUFBM2p5REhCSmowZV9rcXdVVzlMa2lhQ0pHTGlKTjRRYV8tTGRlRVNlLXFTQktuc241VjlSV1VGMVVhcng5ZlRxTnFhLV9XUkJlYTlnZURudXFfS21JY3AwSVhjNFk4Sm9Ddm1WLVM2SC03SlQzU1ktRWEta0Q4dTlidy1Cbm5TMkY1eUNhQkN6?oc=5",
-   "date_pub": "2026-09-01",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 46 jours (limite : 30)"
-  },
-  {
-   "titre": "Nvidia va co-développer des robots IA pour la construction navale au Japon - Le Figaro",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGVUalRkSUpFMEpOb0w0R2pSNGFLdTlodkVzZ0xYLXY3WkgzdlNYM3ZoQ3RTSWlXZXhhTmJWODJPcnB3TnZ0Q010ZHZpYnVWY25QZkVJQ3JCUUE1d1JsZXhuUDh4dy1fZ1BkcTVUVkZYdHR5YUFGcTN6RFRNSXlVTjhCeUFGSi1ucG9HRHpIS1d2N1FkdWNqSVQ4T0xkcFdTcEg4RkJZUE94N1NqSFdWVHZRZHpOMVBxSHQ5NTNoXy1xZmc?oc=5",
-   "date_pub": "2026-07-16",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 93 jours (limite : 30)"
-  },
-  {
-   "titre": "Un collectif dépose un recours pour empêcher la construction d'un supercalculateur dédié à l'intelligence artificielle dans la Drôme - France 3 Régions",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOODY1ejhKb3FPQllmRHpnZ1VYeFpzUkluQktPT1VtRG1FT2dCWFMxN2N1X2xPdWpyVnhxSVN1TnB1ZWoxay1JWlBzVTNHNVRrR1pKWDM3WVdsZ29WcldKRTBSWXV6aWdqRlRsWnRYUU5SM1MwWlIwd3A0MWkzQmlLZmxiaTZfTFdHU2p1b1hWMGVLWDFheVlNb2N6SVNUWXZ4YWJhRzlBSWR4aFI5d0JjVFhEUkVfblZSRVBLaV9lUHRHaWRnZ3pTT2UzLS1Oa2ZZaXRFejN1by1PaGxra0R3N0xjN2tjc195VlBoaGZrRXUxTUVpbzZyMUhEd2ljdmdvb2ppU0JybXAtSW90eFJBZEd6aTVTQVNMZko2RmhwTzItTjV3d2FyQ0lZeElwSTgzWnpuQWtvZlRLRjd0U1lzNw?oc=5",
-   "date_pub": "2026-07-03",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 106 jours (limite : 30)"
-  },
-  {
    "titre": "Un collectif s’oppose à la construction en Sarthe de l’un des plus gros supercalculateurs d’Europe - Ouest-France",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWnlTZjd4ZUtqLVkxQm5aU2RPY2tGOERzRjQ2QVNJeHJIU3ZPY2pObDhYQ1lxbjFwcUd3c2pFYnlsMWczaWF1cWNVSGQ2aXNHUmhIUVNvLWt0amtQX25fTGRrbXJqS2Vmb3paRl9IYWtvWmRYU0NaUFpDMEpyTC1laWp6Szd0ZzZwU3JoT0cxek1UOUUwRDUtTVc2LS1wak1hcHVQU1FidDlYNExCbE96aEp0dWJYcjRJV21ndTBUeW9tZ0NWZkJ3c1N1bmlBbkFDWlFOLTNKZ2xsVmFSQUVSQTFaekxKNEZCSUhmYi04UFdpOXhxNEQ5VU8ycFFJaHBKaEF2MlR2cTZ3UmtV?oc=5",
    "date_pub": "2026-09-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 33 jours (limite : 30)"
-  },
-  {
-   "titre": "L’Égypte prévoit avec Nvidia la construction d’un centre de données d’IA d’un milliard de $ - The Times of Israël",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzNVU1lua09weXAteUt1VGU4dVpiUmtxMjFFeEgwUF9CQlMzblFBZTFadzVtUGg1S1lQMjdldTBKOUVOVEFNWUhEa01nQkpIbWRxVkt2Ml9CcnRnUDU3V1JHTGFSXzhBOWdzRl9oeGhGenlHeG1WWjBRMzI1QWJNajZQUkVsU1hsSmFpazF2YTM4V1R5RS1uMDNTcnF4NWNwaFMtVUxnMUJQQXZqV1VIUTAxX2ppd9IBuwFBVV95cUxOcnVUdmd1d2g2SnZ5ZUhicFhOVjVYRE1qenZQcG9CQTVILVpPdWlqb0ZxYWJESTdwWFI2bm5GWTRTczVwRGFXM0tna2NzZzc1N05iaHZzTUY3enJIVmVVYnlMcEVEWmhrM05MbFIyaUl4V0N1alpianJidkg3djFWa2VjUllvLWkyaGpyT3JEMFVnR1Jhak1uV0tlbDNLZU8yM1dCc1lPQWQycTBhcWJxOGFhSnlIMlJsSGdv?oc=5",
-   "date_pub": "2026-09-09",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 38 jours (limite : 30)"
+   "raison": "publié il y a 34 jours (limite : 30)"
   },
   {
    "titre": "IA : L’Etat de New York bloque la construction des data centers pendant un an, une première aux Etats-Unis - La Relève et La Peste",
@@ -2020,7 +1993,7 @@
    "date_pub": "2026-07-16",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 93 jours (limite : 30)"
+   "raison": "publié il y a 94 jours (limite : 30)"
   },
   {
    "titre": "Course à l’IA : Alibaba promet de déployer ses data centers comme des Lego en 100 jours chrono, tout en réduisant ses coûts de construction de plus de 10% - L'Usine Digitale",
@@ -2029,7 +2002,34 @@
    "date_pub": "2026-08-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 64 jours (limite : 30)"
+   "raison": "publié il y a 65 jours (limite : 30)"
+  },
+  {
+   "titre": "Coûts de construction | Intelligence artificielle, économies réelles ? - La Presse",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3FZYXVUb2p1TFZVVlRDemwxSW04d1V5bVlma2htcHpPeWRfb1JoV3hIdlp1UVppM0tlMTg0NERSZ3h5blp6WWxqa2RvM1FnVUxaWk9Za0VjRzE2cGJCdk9WYzdkQmRIdWtVV2dSZS02Sm1RcEFCbDFLdHY5M3VoRmxiSGUwUnJPX2pPNzJHNEEwSEhHRVJXRHppSjdMZjAxR2NZUnN5UEUySkwxZ2FxeGc3Yw?oc=5",
+   "date_pub": "2026-09-17",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 31 jours (limite : 30)"
+  },
+  {
+   "titre": "L’Égypte prévoit avec Nvidia la construction d’un centre de données d’IA d’un milliard de $ - The Times of Israël",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzNVU1lua09weXAteUt1VGU4dVpiUmtxMjFFeEgwUF9CQlMzblFBZTFadzVtUGg1S1lQMjdldTBKOUVOVEFNWUhEa01nQkpIbWRxVkt2Ml9CcnRnUDU3V1JHTGFSXzhBOWdzRl9oeGhGenlHeG1WWjBRMzI1QWJNajZQUkVsU1hsSmFpazF2YTM4V1R5RS1uMDNTcnF4NWNwaFMtVUxnMUJQQXZqV1VIUTAxX2ppd9IBuwFBVV95cUxOcnVUdmd1d2g2SnZ5ZUhicFhOVjVYRE1qenZQcG9CQTVILVpPdWlqb0ZxYWJESTdwWFI2bm5GWTRTczVwRGFXM0tna2NzZzc1N05iaHZzTUY3enJIVmVVYnlMcEVEWmhrM05MbFIyaUl4V0N1alpianJidkg3djFWa2VjUllvLWkyaGpyT3JEMFVnR1Jhak1uV0tlbDNLZU8yM1dCc1lPQWQycTBhcWJxOGFhSnlIMlJsSGdv?oc=5",
+   "date_pub": "2026-09-09",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 39 jours (limite : 30)"
+  },
+  {
+   "titre": "Data centers : « plus cher que le Grand Paris Express », le projet de campus IA géant validé en Seine-et-Marne - Le Parisien",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZWRIQUoyZUg4OXNYS1Y1ZTRQWWVzMUJYNmt1RGp6LU9acWNoWjl6U1U4YkJnRFY2YTdYWUlZSGJ2Q0JxbjdZTXU3WkswSUpYOWdibDVPRk42aG9Ja0RUNlpiM3pJZlBLMzE3cnhXdW5uY20xUXRZNTZveDZGUlFtbmVvbFZ5Nm1vV3lPby01cEp5V1NlMUxjY0FSMU05WDQtRVhObkQxbE8tYzQzVDNaNEI4UG1GQWNobnRsVS1hWHJyVHQ2S0hwSGV0MFI3VVJMclEtSkdfd1phQU9Zb0Y5SE1JVFNuZW5KVjFwbkVVSVpNNkl5ZVgwNmdoeVRUMlhlZ2ZTSjFYMGg5U0k3cFFvZ2JVb2l4OFRU?oc=5",
+   "date_pub": "2026-08-10",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 69 jours (limite : 30)"
   },
   {
    "titre": "[Article VS] La « carte de l’IA dans la construction » du MIT… Changer le langage du secteur, de la conception à l’approvisionnement - 벤처스퀘어",
@@ -2041,22 +2041,13 @@
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "Data centers : « plus cher que le Grand Paris Express », le projet de campus IA géant validé en Seine-et-Marne - Le Parisien",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZWRIQUoyZUg4OXNYS1Y1ZTRQWWVzMUJYNmt1RGp6LU9acWNoWjl6U1U4YkJnRFY2YTdYWUlZSGJ2Q0JxbjdZTXU3WkswSUpYOWdibDVPRk42aG9Ja0RUNlpiM3pJZlBLMzE3cnhXdW5uY20xUXRZNTZveDZGUlFtbmVvbFZ5Nm1vV3lPby01cEp5V1NlMUxjY0FSMU05WDQtRVhObkQxbE8tYzQzVDNaNEI4UG1GQWNobnRsVS1hWHJyVHQ2S0hwSGV0MFI3VVJMclEtSkdfd1phQU9Zb0Y5SE1JVFNuZW5KVjFwbkVVSVpNNkl5ZVgwNmdoeVRUMlhlZ2ZTSjFYMGg5U0k3cFFvZ2JVb2l4OFRU?oc=5",
-   "date_pub": "2026-08-10",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 68 jours (limite : 30)"
-  },
-  {
    "titre": "L’État de New York lance un moratoire sur la construction de data centers consommant plus de 50 mégawatts - L'Usine Digitale",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPTVliY0s2VW1oNXlUZW53ZDczUzYwbkhkd0w2MWpOblNhSU5qbFNjMHZRWldjcUJNM0hvYWlIRkloaVZ2Wl9OVERaVWZJMWdBRzdiNDNLdGNHR2ItZ3VkTlJoUldTSUdJdy1jSW5DNXhPQ2c5UVVUNmZoOWp4MjVOWWNzS2VlLVE4YngyVWE5QTZyM2h6Zm1lQkVqNlRnVTBSMjYwR3VoTGVPeFJ0Z01Dd0hUWWpoVC1XcDlIelBmUmhGSkZkNWR0RWJ5bGVPME5MRnpUOFhhdjQtVXdzUGNscEVjRkJuWnZQT0FPbUhVdFowZzg2OXBDWk9WeGhGaDgzNEZzUDhsV2JZdnFqNzROWjZMNlBYZUdWQm12aQ?oc=5",
    "date_pub": "2026-07-15",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 94 jours (limite : 30)"
+   "raison": "publié il y a 95 jours (limite : 30)"
   },
   {
    "titre": "L'Etat de New York met en pause la construction de centres de données, une première aux Etats-Unis - franceinfo",
@@ -2065,16 +2056,7 @@
    "date_pub": "2026-07-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 95 jours (limite : 30)"
-  },
-  {
-   "titre": "Du BIM à l’intelligence du risque : ENLAYE lève 4,25 millions d’euros - frenchweb.fr",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlY1NHdCRGhVWmRKUTJiYk1GbHdyUUcxcTlTNHNkUXE1VEZRbGlVNUpreW5MU251YnBYLUY0NDhrcFJZeDdpOVJBSzhaOWZ4UDhOeG1sMTJXbFFIQmNVd1V0a2xxSzlLTHJFdUdScEdFMFhmbVBfeXFiMWhaQUdvN1NTNlZBdS0teENtcnNCOEdvenNHUEhnZWtQbnM?oc=5",
-   "date_pub": "2026-06-10",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 129 jours (limite : 30)"
+   "raison": "publié il y a 96 jours (limite : 30)"
   },
   {
    "titre": "Chaîne d’approvisionnement BTP : quel rôle pour l’IA ? - Batiweb",
@@ -2083,7 +2065,7 @@
    "date_pub": "2026-09-16",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 31 jours (limite : 30)"
+   "raison": "publié il y a 32 jours (limite : 30)"
   },
   {
    "titre": "L’Etat de New York refuse la construction de nouveaux centres de données pour l'IA - Lepetitjournal.com",
@@ -2092,7 +2074,7 @@
    "date_pub": "2026-07-16",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 93 jours (limite : 30)"
+   "raison": "publié il y a 94 jours (limite : 30)"
   },
   {
    "titre": "Intelligence artificielle : au G20, Mark Zuckerberg et Elon Musk plaident pour le développement des centres de données - Sud Ouest",
@@ -2101,7 +2083,7 @@
    "date_pub": "2026-09-02",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 45 jours (limite : 30)"
+   "raison": "publié il y a 46 jours (limite : 30)"
   },
   {
    "titre": "Etats-Unis : comment le boom de l’IA rend l’économie américaine méconnaissable - l'Opinion",
@@ -2110,7 +2092,7 @@
    "date_pub": "2026-08-04",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 74 jours (limite : 30)"
+   "raison": "publié il y a 75 jours (limite : 30)"
   },
   {
    "titre": "Mark Zuckerberg assure que l’IA ne va pas faire disparaître la majorité des emplois - Siècle Digital",
@@ -2119,7 +2101,7 @@
    "date_pub": "2026-08-11",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 67 jours (limite : 30)"
+   "raison": "publié il y a 68 jours (limite : 30)"
   },
   {
    "titre": "Dans la construction, la FFB s'érige en éclaireur IA de ses adhérents - Les Echos",
@@ -2128,7 +2110,7 @@
    "date_pub": "2026-05-19",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 151 jours (limite : 30)"
+   "raison": "publié il y a 152 jours (limite : 30)"
   },
   {
    "titre": "Saint-Gobain signe un accord-cadre avec Microsoft et renforce son leadership dans l’IA pour la construction - verreetprotections.com",
@@ -2137,7 +2119,7 @@
    "date_pub": "2026-07-28",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 81 jours (limite : 30)"
+   "raison": "publié il y a 82 jours (limite : 30)"
   },
   {
    "titre": "L’IA impose de repenser la construction des centres de données - Batipresse",
@@ -2146,34 +2128,7 @@
    "date_pub": "2026-08-27",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 51 jours (limite : 30)"
-  },
-  {
-   "titre": "CTF 2026 à Dubaï : l'IA et l'automatisation transforment la construction dans le CCG - Actualités et statistiques - IndexBox",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzQ4QzNMZklYRWdWVmNCcWxyVzFzdjdQR2JPQ2FPWVltZlF6Vm53c2tNSlBkaFhYdVRVblp4a1UwMm9KR2RGOG5BM29yNmFIYkxZWkJ2Ry1NYUZhT3U0X251OUZJNmJseXlLblY3eF9HbzBjenoyT3hwVldzT3k4c1k1RksxalJrdFB6MEVmb0hlb3RVMG45a3dhaEhWWHNPY1ljVWFnMEFCZw?oc=5",
-   "date_pub": "2026-09-12",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 35 jours (limite : 30)"
-  },
-  {
-   "titre": "Une première aux État-Unis: l’État de New York suspend la construction de nouveaux grands centres de données et impose un moratoire - BFM",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQ2dHZmlVTTJDVXl4aXFBeE1UbzkzMTFnSUo1dXgxRlk4dl96LWN2THJOS2hGWGl1VXBxQVVhZ2g3SmxEUi1TNUZ1Rk9TQTlyR2pyaExZcUVhQWNHNi1sZy1jMlJFaHFwbXJnOU1Dd21wVms0MjhqMkp6RXB3TlFlSGt0WklqbHNrRFNkZ0IxbFhjUXhIdTlnSTQ2TWc2QzNwaExDUFFwTDNpdVVyRFRwWEx6dllPZ0FlTGpRMkk4ZDdaVFJ5LTJYX2JJUUJuRVMtdlFBd3VJWWZNeFZwQ1lnZGI1ZzZ4YVUxVXd0VUNZcVVsM0dfanBaREdETGVqYzdMa2RlTVVhOGJMUDQ0dVphLXBJbEMtUWFxblVTQw?oc=5",
-   "date_pub": "2026-07-14",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 95 jours (limite : 30)"
-  },
-  {
-   "titre": "Google poursuit la construction de sa forteresse cyber dopée à l’IA générative avec Gemini 3.8 Flash Cyber - L'Usine Digitale",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUnFNSEpPUDB1UTFLUm9nTUNCZ0hRNE53ajhaZjBoamdxTjUzVFZobDluWGxVd3VDdXZaRlBrWVZ5LWJaa0lESDdIVVdSOTBTRzdxY1NWRng1c00xV2YzTTRlcjFaMFh4bzFBcTIyRExGNHdLT0pDX2g5RzY1bkJaUlhDQ0xBQ3VicDZRQ2pzZ2RFRWVVSFFnZDVydXFyeEJiRGlGSEduWVNhR29OQjZjOHdhVGVRZ2hPSFFBdEhxcEd6eDVlNWhXUU9EaFpyWkRnN0s2V0xTU2RhMFVjc3NYVlVodkx3d2lzRVVxMDIzN2sxY0p5cEZOcXk0Z1ZYeWkyTUdmUW91WGIyVC01WWNTTWstWnp3Sm1JZ0FiSVUxWW9uUDFz?oc=5",
-   "date_pub": "2026-09-03",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 44 jours (limite : 30)"
+   "raison": "publié il y a 52 jours (limite : 30)"
   },
   {
    "titre": "BTP : Enlaye mise sur l'IA pour transformer la gestion des risques - Les Echos",
@@ -2182,16 +2137,34 @@
    "date_pub": "2026-06-19",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 120 jours (limite : 30)"
+   "raison": "publié il y a 121 jours (limite : 30)"
   },
   {
-   "titre": "Une firme québécoise accélère les takeoffs en construction grâce à l'intelligence artificielle - Magazine MCI",
+   "titre": "CTF 2026 à Dubaï : l'IA et l'automatisation transforment la construction dans le CCG - Actualités et statistiques - IndexBox",
    "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEVGaTNjWE9rOEprMkZZR1RaYUdFeG1DcW9TYlo0RUN5VEpqaXRZSXdxNngwMEJjVnFBVFJEZzlHTW11QmEzQVgtODZxU0VETGt2anlyY3pWOTEyYUZsQWhENlVtTm9UbGhZOC03ckR4UGxEdE5hc284YjEtSndjOTRBWFhWYTJuTDl5NFNpaF96NnMySU0wMlh6UHlFb1dQY1h6SUQ2VGRQOWNyVmN3MDhYYzVadzB3Zk1jd3F5dWdmRnFBSkMxeE5R?oc=5",
-   "date_pub": "2026-08-03",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzQ4QzNMZklYRWdWVmNCcWxyVzFzdjdQR2JPQ2FPWVltZlF6Vm53c2tNSlBkaFhYdVRVblp4a1UwMm9KR2RGOG5BM29yNmFIYkxZWkJ2Ry1NYUZhT3U0X251OUZJNmJseXlLblY3eF9HbzBjenoyT3hwVldzT3k4c1k1RksxalJrdFB6MEVmb0hlb3RVMG45a3dhaEhWWHNPY1ljVWFnMEFCZw?oc=5",
+   "date_pub": "2026-09-12",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 74 jours (limite : 30)"
+   "raison": "publié il y a 36 jours (limite : 30)"
+  },
+  {
+   "titre": "Une première aux État-Unis: l’État de New York suspend la construction de nouveaux grands centres de données et impose un moratoire - BFM",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQ2dHZmlVTTJDVXl4aXFBeE1UbzkzMTFnSUo1dXgxRlk4dl96LWN2THJOS2hGWGl1VXBxQVVhZ2g3SmxEUi1TNUZ1Rk9TQTlyR2pyaExZcUVhQWNHNi1sZy1jMlJFaHFwbXJnOU1Dd21wVms0MjhqMkp6RXB3TlFlSGt0WklqbHNrRFNkZ0IxbFhjUXhIdTlnSTQ2TWc2QzNwaExDUFFwTDNpdVVyRFRwWEx6dllPZ0FlTGpRMkk4ZDdaVFJ5LTJYX2JJUUJuRVMtdlFBd3VJWWZNeFZwQ1lnZGI1ZzZ4YVUxVXd0VUNZcVVsM0dfanBaREdETGVqYzdMa2RlTVVhOGJMUDQ0dVphLXBJbEMtUWFxblVTQw?oc=5",
+   "date_pub": "2026-07-14",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 96 jours (limite : 30)"
+  },
+  {
+   "titre": "Google poursuit la construction de sa forteresse cyber dopée à l’IA générative avec Gemini 3.8 Flash Cyber - L'Usine Digitale",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUnFNSEpPUDB1UTFLUm9nTUNCZ0hRNE53ajhaZjBoamdxTjUzVFZobDluWGxVd3VDdXZaRlBrWVZ5LWJaa0lESDdIVVdSOTBTRzdxY1NWRng1c00xV2YzTTRlcjFaMFh4bzFBcTIyRExGNHdLT0pDX2g5RzY1bkJaUlhDQ0xBQ3VicDZRQ2pzZ2RFRWVVSFFnZDVydXFyeEJiRGlGSEduWVNhR29OQjZjOHdhVGVRZ2hPSFFBdEhxcEd6eDVlNWhXUU9EaFpyWkRnN0s2V0xTU2RhMFVjc3NYVlVodkx3d2lzRVVxMDIzN2sxY0p5cEZOcXk0Z1ZYeWkyTUdmUW91WGIyVC01WWNTTWstWnp3Sm1JZ0FiSVUxWW9uUDFz?oc=5",
+   "date_pub": "2026-09-03",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 45 jours (limite : 30)"
   },
   {
    "titre": "Buildots lève $130M alors que le boom des centres de données IA redessine la construction - Unite.AI",
@@ -2200,7 +2173,16 @@
    "date_pub": "2026-09-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 33 jours (limite : 30)"
+   "raison": "publié il y a 34 jours (limite : 30)"
+  },
+  {
+   "titre": "Une firme québécoise accélère les takeoffs en construction grâce à l'intelligence artificielle - Magazine MCI",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEVGaTNjWE9rOEprMkZZR1RaYUdFeG1DcW9TYlo0RUN5VEpqaXRZSXdxNngwMEJjVnFBVFJEZzlHTW11QmEzQVgtODZxU0VETGt2anlyY3pWOTEyYUZsQWhENlVtTm9UbGhZOC03ckR4UGxEdE5hc284YjEtSndjOTRBWFhWYTJuTDl5NFNpaF96NnMySU0wMlh6UHlFb1dQY1h6SUQ2VGRQOWNyVmN3MDhYYzVadzB3Zk1jd3F5dWdmRnFBSkMxeE5R?oc=5",
+   "date_pub": "2026-08-03",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 75 jours (limite : 30)"
   },
   {
    "titre": "La course à l'IA fait exploser les émissions de CO2 de Google et Amazon - L'Humanité",
@@ -2209,7 +2191,7 @@
    "date_pub": "2026-07-05",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 104 jours (limite : 30)"
+   "raison": "publié il y a 105 jours (limite : 30)"
   },
   {
    "titre": "Les fonds d’investissement face à l’IA : de l’expérimentation à la construction d’un système d’exploitation - frenchweb.fr",
@@ -2218,7 +2200,7 @@
    "date_pub": "2026-06-16",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 123 jours (limite : 30)"
+   "raison": "publié il y a 124 jours (limite : 30)"
   },
   {
    "titre": "Bluebeam déploie son IA Bluebeam Max pour la construction et le BTP - Batiweb",
@@ -2227,16 +2209,7 @@
    "date_pub": "2026-05-26",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 144 jours (limite : 30)"
-  },
-  {
-   "titre": "IA, rénovation, infrastructures : les matériaux de construction reviennent au centre du jeu - ABC Bourse",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFdMMGZlTG55bENHM2xfMUpZa2Z0OFRCYXprLXgtYVduMXFVaG8zOXFtenR0cFhIajJMdEVHcFFfY1VyX2F1V2V6QktpbmxEa2FMa1d5cVFESjNRcFpGRlNQN2VDbmM0akN3aGQ4SUhmT29ZcWVPWmV2N251NWFaeFRvd3VsRmpZY1YtamNBcEJpQ3R0T0lFZElwTFV3ZEVvbGxXU3JLYTNrLV9naE5OMUlSdHIwcUp3SlFRcVNKX1hIQVRESFBvNW9UUEFMYXlXeS1z?oc=5",
-   "date_pub": "2026-09-12",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 35 jours (limite : 30)"
+   "raison": "publié il y a 145 jours (limite : 30)"
   },
   {
    "titre": "« Un non-sens écologique » : l’Île-de-France va accueillir un datacenter IA géant, les militants se mobilisent - Presse-citron",
@@ -2245,7 +2218,16 @@
    "date_pub": "2026-08-28",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 50 jours (limite : 30)"
+   "raison": "publié il y a 51 jours (limite : 30)"
+  },
+  {
+   "titre": "IA, rénovation, infrastructures : les matériaux de construction reviennent au centre du jeu - ABC Bourse",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFdMMGZlTG55bENHM2xfMUpZa2Z0OFRCYXprLXgtYVduMXFVaG8zOXFtenR0cFhIajJMdEVHcFFfY1VyX2F1V2V6QktpbmxEa2FMa1d5cVFESjNRcFpGRlNQN2VDbmM0akN3aGQ4SUhmT29ZcWVPWmV2N251NWFaeFRvd3VsRmpZY1YtamNBcEJpQ3R0T0lFZElwTFV3ZEVvbGxXU3JLYTNrLV9naE5OMUlSdHIwcUp3SlFRcVNKX1hIQVRESFBvNW9UUEFMYXlXeS1z?oc=5",
+   "date_pub": "2026-09-12",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 36 jours (limite : 30)"
   },
   {
    "titre": "Des entreprises d'IA dépensent 265 millions de dollars pour former des électriciens pour les centres de données. - Quartz en Français",
@@ -2254,7 +2236,7 @@
    "date_pub": "2026-07-29",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 80 jours (limite : 30)"
+   "raison": "publié il y a 81 jours (limite : 30)"
   },
   {
    "titre": "Derrière l’essor de l’intelligence artificielle, le défi environnemental des data centers - Pour la Science",
@@ -2263,7 +2245,7 @@
    "date_pub": "2026-06-29",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 110 jours (limite : 30)"
+   "raison": "publié il y a 111 jours (limite : 30)"
   },
   {
    "titre": "New York gèle la construction des data centers géants de l'IA, une première aux États-Unis - Korben",
@@ -2272,16 +2254,25 @@
    "date_pub": "2026-07-15",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 94 jours (limite : 30)"
+   "raison": "publié il y a 95 jours (limite : 30)"
   },
   {
-   "titre": "L'IA dans la construction navale : au-delà de la navigation autonome, elle investit les ateliers de production grâce à trois grands projets - 재경일보",
+   "titre": "Cette usine située en Maine-et-Loire décroche un projet d'intelligence artificielle européen de 388 millions d'euros - Actu.fr",
    "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94REtlM3FtQWxFTWh5Zm80MDNCWkFRd29kc0VzU25MSmxqR0lfakFuLWQ1dGFwMjlFUEM5VWk1SVBEV19BUzhmNGk0NlpGY1FCU25FdFpFbnRjcjYweTd1bg?oc=5",
-   "date_pub": "2026-10-12",
+   "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT3YzZDdMazFWZ1VrVHhySWNld080YVdDUFJ6OFVfT0I5Q1pSSUJ6NjlVczZrbjREQkVCaFJnUjFtbHRvZ0tQS3cyVEpnY0VqVWcxVnBjb183SWpRbmMwd1pMMkRxOXZ0RnNFQTRtQlM0R1pYZVlIOWlERFNUT1paMmNnU0JZNXhuMlBSeDVBeEJzY20xSFhneGpNeV9aTF9Fa056UFpoNEQzNTlzZk8wUDNzSkRRUzVMRll4eVpkUjN2SW0xR2FMRlVoWTVfa2dUYlNjbmxsclo4QVJTQ0NvRm9TVEUwSm1YUGJCN1B5T1V4Wk93bFJqY3NQVmhsaUxfWUYyd1JEbw?oc=5",
+   "date_pub": "2026-08-31",
    "decision": "rejeté",
-   "etape": "hors_sujet",
-   "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
+   "etape": "ancien",
+   "raison": "publié il y a 48 jours (limite : 30)"
+  },
+  {
+   "titre": "Teamily AI lance publiquement sa plateforme sociale humain+AI pour rendre la construction et le développement d'une entreprise facile pour chaque équipe - Yahoo Finance France",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzdpRnNlZi1fbENqa05HRkp3a25mOW9LSW91NzhQbHAybkVLZWx3R2dLaTRJWkNQekVyS29XUGpYVmkxbHp3YWQ5S1NzejRHX3EzVjNxd0F5Uzl1R3JkRFJ3MXN0cWIxZlI0dWhCSll0QjFRY0NxU01JYlVuT2NqeWdkalZLSFVBUjhUZHZLMkpDck40RkZyZFRiVmkzUlE4OEE?oc=5",
+   "date_pub": "2026-07-08",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 102 jours (limite : 30)"
   },
   {
    "titre": "Stéphane Buffat (Renault) : « L’IA va nécessiter une construction rigoureuse » - ITforBusiness.fr",
@@ -2290,7 +2281,16 @@
    "date_pub": "2026-07-14",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 95 jours (limite : 30)"
+   "raison": "publié il y a 96 jours (limite : 30)"
+  },
+  {
+   "titre": "En Allemagne, la révolution de l'IA crée de nouveaux champions en Bourse - Les Echos",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbGw1U2VXMGNCZ1RmUjZyQWRLa0xtV1VHdERNUzhtcjhBYjJVQXBHbFpubnhydFEyTF9DR1hjZmNZTDBLMVRzQUkwY0VvelctUGpVVlhsWUtPSk1JaU43b0cxNUw3bWR6ajBLYjVEQWRkZkEtSU5VOEx1MmJKODYtY2RtWUw5ME90aVVvNlVITERraEJBdHZsRm9feU92RE5JUGFOazh6Tm00YjlnYzBBQWRpcUFCVjJDWElCck5uRmFuV1Rqam84UFI2MnF3NXI5eVo4?oc=5",
+   "date_pub": "2026-06-12",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 128 jours (limite : 30)"
   },
   {
    "titre": "IA et langues africaines : 300 talents formés à la construction de modèles - La Nation Bénin",
@@ -2302,22 +2302,13 @@
    "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
   },
   {
-   "titre": "En Allemagne, la révolution de l'IA crée de nouveaux champions en Bourse - Les Echos",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbGw1U2VXMGNCZ1RmUjZyQWRLa0xtV1VHdERNUzhtcjhBYjJVQXBHbFpubnhydFEyTF9DR1hjZmNZTDBLMVRzQUkwY0VvelctUGpVVlhsWUtPSk1JaU43b0cxNUw3bWR6ajBLYjVEQWRkZkEtSU5VOEx1MmJKODYtY2RtWUw5ME90aVVvNlVITERraEJBdHZsRm9feU92RE5JUGFOazh6Tm00YjlnYzBBQWRpcUFCVjJDWElCck5uRmFuV1Rqam84UFI2MnF3NXI5eVo4?oc=5",
-   "date_pub": "2026-06-12",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 127 jours (limite : 30)"
-  },
-  {
    "titre": "Guerre en Iran, intelligence artificielle, exosquelette et maillage du territoire : les Rencontres du Négoce 2026 méditent sur la filière - Le Moniteur",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcDhIcXlvS1dVdy1DX0RmWXlNdmI3YkZZbDl3WkhIdy0xZ1M5ZlZOZkVHN1A4cXpqMkJVVncyR2VtLV80Q09VLXF6THV4SDlWdGFyVnZyODJQQzlwdG5lcmxaYnhNQTN1eEtWYkVEOWpwWldYdXJhY0RtTHUyQ0JVaEhlTlZkOXQzMTNPN21rdUh6Q0drWE1FRFUtenVKcnVoR0QzZllseFNZMWlfY01YMlJjazJka0dsT2V4STU2ak9OLTVpczBla19BZ29CU1FBajlLbFd2YnQ4RmdQQU9mLVlReXRFSmI5MVRRS3Mzb2FBbnlWSUN6Y2Q1OUNvaGJmUUNzYUxHV1Y4Z25mRVFCRzlHOE4xcTZ4UDlKeW1kUGhscjRy?oc=5",
    "date_pub": "2026-06-29",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 110 jours (limite : 30)"
+   "raison": "publié il y a 111 jours (limite : 30)"
   },
   {
    "titre": "Les États-Unis dépassent la Chine dans la construction de centrales électriques au gaz alors que les centres de données d'IA alimentent un développement énergétique massif - Mais à quel coût? - Benzinga France",
@@ -2326,7 +2317,43 @@
    "date_pub": "2026-08-26",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 52 jours (limite : 30)"
+   "raison": "publié il y a 53 jours (limite : 30)"
+  },
+  {
+   "titre": "LG et Nvidia concluent un accord majeur en vue de la construction d'une immense usine de robots dotés d'intelligence artificielle - Notebookcheck.fr",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYmdRcFVVa19HcmRRTGRZamRTX3Y1Z19NeUo2NmFWUExkSGJwZzd0SjdWa0dlYUFjN0t6WlA4QjIyYjRkNm1zV2JEeUxTRGw2S0F4djJ5NWNYcDZsUHhqZncxcWY5M3A5MUtmZGpidTEzUHBVYXVDSUVPOGZfeHNaWi1BZE5rWFkyNzVyM2dkSWVPQy05M3hfeThYR2RwZzEwZFd6MEFJdXg4MTdWVFBPTGpIQzFjWWM0bWpzRUVTQ2hDby1iT21fbldvOHBWOHdyUlV2YWx6VzA3ejZpZjJvanM0WTJTSzdkOEZBMmY3SGFncFFKY3VIS2p2cU5NaWllNks4Yg?oc=5",
+   "date_pub": "2026-07-08",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 102 jours (limite : 30)"
+  },
+  {
+   "titre": "Babel ou Jérusalem : quelle civilisation l’IA est-elle en train de bâtir ? - RCF Radio",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0UtU2N4RlZwdXFHYzNkV0tYeFY1Z3M2cE5iNDVwcG9HZEV1Q1hNWmt1aVlmMXZqSk8wZmZwemtsRXVlUzZjcHE1Y3d6TzJLUTBHRjJib21BN0I5Qm53Tk1wbElsdnFTV2k3THlEX0FPTUdPUnRRTmp5VVVDbEp0aVlHMGNNbW1KYmdmWEN3YmdyVWNBSzZUUjJ5bUJKeFM2VThkVHBLV3J1QQ?oc=5",
+   "date_pub": "2026-05-27",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 144 jours (limite : 30)"
+  },
+  {
+   "titre": "“Jusqu’à 3 GW de capacité de calcul” : Un an après, le projet de campus IA soutenu par Bpifrance, MGX, Mistral AI et Nvidia s’accélère - L'Usine Digitale",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOS1JhakkxMjRjcUVZMmNrbTlTNjBWQUQ4RkJqbG5HcmlOQkhERHNoN0RuLTBjb1hCWGduQWV6bUxobC1MY1NjSF9tbFg0czBXcFJPMDNSSUFIQlZ6cDhfaWVoWlltTnF0VHU5WXZOcUE4VUdJc21QR0lYcHpuaGVxTGNocExSM1pNd2o0LWM3dGZ4N2l6YXZUXzN2UHE4MTJCcnVPU3lFZnJaaFVVNjh4SkE3X3VCbmJGeXBOeWUxN2d5cmJDM3VBN0MxMHNlU21scXlZdTZWZ08zVWZfZldnNFdxZGFBVzhjTHlJNXlpdi14VER5YjAtLXE0N2Y2LXprZUdfeVpRXzVQMHplTmIxNGNtaTJNN2ZqMmRwVkdmYjhkMUIxdnhZNGwzZV9vMlFjZTVMV2ZBR20yVEJaY3BaUHpud2J0eUk2LXY4?oc=5",
+   "date_pub": "2026-06-02",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 138 jours (limite : 30)"
+  },
+  {
+   "titre": "La Sibérie est proche de la Chine, loin des frappes ukrainiennes et il y fait très froid: la vaste région coche toutes les cases pour devenir le terrain de construction des prochains data centers russes - BFM",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiigNBVV95cUxORWxRcEhOTm1PeWpoNjBXV0RTaHU2NlA0WVVJYlV6Z0dQOVJucXo4b3psTEpXWkF5bWRjVjN0aXo0QjViSlE2cUw5Ylp1aUFnMFlDYmpGOEdmenBzMWlmdC1xUGhKUGM1SDgzanpEXzhQSGtYcVdrMFhYMWxHXzJKWXJnRDRZeVg5ZnBqMzlSVG5ZNjRPZ1hINGFfSl9OYXRCeXV3cmZfWl9nTld1eU5XSUJBYnNpVW9PWVg4RmhGbTI1bl9YOHg3NHFTQ3hKX2VSSnlUWnpzTjR5YkV1T1J6VmVTRUJMMF96MnBnMmFXdGUydVVUV1NyYWRCaURkZDJMaGtlTE9JU2h2MXhxaG44LXNld21LNFFMaHY1R191S1o3UWVDRUJ1Mm9GRDM5b29GMnh4WHdzWXJ2T3ZuLUxyMEZQVFBmaVVoRkJPdW1OWVBYYXZqdDRUSjJwY2xVLW9uVjBHQjloVG11emRGM183d2hLWEM3RDM1ai1SVm9KaXZMcVgwcTVBaDd3?oc=5",
+   "date_pub": "2026-09-17",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 31 jours (limite : 30)"
   },
   {
    "titre": "La construction s’inspire du manufacturier pour accroître sa productivité - Portail Constructo",
@@ -2338,40 +2365,13 @@
    "raison": "aucun terme IA ni architecture/BTP"
   },
   {
-   "titre": "LG et Nvidia concluent un accord majeur en vue de la construction d'une immense usine de robots dotés d'intelligence artificielle - Notebookcheck.fr",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYmdRcFVVa19HcmRRTGRZamRTX3Y1Z19NeUo2NmFWUExkSGJwZzd0SjdWa0dlYUFjN0t6WlA4QjIyYjRkNm1zV2JEeUxTRGw2S0F4djJ5NWNYcDZsUHhqZncxcWY5M3A5MUtmZGpidTEzUHBVYXVDSUVPOGZfeHNaWi1BZE5rWFkyNzVyM2dkSWVPQy05M3hfeThYR2RwZzEwZFd6MEFJdXg4MTdWVFBPTGpIQzFjWWM0bWpzRUVTQ2hDby1iT21fbldvOHBWOHdyUlV2YWx6VzA3ejZpZjJvanM0WTJTSzdkOEZBMmY3SGFncFFKY3VIS2p2cU5NaWllNks4Yg?oc=5",
-   "date_pub": "2026-07-08",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 101 jours (limite : 30)"
-  },
-  {
-   "titre": "Babel ou Jérusalem : quelle civilisation l’IA est-elle en train de bâtir ? - RCF Radio",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0UtU2N4RlZwdXFHYzNkV0tYeFY1Z3M2cE5iNDVwcG9HZEV1Q1hNWmt1aVlmMXZqSk8wZmZwemtsRXVlUzZjcHE1Y3d6TzJLUTBHRjJib21BN0I5Qm53Tk1wbElsdnFTV2k3THlEX0FPTUdPUnRRTmp5VVVDbEp0aVlHMGNNbW1KYmdmWEN3YmdyVWNBSzZUUjJ5bUJKeFM2VThkVHBLV3J1QQ?oc=5",
-   "date_pub": "2026-05-27",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 143 jours (limite : 30)"
-  },
-  {
-   "titre": "“Jusqu’à 3 GW de capacité de calcul” : Un an après, le projet de campus IA soutenu par Bpifrance, MGX, Mistral AI et Nvidia s’accélère - L'Usine Digitale",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOS1JhakkxMjRjcUVZMmNrbTlTNjBWQUQ4RkJqbG5HcmlOQkhERHNoN0RuLTBjb1hCWGduQWV6bUxobC1MY1NjSF9tbFg0czBXcFJPMDNSSUFIQlZ6cDhfaWVoWlltTnF0VHU5WXZOcUE4VUdJc21QR0lYcHpuaGVxTGNocExSM1pNd2o0LWM3dGZ4N2l6YXZUXzN2UHE4MTJCcnVPU3lFZnJaaFVVNjh4SkE3X3VCbmJGeXBOeWUxN2d5cmJDM3VBN0MxMHNlU21scXlZdTZWZ08zVWZfZldnNFdxZGFBVzhjTHlJNXlpdi14VER5YjAtLXE0N2Y2LXprZUdfeVpRXzVQMHplTmIxNGNtaTJNN2ZqMmRwVkdmYjhkMUIxdnhZNGwzZV9vMlFjZTVMV2ZBR20yVEJaY3BaUHpud2J0eUk2LXY4?oc=5",
-   "date_pub": "2026-06-02",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 137 jours (limite : 30)"
-  },
-  {
    "titre": "Data centers : SoftBank va investir 75 milliards d’euros en France pour construire des “AI factories”, dont plus de la moitié dans les Hauts-de-France - L'Usine Digitale",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNnNiRHFfM2x3WXRPMHJQS1RMY3IwR0F4eDY5Q1Z3UGNxOVVib3ViNXhBV3JRaWxUNHlKNFpUU2hkdVktcGp1SU55bVFoUTcxWEJHRm5tb011YWlyM281WjlxNERJbjFla0RuUV9tdzZhcTZpcXg1c2pWMUJka09qSGhLYVk0ZTdUUVdrNUpBLWR5MXdfVHBoWGY3bEM0aEFnQngzLXBKamV2SlBxTTdhMldFRGladWZSMEkyNVVrWVZGbmVKTnJqdE9hQlppeTZNeGtzYm9zc3g4R1BaUHNITW1aNTcxLV90NFJOV0NxVE1Mc1RJYjI0LVRrSWE3RWhCTGZ0RzM5YTBsUEEzRnlJVnZpT2tyWFc2Y2JfdkxfbVNVaERkLVRWMGR6bU5qRksxYThScG84VThvV3E3Z0h1akFkc0hwSU1XU1RRMExOTW1RZw?oc=5",
    "date_pub": "2026-05-31",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 139 jours (limite : 30)"
+   "raison": "publié il y a 140 jours (limite : 30)"
   },
   {
    "titre": "La fronde contre la prolifération des data centers IA passe un cap aux États-Unis et en Europe - L'Usine Digitale",
@@ -2380,7 +2380,16 @@
    "date_pub": "2026-06-15",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 124 jours (limite : 30)"
+   "raison": "publié il y a 125 jours (limite : 30)"
+  },
+  {
+   "titre": "L'IA dans la construction navale : au-delà de la navigation autonome, elle investit les ateliers de production grâce à trois grands projets - 재경일보",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94REtlM3FtQWxFTWh5Zm80MDNCWkFRd29kc0VzU25MSmxqR0lfakFuLWQ1dGFwMjlFUEM5VWk1SVBEV19BUzhmNGk0NlpGY1FCU25FdFpFbnRjcjYweTd1bg?oc=5",
+   "date_pub": "2026-10-12",
+   "decision": "rejeté",
+   "etape": "hors_sujet",
+   "raison": "parle d'IA (ia) mais aucun terme architecture/BTP"
   },
   {
    "titre": "Pour le patron de Nvidia, la croissance de l'IA n'en est qu'\"à ses débuts\" - lecourrier.vn",
@@ -2389,16 +2398,7 @@
    "date_pub": "2026-07-17",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 92 jours (limite : 30)"
-  },
-  {
-   "titre": "Un investissement record de 45 milliards d'euros pour la construction de data centers dans les Hauts-de-France - France 3 Régions",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQzR0aUNHR0pLQ0pEekNMMW1rbW0xRjJPVjROUkhfQmNuTmJKaUlvVzN1R0hfY1A5WE5BYUtDOWtuYlU2ZHV5VWJWNnk2alZNcl9oOEZ6eVItU01TM3hRQzVyT1licE5HN1VtdVZyY2o3UFlrMUdyclpKVUN2Z1hDRnUtSTJLOWx5WkZGcm9MaHliUTViVEhibHQzRzVfOFUxVUlLa3dHeXN5UmJ2b1RJTW1EakdRM0FoNXhzeTk1c0RTekw1NUdfMEZKNTlNSk5ibmQzV21hbXJZM24xd2x2aW0tZ2NwZ3hOM0dXVW1ZV1pRd01SazhETmsyYW93eW8zRkRUbFFVQlNiMGxCRk00Um1n?oc=5",
-   "date_pub": "2026-05-31",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 139 jours (limite : 30)"
+   "raison": "publié il y a 93 jours (limite : 30)"
   },
   {
    "titre": "L’Egypte prévoit la construction d’un centre de données d’IA d’un milliard de dollars avec Nvidia - Le360 Afrique",
@@ -2407,7 +2407,16 @@
    "date_pub": "2026-09-09",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 38 jours (limite : 30)"
+   "raison": "publié il y a 39 jours (limite : 30)"
+  },
+  {
+   "titre": "Un investissement record de 45 milliards d'euros pour la construction de data centers dans les Hauts-de-France - France 3 Régions",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQzR0aUNHR0pLQ0pEekNMMW1rbW0xRjJPVjROUkhfQmNuTmJKaUlvVzN1R0hfY1A5WE5BYUtDOWtuYlU2ZHV5VWJWNnk2alZNcl9oOEZ6eVItU01TM3hRQzVyT1licE5HN1VtdVZyY2o3UFlrMUdyclpKVUN2Z1hDRnUtSTJLOWx5WkZGcm9MaHliUTViVEhibHQzRzVfOFUxVUlLa3dHeXN5UmJ2b1RJTW1EakdRM0FoNXhzeTk1c0RTekw1NUdfMEZKNTlNSk5ibmQzV21hbXJZM24xd2x2aW0tZ2NwZ3hOM0dXVW1ZV1pRd01SazhETmsyYW93eW8zRkRUbFFVQlNiMGxCRk00Um1n?oc=5",
+   "date_pub": "2026-05-31",
+   "decision": "rejeté",
+   "etape": "ancien",
+   "raison": "publié il y a 140 jours (limite : 30)"
   },
   {
    "titre": "CARTE. Un data center près de chez vous ? Découvrez où sont situés les projets de méga centres de données destinés à l'IA en France - franceinfo",
@@ -2416,16 +2425,7 @@
    "date_pub": "2026-06-01",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 138 jours (limite : 30)"
-  },
-  {
-   "titre": "Cette usine située en Maine-et-Loire décroche un projet d'intelligence artificielle européen de 388 millions d'euros - Actu.fr",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT3YzZDdMazFWZ1VrVHhySWNld080YVdDUFJ6OFVfT0I5Q1pSSUJ6NjlVczZrbjREQkVCaFJnUjFtbHRvZ0tQS3cyVEpnY0VqVWcxVnBjb183SWpRbmMwd1pMMkRxOXZ0RnNFQTRtQlM0R1pYZVlIOWlERFNUT1paMmNnU0JZNXhuMlBSeDVBeEJzY20xSFhneGpNeV9aTF9Fa056UFpoNEQzNTlzZk8wUDNzSkRRUzVMRll4eVpkUjN2SW0xR2FMRlVoWTVfa2dUYlNjbmxsclo4QVJTQ0NvRm9TVEUwSm1YUGJCN1B5T1V4Wk93bFJqY3NQVmhsaUxfWUYyd1JEbw?oc=5",
-   "date_pub": "2026-08-31",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 47 jours (limite : 30)"
+   "raison": "publié il y a 139 jours (limite : 30)"
   },
   {
    "titre": "IA: les actions suisses au cœur du boom des infrastructures - Allnews",
@@ -2434,7 +2434,7 @@
    "date_pub": "2026-08-24",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 54 jours (limite : 30)"
+   "raison": "publié il y a 55 jours (limite : 30)"
   },
   {
    "titre": "Comment l’IA et le boom des data centers profitent à des industriels français de l’économie traditionnelle - Le Monde.fr",
@@ -2443,7 +2443,7 @@
    "date_pub": "2026-06-28",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 111 jours (limite : 30)"
+   "raison": "publié il y a 112 jours (limite : 30)"
   },
   {
    "titre": "Les entreprises d’IA recrutent électriciens et charpentiers par milliers - La Presse",
@@ -2452,16 +2452,7 @@
    "date_pub": "2026-08-09",
    "decision": "rejeté",
    "etape": "ancien",
-   "raison": "publié il y a 69 jours (limite : 30)"
-  },
-  {
-   "titre": "Méga data center : découvrez si vous vivez à proximité d'un des futurs projets français destinés à l'intelligence artificielle - Capital.fr",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRUFPT1FnV0RBdE9ET1FXWXBndllpM0Z4S083U2pJelNjVGhCamFtNUI1c2RMNkpfUmNSTFFvNWZqZXlkam90cFMtMzNoSllPTEZQV2JkLTB5SHdXem5ybTJPci1YMnR6Wk96ZDBFUG93aWJEdkxZWGFaZWVhMXJEWUQyLU9GUngzam9OQUVFY2tJQ2Y2SmdvY2k5X1lCR3UyZTZLMDlUUUJsRlpkQ096WlAtelY2c0oyak5BRGJ2amFySFB0MVdVSTFJNUtGd2g5c2xUMTd2M2FuVEpZeEY0WlhYb09sRFNOanhYYXJTZnU5N3JwcTNvaVhPVkUtU3ItSEcyaHdR?oc=5",
-   "date_pub": "2026-06-04",
-   "decision": "rejeté",
-   "etape": "ancien",
-   "raison": "publié il y a 135 jours (limite : 30)"
+   "raison": "publié il y a 70 jours (limite : 30)"
   },
   {
    "titre": "Flintco-Mortenson JV begins concrete deck at $900M Oklahoma City NBA arena",
@@ -2671,6 +2662,15 @@
    "raison": "lien déjà connu"
   },
   {
+   "titre": "À Hanoï, il est obligatoire de surveiller les niveaux de poussière sur 100 % des grands chantiers de construction à l'aide de capteurs, de caméras et d'intelligence artificielle. - Vietnam.vn",
+   "source": "Google Actualités (FR)",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbklDWThMTEV4a29IcUpidmhqZDJjeER1RmxSbE9ZbkNzX0RtaGU1LUxTTGxjWHJXeF9NWU9jTDc4MFktZUxnSkFvLXlmWmw5RGFoT240MXMxOE5icGppa2psMWFpVEZuYXBGSkdHZlFOQjRRN0prZXlDNWpwVTl3R1VUME1HZkVqZXRBQ2lhVnBnQmw0UEpxWWRJYXc?oc=5",
+   "date_pub": "2026-10-17",
+   "decision": "rejeté",
+   "etape": "doublon",
+   "raison": "lien déjà connu"
+  },
+  {
    "titre": "Construction d'infrastructures réseau pour l'ère de l'IA au Vietnam. - Vietnam.vn",
    "source": "Google Actualités (FR)",
    "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVl9ubGlNMWZZbWdDWDJTTVVmOGhIOUp2ME84OFNNREowVDRvSlVtS3N4dHlNSXlFckl0Ukp4YWx5QXBBcjNEYVZFMzlaZjlTWWVYOUs3OG4wcV9jOEwxRWlqSDhGN1BrNVItX1VteTdyRGRqN2lBdHZuRHRUeWpLRzNrcw?oc=5",
@@ -2680,18 +2680,14 @@
    "raison": "lien déjà connu"
   },
   {
-   "titre": "À Hanoï, il est obligatoire de surveiller les niveaux de poussière sur 100 % des grands chantiers de construction à l'aide de capteurs, de caméras et d'intelligence artificielle. - Vietnam.vn",
-   "source": "Google Actualités (FR)",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbklDWThMTEV4a29IcUpidmhqZDJjeER1RmxSbE9ZbkNzX0RtaGU1LUxTTGxjWHJXeF9NWU9jTDc4MFktZUxnSkFvLXlmWmw5RGFoT240MXMxOE5icGppa2psMWFpVEZuYXBGSkdHZlFOQjRRN0prZXlDNWpwVTl3R1VUME1HZkVqZXRBQ2lhVnBnQmw0UEpxWWRJYXc?oc=5",
-   "date_pub": "2026-10-17",
-   "decision": "retenu",
-   "etape": "retenu",
-   "raison": "article pertinent",
-   "phase": "Chantier",
-   "trl": 8,
-   "score": 7.4,
-   "methode": "LLM",
-   "resume": "À Hanoï, la surveillance des niveaux de poussière est devenue obligatoire sur l'ensemble des grands chantiers de construction. Ce contrôle s'effectue grâce à l'utilisation combinée de capteurs, de caméras et d'intelligence artificielle."
+   "titre": "America’s $10tn AI infrastructure boom is starting to fray - Financial Times",
+   "source": "Google Actualités (EN)",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c?oc=5",
+   "date_pub": "2026-10-18",
+   "decision": "rejeté",
+   "etape": "llm",
+   "raison": "L'article traite des aspects macroéconomiques et financiers des infrastructures informatiques pour l'IA, sans présenter d'outil ni d'application d'IA pour le BTP.",
+   "methode": "LLM"
   }
  ]
 }

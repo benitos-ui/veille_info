@@ -1,11 +1,6 @@
-# Veille IA × Architecture & BTP — 2026-10-17
+# Veille IA × Architecture & BTP — 2026-10-18
 
-- Articles lus : 298 · pertinents : 15 · écartés : 14 · nouvelles fiches : 1
-
-## 🔔 [À Hanoï, il est obligatoire de surveiller les niveaux de poussière sur 100 % des grands chantiers de construction à l'aide de capteurs, de caméras et d'intelligence artificielle. - Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbklDWThMTEV4a29IcUpidmhqZDJjeER1RmxSbE9ZbkNzX0RtaGU1LUxTTGxjWHJXeF9NWU9jTDc4MFktZUxnSkFvLXlmWmw5RGFoT240MXMxOE5icGppa2psMWFpVEZuYXBGSkdHZlFOQjRRN0prZXlDNWpwVTl3R1VUME1HZkVqZXRBQ2lhVnBnQmw0UEpxWWRJYXc?oc=5)
-*Chantier · Google Actualités (FR) · score **7.4/10** · TRL 8/9 · analysé par : LLM*
-
-À Hanoï, la surveillance des niveaux de poussière est devenue obligatoire sur l'ensemble des grands chantiers de construction. Ce contrôle s'effectue grâce à l'utilisation combinée de capteurs, de caméras et d'intelligence artificielle.
+- Articles lus : 298 · pertinents : 16 · écartés : 16 · nouvelles fiches : 0
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -22,4 +17,6 @@
 - IA dans le BTP : Pourquoi le secteur tarde à l'adopter ? - Presse Agence — lien déjà connu
 - Le prochain avantage concurrentiel de la construction : les chantiers intelligents - Unite.AI — lien déjà connu
 - Face à la baisse des appels d’offres, les acteurs du BTP des Hauts-de-France adoptent l’intelligence artificielle pour gagner en efficience et en compétitivité - Le Moniteur — lien déjà connu
+- À Hanoï, il est obligatoire de surveiller les niveaux de poussière sur 100 % des grands chantiers de construction à l'aide de capteurs, de caméras et d'intelligence artificielle. - Vietnam.vn — lien déjà connu
 - Construction d'infrastructures réseau pour l'ère de l'IA au Vietnam. - Vietnam.vn — lien déjà connu
+- America’s $10tn AI infrastructure boom is starting to fray - Financial Times — jugé hors sujet par le LLM : L'article traite des aspects macroéconomiques et financiers des infrastructures informatiques pour l'IA, sans présenter d'outil ni d'application d'IA pour le BTP.
