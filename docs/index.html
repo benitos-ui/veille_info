@@ -20,7 +20,7 @@ a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(-
 @media(max-width:520px){li{grid-template-columns:2.6rem 1fr;gap:0 10px}}
 </style></head><body><main>
 <h1>Veille IA × Architecture &amp; BTP</h1>
-<p class="sous" id="sous"></p><p class="sous"><a class="orig" href="rapport.html">Lire le rapport du jour</a> · <a class="orig" href="rapport.html" download="rapport-veille-2026-10-22.html">Télécharger (HTML) ↓</a> · <a class="orig" href="rapport.csv" download="rapport-veille-2026-10-22.csv">Télécharger (Excel/CSV) ↓</a> <span style="color:var(--doux)">articles retenus et rejetés, avec les raisons</span></p>
+<p class="sous" id="sous"></p><p class="sous"><a class="orig" href="rapport.html">Lire le rapport du jour</a> · <a class="orig" href="rapport.html" download="rapport-veille-2026-10-23.html">Télécharger (HTML) ↓</a> · <a class="orig" href="rapport.csv" download="rapport-veille-2026-10-23.csv">Télécharger (Excel/CSV) ↓</a> <span style="color:var(--doux)">articles retenus et rejetés, avec les raisons</span></p>
 <div class="filtres">
  <input type="search" id="q" placeholder="Rechercher" aria-label="Rechercher">
  <select id="phase" aria-label="Phase"></select>
@@ -54,7 +54,7 @@ function controles() {
   const liste = (cle, vide) => `<option value="">${vide}</option>` + [...new Set(lignes.map(d => d[cle]))].sort().map(v => `<option>${h(v)}</option>`).join("");
   $("phase").innerHTML = liste("phase", "Toutes les phases");
   $("source").innerHTML = liste("source", "Toutes les sources");
-  $("sous").textContent = lignes.length + " fiches · mis à jour le 22/10/2026 · alerte à partir de " + SEUIL + "/10";
+  $("sous").textContent = lignes.length + " fiches · mis à jour le 23/10/2026 · alerte à partir de " + SEUIL + "/10";
 }
 
 function afficher() {
