@@ -1,11 +1,11 @@
-# Veille IA × Architecture & BTP — 2026-10-29
+# Veille IA × Architecture & BTP — 2026-10-30
 
-- Articles lus : 237 · pertinents : 12 · écartés : 11 · nouvelles fiches : 1
+- Articles lus : 237 · pertinents : 11 · écartés : 10 · nouvelles fiches : 1
 
-## [A Geometric Ruin / 00L](https://www.archdaily.com/1187661/a-geometric-ruin)
-*Conception · ArchDaily · score **6.6/10** · TRL 6/9 · analysé par : mots-clés*
+## [From Atoms to Universes: The Architecture of Everything in the Age of AI](https://www.archdaily.com/1187149/from-atoms-to-universes-the-architecture-of-everything-in-the-age-of-ai)
+*Conception · ArchDaily · score **6.4/10** · TRL 4/9 · analysé par : LLM*
 
-Inhabiting the open landscape of the Córdoba hinterland calls for an act of spatial delimitation and the establishment of a domestic order. Located in La Bolsa, this low-cost residential project adopts the patio as the generative principle of its architectural layout, drawing on 
+L'intelligence artificielle acquiert désormais une intelligence spatiale lui permettant de comprendre le comportement de l'espace physique. Cela permet aux architectes de simuler et tester leurs projets par rapport à leur environnement directement pendant la phase de conception.
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -16,11 +16,10 @@ Inhabiting the open landscape of the Córdoba hinterland calls for an act of spa
 - DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models — lien déjà connu
 - Localized Generative Design of Ship Hulls with Diffusion Models and High-Fidelity Assessment — lien déjà connu
 - Vision-enabled detection of safety helmet compliance in construction zones — lien déjà connu
-- CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites — lien déjà connu
 - Daewoo E&C expands AI use across construction sites - The Korea Times — lien déjà connu
-- New programme to help start-ups test embodied AI on construction sites launched - The Edge Singapore — lien déjà connu
-- Infrastructure and construction in the AI era - IBM — lien déjà connu
+- AI in the EGI e-infrastructure -- Past experiences and future strategies — jugé hors sujet par le LLM : L'article traite de l'infrastructure informatique fédérée pour la recherche scientifique et environnementale, sans aucun lien avec le BTP ou l'architecture.
+- Stream Mission Critical Expands Stream Hyperscale Warehousing as AI Data Center Buildout Drives Demand for Coordinated Infrastructure Logistics - markets.businessinsider.com — jugé hors sujet par le LLM : L'article aborde la logistique et l'entreposage pour la construction de data centers IA, mais ne traite pas d'une application de l'IA appliquée aux métiers du BTP.
 
 ## Sources en erreur
 
-- Canadian Architect : The read operation timed out
+- Canadian Architect : not well-formed (invalid token): line 1, column 119
