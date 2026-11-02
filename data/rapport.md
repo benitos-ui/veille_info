@@ -1,6 +1,6 @@
-# Veille IA × Architecture & BTP — 2026-11-01
+# Veille IA × Architecture & BTP — 2026-11-02
 
-- Articles lus : 254 · pertinents : 10 · écartés : 10 · nouvelles fiches : 0
+- Articles lus : 196 · pertinents : 8 · écartés : 8 · nouvelles fiches : 0
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -12,5 +12,3 @@
 - Localized Generative Design of Ship Hulls with Diffusion Models and High-Fidelity Assessment — lien déjà connu
 - Vision-enabled detection of safety helmet compliance in construction zones — lien déjà connu
 - AI is coming to construction sites. But does it make workers safer? - CNBC — lien déjà connu
-- Daewoo E&C expands AI use across construction sites - The Korea Times — lien déjà connu
-- AI-designed materials pave the way for sustainable infrastructure - Eindhoven University of Technology — lien déjà connu
