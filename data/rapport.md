@@ -1,11 +1,6 @@
-# Veille IA × Architecture & BTP — 2026-11-07
+# Veille IA × Architecture & BTP — 2026-11-08
 
-- Articles lus : 205 · pertinents : 9 · écartés : 8 · nouvelles fiches : 1
-
-## [À Amsterdam, le chantier d’un data center occupé par des manifestants anti-IA - Courrier international](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWDVNTWZEMldnS2xPTXNSLTV6VnlzWWdoNnQ4elcydHRUbnlicEFFc19EVWtsWHdmejhSS1ROUHYtZWtFYVQ2a3gxd0NCOHlXSy03a2RRT0htMnNfUFI4Q0FCdl9rU2dDWlNrOEhjOEZvN04teklXbVFnTFJEN21HS2FHT1RORmJLSl9UbFgxWXQzZE1zMkNqRTJJMTREeEktMk8wTkptZ1JwQ0F1OGg1QXJzVDgxaUljRzVtYlBTZGxGNGdiaENmT1dmVEpQUkVBME1PQQ?oc=5)
-*Chantier · Google Actualités (FR) · score **6.1/10** · TRL 6/9 · analysé par : mots-clés*
-
-À Amsterdam, le chantier d’un data center occupé par des manifestants anti-IA Courrier international
+- Articles lus : 205 · pertinents : 10 · écartés : 10 · nouvelles fiches : 0
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -17,3 +12,5 @@
 - FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour — lien déjà connu
 - DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models — lien déjà connu
 - Localized Generative Design of Ship Hulls with Diffusion Models and High-Fidelity Assessment — lien déjà connu
+- À Amsterdam, le chantier d’un data center occupé par des manifestants anti-IA - Courrier international — lien déjà connu
+- Anti-AI protesters breach Microsoft data centre construction site in Amsterdam - Khaleej Times — même sens (0.95)
