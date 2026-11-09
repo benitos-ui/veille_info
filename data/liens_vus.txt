@@ -1,6 +1,7 @@
 archdaily.com/1187149/from-atoms-to-universes-the-architecture-of-everything-in-the-age-of-ai
 archdaily.com/1187519/what-ai-reveals-about-architecture-that-was-never-built
 archdaily.com/1187661/a-geometric-ruin
+archdaily.com/1188302/every-picture-tells-a-story
 arxiv.org/abs/2609.25578v1
 arxiv.org/abs/2609.25649v1
 arxiv.org/abs/2609.29024v1
@@ -16,8 +17,10 @@ arxiv.org/abs/2610.33737v1
 arxiv.org/abs/2610.40494v1
 arxiv.org/abs/2611.00097v1
 arxiv.org/abs/2611.05129v1
+arxiv.org/abs/2611.08645v1
 canadianarchitect.com/generative-ai-arrives-at-architectures-stoop
 commonedge.org/now-that-information-is-free-whats-a-college-campus-for
+graphisoft.com/en-us/pulse/archicad-mcp-ai-automation-of-repetitive-bim-tasks-for-architects
 news.google.com/rss/articles/CBMi0gFBVV95cUxORlowaUluNDl0ZlNOVHpRR3BFWVJOS2pKX3VTR21YRXRmY3hrNmFsZHJqei1DN3RVMXFXYXhhQ2FORG5xMFdOSFpjWG1BS0xFQWthZkk5ZlNPdDdkYTNQbDBBOGFCWnU5NlNPczRBdC1HakRXTnM5ZHFJVlVRcWhGTE4xdFl5UFA3anlqcjVHX0hfeUFnOUtuMVBmajFJei1qM3FEVkNvXzVUcm1KWlFDQ2tmSE0yQW9RMHFfSDZoSDJ0Mnp1TGh5QTFzby0zRDRuMlE
 news.google.com/rss/articles/CBMi1AFBVV95cUxQWDVNTWZEMldnS2xPTXNSLTV6VnlzWWdoNnQ4elcydHRUbnlicEFFc19EVWtsWHdmejhSS1ROUHYtZWtFYVQ2a3gxd0NCOHlXSy03a2RRT0htMnNfUFI4Q0FCdl9rU2dDWlNrOEhjOEZvN04teklXbVFnTFJEN21HS2FHT1RORmJLSl9UbFgxWXQzZE1zMkNqRTJJMTREeEktMk8wTkptZ1JwQ0F1OGg1QXJzVDgxaUljRzVtYlBTZGxGNGdiaENmT1dmVEpQUkVBME1PQQ
 news.google.com/rss/articles/CBMi1wFBVV95cUxONEhBTk1KeGI2YlFHdUZlQ3VuNUtxb3l2UVA5MU1SUXM4N2JHSkFXTVdvNGNSZ2U5cmlRRkZKSEM0NjkwdG9tTVAxOFFfVlpqa2NrYjJUaU1lVlVEcEJzeFRKTjlaU25UaWFsZGp4dDFpUUF1UTJQbmZ3akNNUnY1S3NIWTBENjQtTnlkWUxNWlc1V3dYazlGVnpmYzMzbkNUcm1VSzQ1ZGJUdGZXMktyUGNxOV9Tc01ITDJFSm9jT0pHaHhyOFYxdUZWbDd3QTBUYjJLTVNvdw
