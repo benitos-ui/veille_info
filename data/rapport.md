@@ -1,11 +1,6 @@
-# Veille IA × Architecture & BTP — 2026-11-13
+# Veille IA × Architecture & BTP — 2026-11-14
 
-- Articles lus : 198 · pertinents : 12 · écartés : 11 · nouvelles fiches : 1
-
-## 🔔 [Application de la modélisation BIM 3D et de l'intelligence artificielle à la conception des infrastructures routières et ferroviaires. - Vietnam.vn](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzhMVkprTEVqYVZEUGRXQjZXeGxMRjRTaTFodEdWdUNOaDhyc0pWRmp1TDdhUjZSaHhmdDk0cGpQYUJ1NGFFWTdsTkc2YTFOTm0zbzk1QUZUMVBSMzBpSkNmSEFiZzVtdWRMeXkyOE1nMzRabHctaGNoSGd6Ml9NeEs4V00xaHZiY2MtampMR2xkYjdHLW9LTmFzQU9BNTFSMENmeVlR?oc=5)
-*Conception · Google Actualités (FR) · score **7.3/10** · TRL 5/9 · analysé par : LLM*
-
-Cet article présente l'application de la modélisation BIM 3D combinée à l'intelligence artificielle au Vietnam. L'objectif ciblé est d'optimiser la conception des infrastructures routières et ferroviaires.
+- Articles lus : 200 · pertinents : 12 · écartés : 12 · nouvelles fiches : 0
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -19,4 +14,5 @@ Cet article présente l'application de la modélisation BIM 3D combinée à l'in
 - A SegFormer-based model for spatial Daylight Factor prediction with comprehensive obstruction encoding and regulatory validation — lien déjà connu
 - Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection — lien déjà connu
 - FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour — lien déjà connu
-- DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models — lien déjà connu
+- Artificial intelligence will change the economics of architectural practice - ArchitectureLive! — lien déjà connu
+- Application de la modélisation BIM 3D et de l'intelligence artificielle à la conception des infrastructures routières et ferroviaires. - Vietnam.vn — lien déjà connu
