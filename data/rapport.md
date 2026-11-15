@@ -1,6 +1,6 @@
-# Veille IA × Architecture & BTP — 2026-11-14
+# Veille IA × Architecture & BTP — 2026-11-15
 
-- Articles lus : 200 · pertinents : 12 · écartés : 12 · nouvelles fiches : 0
+- Articles lus : 194 · pertinents : 11 · écartés : 11 · nouvelles fiches : 0
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -14,5 +14,4 @@
 - A SegFormer-based model for spatial Daylight Factor prediction with comprehensive obstruction encoding and regulatory validation — lien déjà connu
 - Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection — lien déjà connu
 - FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour — lien déjà connu
-- Artificial intelligence will change the economics of architectural practice - ArchitectureLive! — lien déjà connu
-- Application de la modélisation BIM 3D et de l'intelligence artificielle à la conception des infrastructures routières et ferroviaires. - Vietnam.vn — lien déjà connu
+- Hanoï augmente la surveillance des poussières de chantier par caméras d'IA - Laodong.vn — même sens (0.95)
