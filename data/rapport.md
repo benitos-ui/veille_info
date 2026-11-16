@@ -1,6 +1,6 @@
-# Veille IA × Architecture & BTP — 2026-11-15
+# Veille IA × Architecture & BTP — 2026-11-16
 
-- Articles lus : 194 · pertinents : 11 · écartés : 11 · nouvelles fiches : 0
+- Articles lus : 194 · pertinents : 10 · écartés : 10 · nouvelles fiches : 0
 
 ## Articles écartés (doublons ou hors sujet)
 
@@ -13,5 +13,4 @@
 - Pano2BIM: A Geometry-Constrained Vision-Language Agent for As-Built BIM Generation from a Floor Plan and a Single 360$^\circ$ Image — lien déjà connu
 - A SegFormer-based model for spatial Daylight Factor prediction with comprehensive obstruction encoding and regulatory validation — lien déjà connu
 - Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection — lien déjà connu
-- FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour — lien déjà connu
-- Hanoï augmente la surveillance des poussières de chantier par caméras d'IA - Laodong.vn — même sens (0.95)
+- Hanoï augmente la surveillance des poussières de chantier par caméras d'IA - Laodong.vn — lien déjà connu
