@@ -24,6 +24,7 @@ arxiv.org/abs/2611.22350v1
 arxiv.org/abs/2611.23063v1
 arxiv.org/abs/2611.23187v1
 arxiv.org/abs/2611.23187v2
+arxiv.org/abs/2611.25471v1
 canadianarchitect.com/generative-ai-arrives-at-architectures-stoop
 commonedge.org/ai-walks-into-an-architecture-firm
 commonedge.org/now-that-information-is-free-whats-a-college-campus-for
